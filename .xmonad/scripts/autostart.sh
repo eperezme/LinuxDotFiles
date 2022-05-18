@@ -17,7 +17,7 @@ function run {
 #xrandr --output LVDS1 --mode 1366x768 --output DP3 --mode 1920x1080 --right-of LVDS1
 #xrandr --output HDMI2 --mode 1920x1080 --pos 1920x0 --rotate normal --output HDMI1 --primary --mode 1920x1080 --pos 0x0 --rotate normal --output VIRTUAL1 --off
 
-(sleep 2; run $HOME/.config/polybar/launch.sh) &
+#(sleep 2; run $HOME/.config/polybar/launch.sh) &
 
 #change your keyboard if you need it
 #setxkbmap -layout be
@@ -36,8 +36,8 @@ xsetroot -cursor_name left_ptr &
 #starting utility applications at boot time
 #run variety &
 #run nm-applet &
-run pamac-tray &
-run xfce4-power-manager &
+#run pamac-tray &
+#run xfce4-power-manager &
 #run volumeicon &
 numlockx on &
 blueberry-tray &

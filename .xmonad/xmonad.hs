@@ -106,7 +106,7 @@ winType  = "#c678dd"
 --shiftMask= shift key
 
 
-myFont = "xft:SauceCodePro Nerd Font Mono:regular:size=9:antialias=true:hinting=true"
+myFont = "xft:Sauce Code Pro Nerd Font Complete Mono:regular:size=12:antialias=true:hinting=true"
 
 myModMask = mod4Mask                    -- ModKey Super Key
 
@@ -127,7 +127,7 @@ windowCount = gets $ Just . show . length . W.integrate' . W.stack . W.workspace
 
 
 myStartupHook = do
-    spawn "killall conky"   -- kill current conky on each restart
+    --spawn "killall conky"   -- kill current conky on each restart
 
     spawn "$HOME/.xmonad/scripts/autostart.sh"
     spawnOnce "lxsession"
@@ -135,7 +135,7 @@ myStartupHook = do
     spawnOnce "nm-applet"
     spawnOnce "volumeicon"
 
-    spawn ("sleep 2 && conky -c $HOME/.config/conky/xmonad/" ++ colorScheme ++ "-01.conkyrc")
+    --spawn ("sleep 2 && conky -c $HOME/.config/conky/xmonad/" ++ colorScheme ++ "-01.conkyrc")
 
     -- spawnOnce "xargs xwallpaper --stretch < ~/.cache/wall"
     -- spawnOnce "~/.fehbg &"  -- set last saved feh wallpaper
@@ -429,6 +429,10 @@ myKeys =
         , ("M-S-<KP_Add>", shiftTo Next nonNSP >> moveTo Next nonNSP)       -- Shifts focused window to next ws
         , ("M-S-<KP_Subtract>", shiftTo Prev nonNSP >> moveTo Prev nonNSP)  -- Shifts focused window to prev ws
 
+    -- KB_GROUP APPS
+        , ("M-e", spawn "thunar")
+        , ("M-r", spawn "ranger")
+
     -- KB_GROUP Floating windows
         , ("M-S-f", sendMessage (T.Toggle "floats")) -- Toggles my 'floats' layout
         , ("M-t", withFocused $ windows . W.sink)  -- Push floating window back to tile
@@ -444,17 +448,6 @@ myKeys =
         , ("C-g g", spawnSelected' myAppGrid)                 -- grid select favorite apps
         , ("C-g t", goToSelected $ mygridConfig myColorizer)  -- goto selected window
         , ("C-g b", bringSelected $ mygridConfig myColorizer) -- bring selected window
-
-    -- KB_GROUP Windows navigation
-        -- , ("M-m", windows W.focusMaster)  -- Move focus to the master window
-        -- , ("M-j", windows W.focusDown)    -- Move focus to the next window
-        -- , ("M-k", windows W.focusUp)      -- Move focus to the prev window
-        -- , ("M-S-m", windows W.swapMaster) -- Swap the focused window and the master window
-        -- , ("M-S-j", windows W.swapDown)   -- Swap focused window with next window
-        -- , ("M-S-k", windows W.swapUp)     -- Swap focused window with prev window
-        -- , ("M-<Backspace>", promote)      -- Moves focused window to master, others maintain order
-        -- , ("M-S-<Tab>", rotSlavesDown)    -- Rotate all windows except master and keep focus in place
-        -- , ("M-C-<Tab>", rotAllDown)       -- Rotate all the windows in the current stack
 
     -- KB_GROUP Layouts
         , ("M-<Tab>", nextWS)                           -- Switch to next WorkStation
@@ -489,6 +482,17 @@ myKeys =
         , ("M-s t", namedScratchpadAction myScratchPads "terminal")
         , ("M-s m", namedScratchpadAction myScratchPads "mocp")
         , ("M-s c", namedScratchpadAction myScratchPads "calculator")
+
+    -- KB_GROUP Windows navigation
+        -- , ("M-m", windows W.focusMaster)  -- Move focus to the master window
+        -- , ("M-j", windows W.focusDown)    -- Move focus to the next window
+        -- , ("M-k", windows W.focusUp)      -- Move focus to the prev window
+        -- , ("M-S-m", windows W.swapMaster) -- Swap the focused window and the master window
+        -- , ("M-S-j", windows W.swapDown)   -- Swap focused window with next window
+        -- , ("M-S-k", windows W.swapUp)     -- Swap focused window with prev window
+        -- , ("M-<Backspace>", promote)      -- Moves focused window to master, others maintain order
+        -- , ("M-S-<Tab>", rotSlavesDown)    -- Rotate all windows except master and keep focus in place
+        -- , ("M-C-<Tab>", rotAllDown)       -- Rotate all the windows in the current stack
 
     -- KB_GROUP Controls for mocp music player (SUPER-u followed by a key)
         -- , ("M-u p", spawn "mocp --play")
@@ -533,8 +537,8 @@ main :: IO ()
 main = do
     -- Launching three instances of xmobar on their monitors.
     xmproc0 <- spawnPipe ("xmobar -x 0 $HOME/.config/xmobar/" ++ colorScheme ++ "-xmobarrc")
-    xmproc1 <- spawnPipe ("xmobar -x 1 $HOME/.config/xmobar/" ++ colorScheme ++ "-xmobarrc")
-    xmproc2 <- spawnPipe ("xmobar -x 2 $HOME/.config/xmobar/" ++ colorScheme ++ "-xmobarrc")
+    -- xmproc1 <- spawnPipe ("xmobar -x 1 $HOME/.config/xmobar/" ++ colorScheme ++ "-xmobarrc")
+    -- xmproc2 <- spawnPipe ("xmobar -x 2 $HOME/.config/xmobar/" ++ colorScheme ++ "-xmobarrc")
     -- the xmonad, ya know...what the WM is named after!
     xmonad $ ewmh def
         { manageHook         = myManageHook <+> manageDocks
@@ -555,8 +559,8 @@ main = do
         , logHook = dynamicLogWithPP $ namedScratchpadFilterOutWorkspacePP $ xmobarPP
               -- XMOBAR SETTINGS
               { ppOutput = \x -> hPutStrLn xmproc0 x   -- xmobar on monitor 1
-                              >> hPutStrLn xmproc1 x   -- xmobar on monitor 2
-                              >> hPutStrLn xmproc2 x   -- xmobar on monitor 3
+                              -- >> hPutStrLn xmproc1 x   -- xmobar on monitor 2
+                              -- >> hPutStrLn xmproc2 x   -- xmobar on monitor 3
                 -- Current workspace
               , ppCurrent = xmobarColor color06 "" . wrap
                             ("<box type=Bottom width=2 mb=2 color=" ++ color06 ++ ">") "</box>"
