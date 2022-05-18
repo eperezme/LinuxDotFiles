@@ -1,0 +1,12 @@
+qrc:/ui/MainWindow/Meeting/MeetingJoinPanel.qml:69: TypeError: Cannot read property 'participantName' of null
+qrc:/ui/MainWindow/Meeting/MeetingJoinPanel.qml:17: TypeError: Cannot read property 'joinEnabled' of null
+qrc:/ui/MainWindow/Meeting/MeetingJoinPanel.qml:18: TypeError: Cannot read property 'joining' of null
+file:///opt/teamviewer/tv_bin/RTlib/qt/qml/QtQuick/Controls/Private/Style.qml:52:5: Unable to assign [undefined] to QQuickItem*
+file:///opt/teamviewer/tv_bin/RTlib/qt/qml/QtQuick/Controls/Styles/Base/ScrollViewStyle.qml:56:5: Unable to assign [undefined] to ScrollView_QMLTYPE_17*
+qrc:/ui/MainWindow/Onboarding/OnboardingTab.qml:80: TypeError: Cannot read property 'headline' of null
+qrc:/ui/MainWindow/Onboarding/OnboardingTab.qml:95: TypeError: Cannot read property 'image' of null
+qrc:/ui/MainWindow/Onboarding/OnboardingTab.qml:101: TypeError: Cannot read property 'text' of null
+QSystemTrayIcon::setVisible: No Icon set
+The X11 connection broke: I/O error (code 1)
+X connection to :0 broken (explicit kill or server shutdown).
+terminate called without an active exception

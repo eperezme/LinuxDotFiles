@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/edu/.config/qtile/config-qwerty.py" added="2022-05-16T18:46:02.110528Z" modified="2022-05-16T18:46:02.110532Z" visited="2022-05-16T18:46:02.110529Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-16T18:46:02.110530Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/.config/qtile/settings/groups.py" added="2022-05-16T18:49:21.201981Z" modified="2022-05-16T18:49:21.201985Z" visited="2022-05-16T18:49:21.201982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-16T18:49:21.201983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/Downloads" added="2022-05-16T19:01:38.072346Z" modified="2022-05-16T19:05:08.635927Z" visited="2022-05-16T19:01:38.072348Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2022-05-16T19:05:08.635926Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/Pictures/Wallpapers" added="2022-05-16T20:11:43.480771Z" modified="2022-05-16T20:11:43.480773Z" visited="2022-05-16T20:11:43.480771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2022-05-16T20:11:43.480772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/iommu.sh" added="2022-05-17T07:15:05.392091Z" modified="2022-05-17T07:15:05.392094Z" visited="2022-05-17T07:15:05.392092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-17T07:15:05.392093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/VM/ISO" added="2022-05-17T08:22:19.450342Z" modified="2022-05-17T08:22:19.450345Z" visited="2022-05-17T08:22:19.450343Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2022-05-17T08:22:19.450344Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/GitDotFiles/token" added="2022-05-17T09:12:21.217863Z" modified="2022-05-17T09:12:21.217866Z" visited="2022-05-17T09:12:21.217864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-17T09:12:21.217865Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/xmobar.config" added="2022-05-18T12:31:22.544559Z" modified="2022-05-18T12:31:22.544563Z" visited="2022-05-18T12:31:22.544560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-18T12:31:22.544561Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/.xmobarrc" added="2022-05-18T12:34:29.472354Z" modified="2022-05-18T12:34:29.472357Z" visited="2022-05-18T12:34:29.472355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-18T12:34:29.472356Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/xmonad.hs.backup" added="2022-05-18T13:08:05.517836Z" modified="2022-05-18T13:08:05.517838Z" visited="2022-05-18T13:08:05.517836Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-18T13:08:05.517837Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/.zshrc-personal" added="2022-05-18T13:40:53.089744Z" modified="2022-05-18T13:40:53.089748Z" visited="2022-05-18T13:40:53.089745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-18T13:40:53.089746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/edu/.config/xmobar/xmobarrc-no-battery" added="2022-05-18T14:16:17.953619Z" modified="2022-05-18T14:16:17.953623Z" visited="2022-05-18T14:16:17.953620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;subl %u&apos;" modified="2022-05-18T14:16:17.953621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

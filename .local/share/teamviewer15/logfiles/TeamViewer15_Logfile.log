@@ -1,0 +1,98 @@
+2022/05/16 20:54:03.887  6561 140257507476672 GX0   Logger started.
+2022/05/16 20:54:03.891  6561 140257507476672 GX0   Found 0 stack dump files ...
+2022/05/16 20:54:03.891  6561 140257507476672 GX0   Found 0 core dump files ...
+2022/05/16 20:54:03.891  6561 140257507476672 GX0   systemd: logind service available
+2022/05/16 20:54:03.892  6561 140257507476672 GX0   systemd: New seat seat0 [path=/org/freedesktop/login1/seat/seat0, activeSession='2', canGraphical=0, canTTY=1, canMultiSession=0]
+2022/05/16 20:54:03.892  6561 140257507476672 GX0   LogindSessionInfo: New session LogindSessionInfo [id=2 user=edu state=user active=1 reliable=1 infoId=450215437] [path=/org/freedesktop/login1/session/_32 TTY= seat=seat0 display=:0 vtnr=7 owner=[SysUser: edu [uid=1000, gid=1000 home=/home/edu gecos=edu shell=/bin/zsh]] idle=0(0) active=1 type=x11 class=user state=active timestamp=1652726711123463 service=lightdm defaultCG= leader=1128 audit=2 remote=0 rHost= rUser= killProc=0]
+2022/05/16 20:54:03.893  6561 140257507476672 GX0   SysSessionInfoManager: observing sessions from logind is marked as reliable
+2022/05/16 20:54:03.893  6561 140257507476672 GX0   SysSessionInfoManager: Session Information provided by VT [priority: 2]
+2022/05/16 20:54:03.894  6561 140257507476672 GX0   SysSessionInfoManager::SessionAdded: adding session XSession: 0 [SysSession 450215437 [type=88 vt=7 tty= pseudotty=0 info=1 id=2 user=edu state=user active=1 reliable=1]]
+2022/05/16 20:54:03.894  6561 140257507476672 GX0   SysSessionInfoManager::SessionAdded: adding session SysSession 3510599056 [type=70 vt=7 tty=/dev/tty0 pseudotty=0 info=1 id=/dev/fb0 user=root state=greeter active=0 reliable=1]
+2022/05/16 20:54:03.894  6561 140257507476672 GX0   SysSessionInfoManager::GetOwnProcessSession: own session cache set to '450215437'
+2022/05/16 20:54:03.900  6561 140257507476672 GX0   Running on Qt 5.15.2
+2022/05/16 20:54:03.954  6561 140257507476672 GX0   Initialised XRandR extension 1.6 (base=89 error=147)
+2022/05/16 20:54:03.960  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC DP-2 2560x1440@60Hz [0, 0, 2560, 1440] - 1
+2022/05/16 20:54:03.960  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2022/05/16 20:54:03.960  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2022/05/16 20:54:03.960  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2022/05/16 20:54:03.960  6561 140257507476672 GX0   Virtual Desktop [0, 0, 2560, 1440]
+2022/05/16 20:54:03.965  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC DP-2 2560x1440@60Hz [0, 0, 2560, 1440] - 1
+2022/05/16 20:54:03.965  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2022/05/16 20:54:03.965  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2022/05/16 20:54:03.965  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2022/05/16 20:54:03.965  6561 140257507476672 GX0   Virtual Desktop [0, 0, 2560, 1440]
+2022/05/16 20:54:03.965  6561 140257507476672 GX0!! MonitorInfo: WorkingArea: Property error 14 (0), Errorcode=2
+2022/05/16 20:54:03.970  6561 140257507476672 GX0   Loaded language 'en', using locale 'en'
+2022/05/16 20:54:03.970  6561 140257507476672 GX0   InterProcessBase::SecureNetwork created
+2022/05/16 20:54:03.970  6561 140257507476672 GX0   AutoLogin::Login: enabled: 1
+2022/05/16 20:54:03.970  6561 140257507476672 GX0   AccountLoginStateMachine::Reset
+2022/05/16 20:54:03.970  6561 140257507476672 GX0   VoIP: Constructor
+2022/05/16 20:54:03.970  6561 140253994133056 GX0   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2022/05/16 20:54:03.970  6561 140253994133056 GX0   Opening local TCP connection to 127.0.0.1:5939, tcp?
+2022/05/16 20:54:03.971  6561 140257473615424 GX0   Local TCP connection established
+2022/05/16 20:54:04.012  6561 140257448437312 GX0   SettingsIPCReception receive a SYNCHRONISE Settings command : UserSettings
+2022/05/16 20:54:04.012  6561 140257448437312 GX0   IpcRemoteSettingsHandler::HandleCommand UserSettings process sends sync settings response to network.
+2022/05/16 20:54:04.013  6561 140257398081088 GX0   Received Control_InitIPC_Response processtype=1
+2022/05/16 20:54:04.013  6561 140257398081088 GX0   Received Control_InitIPC_Response runningProcesses=3
+2022/05/16 20:54:04.013  6561 140257398081088 GX0   IPCConnection: all processes 3 completely initialized
+2022/05/16 20:54:04.013  6561 140253994133056 GX0   InterProcessBase::ConnectToOtherProcess: Process connected to service.
+2022/05/16 20:54:04.024  6561 140257507476672 GX0   
+Start:              2022/05/16 20:54:04.013 (UTC+2:00)
+Version:            15.28.6 
+Version short hash: 4d5333dbfb6
+ID:                 0
+Loglevel:           Info
+License:            0
+IC:                 1694165009
+CPU:                AMD Ryzen 7 5800X 8-Core Processor
+CPU extensions:     l9
+OS:                 Lx Arch Linux r l (64-bit)
+IP:                 192.168.1.72,192.168.1.20
+Proxy-Settings:     Type=0 IP= User=
+AppPath:            /opt/teamviewer/
+
+2022/05/16 20:54:05.562  6561 140257448437312 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: caa1dc53-b2aa-4e5c-8064-7228a4a60ee1)
+2022/05/16 20:54:05.562  6561 140257473615424 GX0   Account::UpdateState: KA = 1, active = 1
+2022/05/16 20:54:05.562  6561 140257448437312 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 3c3dbf37-d5e6-4709-a52a-a25cab77e4ee)
+2022/05/16 20:54:05.562  6561 140257507476672 GX0   Account::SetLoginState: new state: 2
+2022/05/16 20:54:05.562  6561 140257448437312 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 6e19f9d5-e8bc-4d62-8ae9-dbe5b4d9ae83)
+2022/05/16 20:54:05.562  6561 140257448437312 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 40fdf178-7f7d-45bb-a751-b42b262b8618)
+2022/05/16 20:54:05.562  6561 140257448437312 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 7729581b-f736-4e61-82dd-bbb9537edf35)
+2022/05/16 20:54:07.714  6561 140257507476672 GX0   SystemID m=1 s=0 48e9dd3548ce4d2784916b1cd022e5fe
+2022/05/16 20:54:07.715  6561 140257507476672 GX0!  OptOutManager::[]ResultCB: Send message result 0
+2022/05/16 20:54:07.715  6561 140257507476672 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 74a719f2-e14d-4ede-8730-ec3d729fe4bb)
+2022/05/16 20:54:07.715  6561 140257507476672 GX0   DynamicPasswordUIModel::ShouldShowDynamicPassword(): dynPw=1 allowIncoming=1 id=307844006 ka=1 lanAllowed=0 lanOnly=0 networkState=1 showDynPwd=1
+2022/05/16 20:54:07.715  6561 140257507476672 GX0   MDV2: IsDeviceManagementEnabled: mdv2: 1 management: 0
+2022/05/16 20:54:07.945  6561 140257398081088 GX0   CConnectionButtonState::UpdateImpl(): hideConnectionButton: 1, allowOutgoing: 1, isOnline: 0, masterConnect: 0
+2022/05/16 20:54:07.945  6561 140257423259200 GX0   IDLabelContent::UpdateImpl() IDs changed: SessionID "307844006", ServerID "307844006"
+2022/05/16 20:54:07.945  6561 140257465222720 GX0   CConnectionButtonState::UpdateImpl(): hideConnectionButton: 0, allowOutgoing: 1, isOnline: 1, masterConnect: 0
+2022/05/16 20:54:07.945  6561 140257507476672 GX0   Chat::Start: chat starting
+2022/05/16 20:54:07.990  6561 140257507476672 GX0   InterProcessBase::SetReadyToProcessCommands(1)
+2022/05/16 20:54:07.990  6561 140257389688384 GX0   ChatStateProvider::HandleStateChange: Switching from None to Online_NoCredentials (HasKeepAlive: 1, HasAutoLoginCredentials: 0, IsLoggedIn: 0)
+2022/05/16 20:54:07.990  6561 140257389688384 GX0   ChatManagerHolder::ClearAccountChat
+2022/05/16 20:54:07.990  6561 140257389688384 GX0   ChatManager::ChatManager: created
+2022/05/16 20:54:07.990  6561 140257389688384 GX0   ChatManager::Factory: ChatManager created
+2022/05/16 20:54:07.990  6561 140257389688384 GX0   IncomingBetterChatCommandHandler::IncomingBetterChatCommandHandler: created
+2022/05/16 20:54:07.990  6561 140257389688384 GX0   IncomingCommandRegistration::Start: registering for ready state properties
+2022/05/16 20:54:07.990  6561 140257389688384 GX0   InterProcessBase::SecureNetworkCallbackHandle created (RegistrationID: 4850818f-a43b-4d55-b8f8-c785a616dc6f)
+2022/05/16 20:54:07.991  6561 140257389688384 GX0   IncomingCommandRegistration::Register: Registered successfully for incoming commands (after 0 retries)
+2022/05/16 20:54:07.991  6561 140257507476672 GX0   Initialised XFixes extension (base=87 error=140)
+2022/05/16 20:54:07.992  6561 140257456830016 GX0   IpcRouterClock: received router time: 20220516T185407.695694
+2022/05/16 20:54:07.992  6561 140257490400832 GX0   MDV2: IsDeviceManagementEnabled: mdv2: 1 management: 0
+2022/05/16 20:54:07.992  6561 140257456830016 GX0!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2022/05/16 20:54:07.993  6561 140257456830016 GX0!! CMessageLayer::DisplayBCommandMessage: Invalid message. Message ID 7, Errorcode=11
+2022/05/16 20:54:12.195  6561 140257507476672 GX0   DBusStatusNotifier: active [0/1] (4)
+2022/05/16 21:03:44.140  6561 140252414998080 GX0   XClipboard: RequestClipboard as TARGETS (432)
+2022/05/16 21:03:44.141  6561 140252414998080 GX0   XClipboard: RequestClipboard as text/html (555)
+2022/05/16 21:03:44.141  6561 140252414998080 GX0   XClipboard: RequestClipboard as UTF8_STRING (314)
+2022/05/16 21:03:44.141  6561 140252414998080 GX0   XClipboard: Got clipboard as 'text/html', size (n=704, c=704)
+2022/05/16 21:03:44.141  6561 140252414998080 GX0   XClipboard: Got clipboard as 'UTF8_STRING', size (n=106, c=212)
+2022/05/16 21:03:48.172  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC DP-2 2560x1440@60Hz [0, 0, 2560, 1440] - 1
+2022/05/16 21:03:48.172  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 1 has no outputs
+2022/05/16 21:03:48.172  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 2 has no outputs
+2022/05/16 21:03:48.172  6561 140257507476672 GX0   MonitorInfo: [XRandR 1.2] CRTC 3 has no outputs
+2022/05/16 21:03:48.172  6561 140257507476672 GX0   Virtual Desktop [0, 0, 2560, 1440]
+2022/05/16 21:03:48.172  6561 140257507476672 GX0!! MonitorInfo: WorkingArea: Property error 14 (1), Errorcode=11
+2022/05/16 21:05:09.513  6561 140257507476672 GX0!!!Crash: stack dump has been written at '/home/edu/.local/share/teamviewer15/logfiles/TeamViewer_FI_15.28.6_2022-05-16-210509.amd64.stack', Errorcode=11
+2022/05/16 21:05:14.719  6561 140257507476672 GX0!!!Crash: Coredump has been written at '/home/edu/.local/share/teamviewer15/logfiles/TeamViewer_FI_15.28.6_2022-05-16-210509.amd64.core', Errorcode=11
+2022/05/16 21:05:14.720  6561 140257507476672 GX0   Process received fatal SIGSEGV
