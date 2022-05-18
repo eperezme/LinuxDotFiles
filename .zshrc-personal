@@ -1,0 +1,7 @@
+
+# PACMAN
+alias install='sudo pacman -Syyu --noconfirm --color auto' # INSTALL
+alias remove="sudo pacman -r"	# UNINSTALL
+
+#Dmenu
+alias dm="dmenu_run"

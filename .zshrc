@@ -185,7 +185,6 @@ alias merge="xrdb -merge ~/.Xresources"
 # pacman or pm
 alias pacman='sudo pacman --color auto'
 alias update='sudo pacman -Syyu'
-alias install='sudo pacman -Syyu --noconfirm --color auto'
 
 # paru as aur helper - updates everything
 alias pksyua="paru -Syu --noconfirm"
