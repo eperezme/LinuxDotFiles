@@ -67,7 +67,7 @@ import qualified XMonad.Layout.MultiToggle as MT (Toggle(..))
 import XMonad.Util.Dmenu
 import XMonad.Util.EZConfig (additionalKeysP)
 import XMonad.Util.NamedScratchpad
-import XMonad.Util.Run (runProcessWithInput, safeSpawn, spawnPipe)
+import XMonad.Util.Run (runProcessWithInput, safeSpawn, spawnPipe, runInTerm)
 import XMonad.Util.SpawnOnce
 
    -- Config
@@ -392,7 +392,7 @@ myKeys =
         , ("M-/", spawn "dtos-help")                  -- DTOS help/tutorial videos
 
     -- KB_GROUP Run Prompt
-        , ("M-<Space>", spawn "dmenu_run") -- Dmenu
+        , ("M-<Space>", spawn "~/.local/bin/dm-run") -- Dmenu
 
     -- KB_GROUP Other Dmenu Prompts
     -- In Xmonad and many tiling window managers, M-p is the default keybinding to
@@ -430,7 +430,7 @@ myKeys =
         , ("M-S-<KP_Subtract>", shiftTo Prev nonNSP >> moveTo Prev nonNSP)  -- Shifts focused window to prev ws
 
     -- KB_GROUP APPS
-        , ("M-e", spawn "thunar")
+        , ("M-e", spawn "pcmanfm")
         , ("M-r", spawn "ranger")
 
     -- KB_GROUP Floating windows

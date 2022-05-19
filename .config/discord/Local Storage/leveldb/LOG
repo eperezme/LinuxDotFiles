@@ -1,6 +1,12 @@
-2022/05/16-22:09:16.507 19ad Reusing MANIFEST /home/edu/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/05/16-22:09:16.508 19ad Recovering log #4
-2022/05/16-22:09:16.509 19ad Reusing old log /home/edu/.config/discord/Local Storage/leveldb/000004.log 
-2022/05/16-23:02:17.162 19ae Level-0 table #8: started
-2022/05/16-23:02:17.163 19ae Level-0 table #8: 12555 bytes OK
-2022/05/16-23:02:17.165 19ae Delete type=0 #4
+2022/05/19-22:01:37.461 6d5 Reusing MANIFEST /home/edu/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/19-22:01:37.461 6d5 Recovering log #7
+2022/05/19-22:01:37.461 6d5 Reusing old log /home/edu/.config/discord/Local Storage/leveldb/000007.log 
+2022/05/19-22:14:24.245 2704 Level-0 table #11: started
+2022/05/19-22:14:24.272 2704 Level-0 table #11: 433099 bytes OK
+2022/05/19-22:14:24.273 2704 Delete type=0 #7
+2022/05/19-21:55:50.921 a9b1 Level-0 table #13: started
+2022/05/19-21:55:50.942 a9b1 Level-0 table #13: 7672 bytes OK
+2022/05/19-21:55:50.948 a9b1 Delete type=0 #10
+2022/05/19-23:38:50.918 1bc71 Level-0 table #15: started
+2022/05/19-23:38:50.937 1bc71 Level-0 table #15: 9532 bytes OK
+2022/05/19-23:38:50.938 1bc71 Delete type=0 #12

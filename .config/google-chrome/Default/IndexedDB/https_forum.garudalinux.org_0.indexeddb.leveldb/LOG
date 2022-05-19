@@ -1,0 +1,6 @@
+2022/05/19-22:19:23.964 2465 Creating DB /home/edu/.config/google-chrome/Default/IndexedDB/https_forum.garudalinux.org_0.indexeddb.leveldb since it was missing.
+2022/05/19-22:19:23.984 2465 Reusing MANIFEST /home/edu/.config/google-chrome/Default/IndexedDB/https_forum.garudalinux.org_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/19-22:20:07.066 2cb8 Level-0 table #5: started
+2022/05/19-22:20:07.068 2cb8 Level-0 table #5: 87068 bytes OK
+2022/05/19-22:20:07.069 2cb8 Delete type=0 #3
+2022/05/19-22:20:07.069 2cb8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

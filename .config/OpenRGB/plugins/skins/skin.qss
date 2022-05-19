@@ -1,0 +1,37 @@
+QMainWindow {
+  background: qlineargradient(spread:pad, x1:0 y1:0, x2:1 y2:0, stop:0 rgba(255, 0, 0, 255), stop:0.2 rgba(255, 127, 0, 255), stop:0.4 rgba(255, 255, 0, 255), stop:0.65 rgba(0, 255, 0, 255), stop:0.75 rgba(0, 0, 255, 255), stop:0.85 rgba(46, 43, 95, 255), stop:1 rgba(139, 0, 255, 255));
+  color: #aad8d3; }
+
+QFrame {
+  background: #393e46;
+  color: #aad8d3; }
+
+QPushButton {
+  background: #393e46;
+  color: #aad8d3; }
+
+QComboBox {
+  background: #393e46;
+  color: #aad8d3; }
+
+QCheckBox {
+  color: #aad8d3; }
+
+QCheckBox::indicator:unchecked {
+  background: #aad8d3; }
+
+QCheckBox::indicator:checked {
+  background: #00adb5; }
+
+QTabBar {
+  background: #393e46; }
+
+QTabBar::tab {
+  background: #393e46;
+  color: #aad8d3; }
+
+QTabBar::tab:selected, QTabBar::tab:hover {
+  background: #00adb5;
+  color: #aad8d3; }
+
+/*# sourceMappingURL=skin2.qss.map */

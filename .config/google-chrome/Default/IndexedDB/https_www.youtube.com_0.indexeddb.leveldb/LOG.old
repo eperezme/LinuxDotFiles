@@ -1,3 +1,24 @@
-2022/05/17-09:14:37.947 5b9 Reusing MANIFEST /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/17-09:14:37.947 5b9 Recovering log #11
-2022/05/17-09:14:37.950 5b9 Reusing old log /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2022/05/19-23:18:51.359 2339e Reusing MANIFEST /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/19-23:18:51.359 2339e Recovering log #11
+2022/05/19-23:18:51.364 2339e Reusing old log /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2022/05/19-23:19:12.604 2339e Level-0 table #16: started
+2022/05/19-23:19:12.611 2339e Level-0 table #16: 1037956 bytes OK
+2022/05/19-23:19:12.612 2339e Delete type=0 #11
+2022/05/19-23:19:43.935 22148 Compacting 1@1 + 1@2 files
+2022/05/19-23:19:43.938 22148 Generated table #17@1: 351 keys, 43580 bytes
+2022/05/19-23:19:43.938 22148 Compacted 1@1 + 1@2 files => 43580 bytes
+2022/05/19-23:19:43.939 22148 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/19-23:19:43.940 22148 Delete type=2 #16
+2022/05/19-23:19:43.940 22148 Delete type=2 #13
+2022/05/19-23:22:28.558 2339e Level-0 table #19: started
+2022/05/19-23:22:28.561 2339e Level-0 table #19: 305833 bytes OK
+2022/05/19-23:22:28.562 2339e Delete type=0 #15
+2022/05/19-23:22:28.562 2339e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/05/19-23:22:28.562 2339e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 17392 : 1
+2022/05/19-23:22:28.562 2339e Compacting 1@1 + 1@2 files
+2022/05/19-23:22:28.564 2339e Generated table #20@1: 357 keys, 27546 bytes
+2022/05/19-23:22:28.564 2339e Compacted 1@1 + 1@2 files => 27546 bytes
+2022/05/19-23:22:28.565 2339e compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/19-23:22:28.565 2339e Delete type=2 #17
+2022/05/19-23:22:28.565 2339e Delete type=2 #19
+2022/05/19-23:22:28.565 2339e Manual compaction at level-1 from '\x00\x08\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 17392 : 1 .. (end); will stop at (end)

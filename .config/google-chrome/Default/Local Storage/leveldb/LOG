@@ -1,21 +1,3 @@
-2022/05/17-09:38:19.786 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/05/17-09:38:19.788 3 Recovering log #77
-2022/05/17-09:38:19.789 3 Reusing old log /home/edu/.config/google-chrome/Default/Local Storage/leveldb/000077.log 
-2022/05/17-09:49:09.606 e Level-0 table #81: started
-2022/05/17-09:49:09.612 e Level-0 table #81: 20587 bytes OK
-2022/05/17-09:49:09.614 e Delete type=0 #77
-2022/05/17-09:49:09.614 e Compacting 4@0 + 1@1 files
-2022/05/17-09:49:09.620 e Generated table #82@0: 559 keys, 590248 bytes
-2022/05/17-09:49:09.620 e Compacted 4@0 + 1@1 files => 590248 bytes
-2022/05/17-09:49:09.622 e compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/05/17-09:49:09.622 e Delete type=2 #71
-2022/05/17-09:49:09.622 e Delete type=2 #73
-2022/05/17-09:49:09.622 e Delete type=2 #75
-2022/05/17-09:49:09.622 e Delete type=2 #78
-2022/05/17-09:49:09.622 e Delete type=2 #81
-2022/05/17-09:52:00.006 e Level-0 table #84: started
-2022/05/17-09:52:00.011 e Level-0 table #84: 34824 bytes OK
-2022/05/17-09:52:00.013 e Delete type=0 #80
-2022/05/17-10:23:46.135 e Level-0 table #86: started
-2022/05/17-10:23:46.140 e Level-0 table #86: 63019 bytes OK
-2022/05/17-10:23:46.141 e Delete type=0 #83
+2022/05/20-00:09:46.404 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/20-00:09:46.425 3 Recovering log #129
+2022/05/20-00:09:46.426 3 Reusing old log /home/edu/.config/google-chrome/Default/Local Storage/leveldb/000129.log 

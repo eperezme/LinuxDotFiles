@@ -89,6 +89,11 @@
         <value type="string" value="networkmanager applet"/>
         <value type="string" value="clipman"/>
       </property>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="blueberry-tray.py"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
     </property>
     <property name="plugin-7" type="string" value="whiskermenu"/>
     <property name="clipman" type="empty">

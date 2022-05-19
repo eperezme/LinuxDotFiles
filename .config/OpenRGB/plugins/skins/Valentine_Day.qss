@@ -1,0 +1,349 @@
+* {
+    font-family: Segoe Script;
+    font-size: 12px;
+    font-weight: 1000;
+  }
+QMainWindow
+{
+    background:qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,stop: 0 black,stop: 0.2 #FF3333, stop: 0.6 #FF8066,stop: 1 black);
+    color: black;
+}
+
+/* External QTabWidget */
+
+QTabBar::tab:!selected {
+    margin-top: 3px; /* make non-selected tabs look smaller */
+    } 
+
+QTabBar
+{
+    background-color: #00000000;
+}
+
+QTabBar::tab
+{
+    background:qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,stop: 0 #FF3333,stop: 1 #FF6A4D);
+    border-left: 1px solid rgb(153,25,0);
+    border-top: 1px solid rgb(153,25,0);
+    border-bottom: 1px solid rgb(153,25,0);
+    border-right: 1px solid rgb(153,25,0);
+    border-top-right-radius: 15;
+    border-top-left-radius: 5;    
+    color:rgb(0, 0, 0);
+    padding:5px;
+}
+
+QTabBar::tab:selected
+{
+    background:qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,stop: 0 #FF6A4D,stop: 1 #FFAA99);
+    border: 1px solid #2e2e2e;
+    border-bottom: 1px solid #191919;
+}
+
+QTabBar::tab:hover
+{
+    background-color: #757575;
+    border: 1px solid #404040;
+}
+
+QTabWidget::pane
+{
+    /* This is the housing for all of the tabs*/
+    background:qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,stop: 0 #000000,stop: 0.5 #FF6A4D);
+    border: 1px solid #2e2e2e;
+    position: absolute;
+    top: -1px;
+}
+
+/* Internal QTabWidget */
+
+
+
+QTabWidget QWidget QTabBar::tab
+{
+    background-color: #FF8066;
+    padding-top: 4px;
+    padding-bottom: 5px;
+    height: 50px;
+    border: 10px;
+    border: 1px solid #5c5c5c;
+    border-right: 1px solid #2e2e2e;
+    margin-right: 0px;
+}
+
+QTabWidget QWidget QTabBar::tab:!selected
+{
+    background-color: #FF8066;
+    border-right: 1px solid #2e2e2e;
+    border-left: 1px solid #2e2e2e;
+    border-top: 1px solid #2e2e2e;
+}
+
+QTabWidget QWidget QTabBar::tab:selected
+{
+    background-color: #FF3333;
+    border: 1px solid #2e2e2e;
+    border-right: 1px solid #FF3333;
+}
+
+QTabWidget QWidget QTabBar::tab:last:!selected
+{
+    background-color: #FF8066;
+    border: 1px solid #2e2e2e;
+}
+
+QTabWidget QWidget QTabBar::tab:hover
+{
+    background-color: #5c5c5c;
+    border: 1px solid #5c5c5c;
+    border-right: 1px solid #2e2e2e;
+}
+
+QTabWidget QWidget QTabBar::tab:last:hover
+{
+    background-color: #5c5c5c;
+    border: 1px solid #5c5c5c;
+    border-right: 1px solid #2e2e2e;
+}
+
+QTabWidget QWidget QTabWidget::pane /* The contents of the tab (colors, modes, leds, etc.) */
+{
+    background:qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,
+                                 stop: 0  rgb(255,51,51), stop: 0.4 rgb(255,51,51),
+                                 stop: 0.4 rgb(0, 0, 0, 0), stop: 1.0 rgb(0, 0, 0, 0));
+    border-top: 1px solid #2e2e2e;
+    border: 1px solid #2e2e2e;
+    position: absolute;
+    top: 0px;
+    left: -1px;
+}
+
+/* QDialog boxes */
+
+QScrollArea
+{
+    background-color: #FF3333;
+    color: white;
+}
+
+QDialog::QWidget
+{
+    background: #FF3333;
+    background-color: #FF3333;
+    color: white;
+}
+
+QDialog QWidget::QDialogButtonBox
+{
+    background-color: #FF3333;
+    color: white;
+}
+
+QDialog QWidget::QLabel
+{
+    background-color: #FF3333;
+    color: white;
+}
+
+QDialog QWidget::QLineEdit
+{
+    background-color: #FF3333;
+    color: white;
+}
+
+/* Buttons and combo boxes */
+
+QPushButton, QToolButton
+{
+    padding: 3px;
+    background-color: #FF3333;
+    border: 1px solid #2e2e2e;
+    color: black;
+}
+
+QToolButton:hover
+{
+    background-color: #FF3333;
+}
+
+QMenu
+{
+    background-color: #FF3333;
+    border: 1px solid #2e2e2e;
+    color: white;
+}
+
+QMenu::item:selected
+{
+    background-color: #FF3333;
+}
+
+QComboBox
+{
+    padding: 1px;
+    background-color: #FF3333;
+    border: 1px solid black;
+    color: black;
+}
+
+QComboBox QAbstractItemView
+{
+    background:#FF3333;
+    color: white;
+    border: 1px solid #2e2e2e;
+    selection-background-color: #FF3333;
+}
+
+QComboBox:hover
+{
+    background-color: #FF3333;
+}
+
+QScrollBar:vertical
+{
+    background: #2e2e2e;
+    border: 0px;
+    margin: 0px 0px;
+    width: 15px;
+}
+
+/* Arrow images
+QScrollBar::up-arrow
+{
+    image: url(":/arrow-up.png");
+}
+
+QScrollBar::down-arrow
+{
+    image: url(":/arrow-down.png");
+} */
+
+QScrollBar::handle:vertical
+{
+    background-color: #FF8066;
+}
+
+QScrollBar::handle:vertical:hover
+{
+    background-color: #FF3333;
+}
+
+QComboBox::drop-down
+{
+    border: 0px;
+}
+
+QComboBox::down-arrow
+{
+    image: url(":/arrow-down.png");
+}
+
+QPushButton:!disabled:hover, QComboBox:!disabled:hover
+{
+    background-color: #4F4F4F;
+}
+
+
+QComboBox QAbstractItemView QScrollBar::handle:hover
+{
+    background-color: #7A7A7A;
+}
+
+QPushButton:!disabled:hover, QComboBox:!disabled:hover
+{
+    background-color: #FF8066;
+}
+
+QPushButton:disabled, QComboBox:disabled
+{
+    background-color: #404040;
+    color: #FF3333;
+}
+
+QPushButton:flat
+{
+    border: 0px;
+}
+
+QRadioButton
+{
+    color: #FF8066;
+}
+
+QRadioButton::disabled
+{
+    color: #5B5B5B;
+}
+
+/* Line edits and block edits */
+
+QLineEdit, QSpinBox
+{
+    background:qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0,
+                                 stop: 0  rgb(255,51,51), stop: 0.4 rgb(255,51,51),
+                                 stop: 0.4 rgb(0, 0, 0, 0), stop: 1.0 rgb(0, 0, 0, 0));
+    border: 1px solid #5B5B5B;
+    color: white;
+    padding: 1px;
+}
+
+QTreeView
+{
+    background-color: #FF8066;
+    color: white;
+}
+
+QHeaderView::section
+{
+    background-color: #FF3333;
+    color: white;
+}
+
+QPlainTextEdit
+{
+    background: #FF3333;
+    color: white;
+}
+
+/* QProgressBar and QSlider */
+
+QProgressBar
+{
+    border: 1px solid #2e2e2e;
+    background-color: #FF8066;
+    color: #FF3333;
+}
+
+QDialog
+{
+    background-color: #5c5c5c
+}
+
+/* QTableWidgets */
+
+QTableWidget
+{
+    background-color: #FF3333;
+    color: white;
+}
+
+QTableWidget QTableCornerButton::section
+{
+    background-color: #FF3333;
+}
+
+/* QScrollAreas */
+
+QScrollArea QWidget
+{
+    background-color: #FF8066;
+    color: black;
+}
+
+/* QListWidgets */
+
+QListWidget
+{
+    background-color: #FF8066;
+    color: rgb(10, 10, 10);
+}

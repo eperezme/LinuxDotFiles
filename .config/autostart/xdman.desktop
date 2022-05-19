@@ -7,4 +7,4 @@ Exec="/opt/xdman/jre/bin/java" -Xmx1024m -jar "/opt/xdman/xdman.jar" -m
 Name=Xtreme Download Manager
 Comment=Xtreme Download Manager
 Categories=Network;
-Icon=/opt/xdman/icon.png
+Icon=false=falseHidden=false

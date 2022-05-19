@@ -1,9 +1,6 @@
-2022/05/17-09:38:19.788 763 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/05/17-09:38:19.788 763 Recovering log #29
-2022/05/17-09:38:19.789 763 Reusing old log /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/000029.log 
-2022/05/17-09:49:38.503 2253 Level-0 table #34: started
-2022/05/17-09:49:38.508 2253 Level-0 table #34: 128451 bytes OK
-2022/05/17-09:49:38.509 2253 Delete type=0 #29
-2022/05/17-10:37:06.927 4328 Level-0 table #36: started
-2022/05/17-10:37:06.930 4328 Level-0 table #36: 137671 bytes OK
-2022/05/17-10:37:06.936 4328 Delete type=0 #33
+2022/05/20-00:09:46.583 d97 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/05/20-00:09:46.583 d97 Recovering log #55
+2022/05/20-00:09:46.584 d97 Reusing old log /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/000055.log 
+2022/05/20-00:15:29.124 de8 Level-0 table #59: started
+2022/05/20-00:15:29.129 de8 Level-0 table #59: 101048 bytes OK
+2022/05/20-00:15:29.130 de8 Delete type=0 #55

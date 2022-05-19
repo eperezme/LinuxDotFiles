@@ -1,0 +1,51 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220520_004324
+====================================================================================================
+
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    |               Start device detection               |
+1001  |Info:    ------------------------------------------------------
+1001  |Info:    Initializing HID interfaces: Success
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    |             Detecting I2C interfaces               |
+1004  |Info:    ------------------------------------------------------
+1005  |Info:    Registering I2C interface: /dev/i2c-3 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:2414 Subsystem: 19DA:6630
+1005  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:2414 Subsystem: 19DA:6630
+1005  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:2414 Subsystem: 19DA:6630
+1005  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-0 Device 0000:0000 Subsystem: 0000:0000
+1005  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:2414 Subsystem: 19DA:6630
+1005  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:2414 Subsystem: 19DA:6630
+1005  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:2414 Subsystem: 19DA:6630
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Detecting I2C devices                |
+1005  |Info:    ------------------------------------------------------
+1040  |Info:    Loading plugins
+1371  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1383  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1784  |Info:    ------------------------------------------------------
+1784  |Info:    |               Detecting HID devices                |
+1784  |Info:    ------------------------------------------------------
+1815  |Info:    [ASUS ROG STRIX B550-E GAMING] Registering RGB controller
+1817  |Info:    [Corsair Lighting Node Pro] Registering RGB controller
+1818  |Info:    [Corsair Commander Pro] Registering RGB controller
+2833  |Info:    [Corsair Strafe MK.2] Registering RGB controller
+3186  |Info:    Unable add this Logitech device: Not Connected
+3540  |Info:    Unable add this Logitech device: Not Connected
+3894  |Info:    Unable add this Logitech device: Not Connected
+4248  |Info:    Unable add this Logitech device: Not Connected
+4602  |Info:    Unable add this Logitech device: Not Connected
+4956  |Info:    Unable add this Logitech device: Not Connected
+5310  |Info:    Unable add this Logitech device: Not Connected
+5664  |Info:    Unable add this Logitech device: Not Connected
+6018  |Info:    Unable add this Logitech device: Not Connected
+6372  |Info:    Unable add this Logitech device: Not Connected
+6372  |Info:    ------------------------------------------------------
+6372  |Info:    |              Detecting other devices               |
+6372  |Info:    ------------------------------------------------------
+6376  |Info:    ------------------------------------------------------
+6376  |Info:    |                Detection completed                 |
+6376  |Info:    ------------------------------------------------------

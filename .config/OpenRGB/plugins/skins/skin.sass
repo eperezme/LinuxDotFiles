@@ -1,0 +1,50 @@
+$main-text-color: #aad8d3
+$main-background-color: #{"qlineargradient(spread:pad, x1:0 y1:0, x2:1 y2:0, stop:0 rgba(255, 0, 0, 255), stop:0.2 rgba(255, 127, 0, 255), stop:0.4 rgba(255, 255, 0, 255), stop:0.65 rgba(0, 255, 0, 255), stop:0.75 rgba(0, 0, 255, 255), stop:0.85 rgba(46, 43, 95, 255), stop:1 rgba(139, 0, 255, 255))"}
+$frame-text-color: #aad8d3
+$frame-background-color: #393e46
+$button-background-color: #393e46
+$button-text-color: #aad8d3
+$combo-background-color: #393e46
+$combo-text-color: #aad8d3
+$checkbox-text-color: #aad8d3
+$checkbox-unchecked-color: #aad8d3
+$checkbox-checked-color: #00adb5
+$tabbar-background-color: #393e46
+$tabbar-selected-background-color: #00adb5
+$tabbar-text-color: #aad8d3
+
+QMainWindow
+  background: $main-background-color
+  color: $main-text-color
+
+QFrame
+  background: $frame-background-color
+  color: $frame-text-color
+
+QPushButton
+  background: $button-background-color
+  color: $button-text-color
+
+QComboBox
+  background: $combo-background-color
+  color: $combo-text-color
+
+QCheckBox  
+  color: $checkbox-text-color
+
+QCheckBox::indicator:unchecked
+  background: $checkbox-unchecked-color
+
+QCheckBox::indicator:checked
+  background: $checkbox-checked-color
+
+QTabBar
+  background: $tabbar-background-color
+
+QTabBar::tab
+  background: $tabbar-background-color
+  color: $tabbar-text-color
+
+QTabBar::tab:selected, QTabBar::tab:hover 
+  background: $tabbar-selected-background-color
+  color: $tabbar-text-color
