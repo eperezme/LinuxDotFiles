@@ -114,7 +114,7 @@ myTerminal = "alacritty"                -- Terminal Alacritty
 
 myBrowser = "google-chrome-stable"      -- Browser Chrome
 
-myEditor = "subl"                       -- Editor Sublime
+myEditor = "emacsclient -c -a 'emacs' " -- Sets emacs as editor
 
 myBorderWidth = 2                       -- Sets border width for windows
 
@@ -122,6 +122,7 @@ myNormColor = colorBack                 -- Color of Normal windows, imported fro
 
 myFocusColor = color15                  -- Border color of Focused windows, imported from Colors.THEME
 
+myEmacs = "emacsclient -c -a 'emacs' "  -- EMACS
 
 windowCount = gets $ Just . show . length . W.integrate' . W.stack . W.workspace . W.current . windowset
 
@@ -430,7 +431,7 @@ myKeys =
         , ("M-S-<KP_Subtract>", shiftTo Prev nonNSP >> moveTo Prev nonNSP)  -- Shifts focused window to prev ws
 
     -- KB_GROUP APPS
-        , ("M-e", spawn "pcmanfm")
+        , ("M-e", spawn (myEmacs))
         , ("M-r", spawn "ranger")
 
     -- KB_GROUP Floating windows
@@ -501,16 +502,16 @@ myKeys =
         -- , ("M-u <Space>", spawn "mocp --toggle-pause")
 
     -- KB_GROUP Emacs (SUPER-e followed by a key)
-        -- , ("M-e e", spawn (myEmacs ++ ("--eval '(dashboard-refresh-buffer)'")))   -- emacs dashboard
-        -- , ("M-e b", spawn (myEmacs ++ ("--eval '(ibuffer)'")))   -- list buffers
-        -- , ("M-e d", spawn (myEmacs ++ ("--eval '(dired nil)'"))) -- dired
-        -- , ("M-e i", spawn (myEmacs ++ ("--eval '(erc)'")))       -- erc irc client
-        -- , ("M-e n", spawn (myEmacs ++ ("--eval '(elfeed)'")))    -- elfeed rss
-        -- , ("M-e s", spawn (myEmacs ++ ("--eval '(eshell)'")))    -- eshell
-        -- , ("M-e t", spawn (myEmacs ++ ("--eval '(mastodon)'")))  -- mastodon.el
-        -- , ("M-e v", spawn (myEmacs ++ ("--eval '(+vterm/here nil)'"))) -- vterm if on Doom Emacs
-        -- , ("M-e w", spawn (myEmacs ++ ("--eval '(doom/window-maximize-buffer(eww \"distro.tube\"))'"))) -- eww browser if on Doom Emacs
-        -- , ("M-e a", spawn (myEmacs ++ ("--eval '(emms)' --eval '(emms-play-directory-tree \"~/Music/\")'")))
+        , ("M-e e", spawn (myEmacs ++ ("--eval '(dashboard-refresh-buffer)'")))   -- emacs
+        , ("M-e b", spawn (myEmacs ++ ("--eval '(ibuffer)'")))   -- list buffers
+        , ("M-e d", spawn (myEmacs ++ ("--eval '(dired nil)'"))) -- dired
+        , ("M-e i", spawn (myEmacs ++ ("--eval '(erc)'")))       -- erc irc client
+        , ("M-e n", spawn (myEmacs ++ ("--eval '(elfeed)'")))    -- elfeed rss
+        , ("M-e s", spawn (myEmacs ++ ("--eval '(eshell)'")))    -- eshell
+        , ("M-e t", spawn (myEmacs ++ ("--eval '(mastodon)'")))  -- mastodon.el
+        , ("M-e v", spawn (myEmacs ++ ("--eval '(+vterm/here nil)'"))) -- vterm if on Doom Emacs
+        , ("M-e w", spawn (myEmacs ++ ("--eval '(doom/window-maximize-buffer(eww \"distro.tube\"))'"))) -- eww browser if on Doom Emacs
+        , ("M-e a", spawn (myEmacs ++ ("--eval '(emms)' --eval '(emms-play-directory-tree \"~/Music/\")'")))
 
     -- KB_GROUP Multimedia Keys
         , ("<XF86AudioPlay>", spawn "mocp --play")

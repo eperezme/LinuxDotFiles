@@ -115,8 +115,8 @@ export HISTCONTROL=ignoreboth:erasedups
 
 # Make nano the default editor
 
-export EDITOR='nvim'
-export VISUAL='subl'
+export EDITOR='emacs'
+export VISUAL='emacs'
 
 #PS1='[\u@\h \W]\$ '
 

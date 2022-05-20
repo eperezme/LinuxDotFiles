@@ -1,21 +1,18 @@
-2022/05/19-21:34:34.268 1543d Reusing MANIFEST /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2022/05/19-21:34:34.269 1543d Recovering log #47
-2022/05/19-21:34:34.269 1543d Reusing old log /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/000047.log 
-2022/05/19-22:03:28.796 1a0e2 Level-0 table #51: started
-2022/05/19-22:03:28.800 1a0e2 Level-0 table #51: 106608 bytes OK
-2022/05/19-22:03:28.801 1a0e2 Delete type=0 #47
-2022/05/19-22:03:28.802 1a0e2 Compacting 4@0 + 1@1 files
-2022/05/19-22:03:28.804 1a0e2 Generated table #52@0: 153 keys, 36309 bytes
-2022/05/19-22:03:28.804 1a0e2 Compacted 4@0 + 1@1 files => 36309 bytes
-2022/05/19-22:03:28.805 1a0e2 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/05/19-22:03:28.805 1a0e2 Delete type=2 #48
-2022/05/19-22:03:28.805 1a0e2 Delete type=2 #46
-2022/05/19-22:03:28.805 1a0e2 Delete type=2 #44
-2022/05/19-22:03:28.805 1a0e2 Delete type=2 #42
-2022/05/19-22:03:28.805 1a0e2 Delete type=2 #51
-2022/05/19-22:45:38.207 1c853 Level-0 table #54: started
-2022/05/19-22:45:38.208 1c853 Level-0 table #54: 134655 bytes OK
-2022/05/19-22:45:38.209 1c853 Delete type=0 #50
-2022/05/19-23:31:58.231 2339e Level-0 table #56: started
-2022/05/19-23:31:58.236 2339e Level-0 table #56: 99276 bytes OK
-2022/05/19-23:31:58.237 2339e Delete type=0 #53
+2022/05/20-10:05:04.394 c65 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/05/20-10:05:04.394 c65 Recovering log #58
+2022/05/20-10:05:04.395 c65 Reusing old log /home/edu/.config/google-chrome/Default/Sync Data/LevelDB/000058.log 
+2022/05/20-10:36:06.908 556a Level-0 table #62: started
+2022/05/20-10:36:06.914 556a Level-0 table #62: 90400 bytes OK
+2022/05/20-10:36:06.915 556a Delete type=0 #58
+2022/05/20-10:36:06.915 556a Compacting 4@0 + 1@1 files
+2022/05/20-10:36:06.917 556a Generated table #63@0: 163 keys, 37564 bytes
+2022/05/20-10:36:06.917 556a Compacted 4@0 + 1@1 files => 37564 bytes
+2022/05/20-10:36:06.917 556a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/20-10:36:06.918 556a Delete type=2 #56
+2022/05/20-10:36:06.918 556a Delete type=2 #59
+2022/05/20-10:36:06.918 556a Delete type=2 #62
+2022/05/20-10:36:06.918 556a Delete type=2 #52
+2022/05/20-10:36:06.918 556a Delete type=2 #54
+2022/05/20-11:24:45.472 afa0 Level-0 table #65: started
+2022/05/20-11:24:45.493 afa0 Level-0 table #65: 94352 bytes OK
+2022/05/20-11:24:45.494 afa0 Delete type=0 #61

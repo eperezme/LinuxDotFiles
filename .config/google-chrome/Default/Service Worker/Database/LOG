@@ -1,3 +1,3 @@
-2022/05/20-00:09:46.763 da3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
-2022/05/20-00:09:46.763 da3 Recovering log #3
-2022/05/20-00:09:46.764 da3 Reusing old log /home/edu/.config/google-chrome/Default/Service Worker/Database/000003.log 
+2022/05/20-11:55:40.000 544 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
+2022/05/20-11:55:40.046 544 Recovering log #3
+2022/05/20-11:55:40.048 544 Reusing old log /home/edu/.config/google-chrome/Default/Service Worker/Database/000003.log 

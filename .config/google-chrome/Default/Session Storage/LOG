@@ -1,15 +1,6 @@
-2022/05/20-00:09:46.750 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2022/05/20-00:09:46.750 3 Recovering log #26
-2022/05/20-00:09:46.751 3 Reusing old log /home/edu/.config/google-chrome/Default/Session Storage/000026.log 
-2022/05/20-00:13:54.541 3 Level-0 table #30: started
-2022/05/20-00:13:54.545 3 Level-0 table #30: 19138 bytes OK
-2022/05/20-00:13:54.546 3 Delete type=0 #26
-2022/05/20-00:13:54.547 3 Compacting 4@0 + 1@1 files
-2022/05/20-00:13:54.549 3 Generated table #31@0: 1808 keys, 28968 bytes
-2022/05/20-00:13:54.549 3 Compacted 4@0 + 1@1 files => 28968 bytes
-2022/05/20-00:13:54.550 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/05/20-00:13:54.550 3 Delete type=2 #24
-2022/05/20-00:13:54.550 3 Delete type=2 #27
-2022/05/20-00:13:54.550 3 Delete type=2 #30
-2022/05/20-00:13:54.550 3 Delete type=2 #22
-2022/05/20-00:13:54.550 3 Delete type=2 #19
+2022/05/20-11:55:39.970 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/05/20-11:55:39.971 3 Recovering log #29
+2022/05/20-11:55:39.972 3 Reusing old log /home/edu/.config/google-chrome/Default/Session Storage/000029.log 
+2022/05/20-11:55:44.945 3 Level-0 table #34: started
+2022/05/20-11:55:44.971 3 Level-0 table #34: 19016 bytes OK
+2022/05/20-11:55:44.973 3 Delete type=0 #29

@@ -1,15 +1,6 @@
-2022/05/19-21:34:34.467 15489 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Extension State/MANIFEST-000001
-2022/05/19-21:34:34.467 15489 Recovering log #15
-2022/05/19-21:34:34.469 15489 Reusing old log /home/edu/.config/google-chrome/Default/Extension State/000015.log 
-2022/05/19-22:13:57.830 1ad0d Level-0 table #19: started
-2022/05/19-22:13:57.840 1ad0d Level-0 table #19: 2209769 bytes OK
-2022/05/19-22:13:57.842 1ad0d Delete type=0 #15
-2022/05/19-22:13:57.842 1ad0d Compacting 4@0 + 1@1 files
-2022/05/19-22:13:57.928 1ad0d Generated table #20@0: 4 keys, 14629 bytes
-2022/05/19-22:13:57.928 1ad0d Compacted 4@0 + 1@1 files => 14629 bytes
-2022/05/19-22:13:57.929 1ad0d compacted to: files[ 0 1 1 0 0 0 0 ]
-2022/05/19-22:13:57.929 1ad0d Delete type=2 #10
-2022/05/19-22:13:57.929 1ad0d Delete type=2 #16
-2022/05/19-22:13:57.929 1ad0d Delete type=2 #8
-2022/05/19-22:13:57.929 1ad0d Delete type=2 #19
-2022/05/19-22:13:57.929 1ad0d Delete type=2 #13
+2022/05/20-10:05:04.870 c51 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Extension State/MANIFEST-000001
+2022/05/20-10:05:04.870 c51 Recovering log #18
+2022/05/20-10:05:04.878 c51 Reusing old log /home/edu/.config/google-chrome/Default/Extension State/000018.log 
+2022/05/20-10:58:28.623 80b4 Level-0 table #23: started
+2022/05/20-10:58:28.633 80b4 Level-0 table #23: 2235633 bytes OK
+2022/05/20-10:58:28.634 80b4 Delete type=0 #18
