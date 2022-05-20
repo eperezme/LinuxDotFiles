@@ -5,3 +5,10 @@ alias remove="sudo pacman -r"	# UNINSTALL
 
 #Dmenu
 alias dm="dmenu_run"
+
+#Git
+alias push="git push origin main"
+alias pull='git pull'
+alias add='git add *'
+alias commit='git commit -m'
+
