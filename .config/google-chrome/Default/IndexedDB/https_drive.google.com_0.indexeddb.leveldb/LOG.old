@@ -1,0 +1,5 @@
+2022/05/20-21:51:27.805 688 Creating DB /home/edu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2022/05/20-21:51:27.807 688 Reusing MANIFEST /home/edu/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/20-21:57:48.439 14dd Level-0 table #5: started
+2022/05/20-21:57:48.454 14dd Level-0 table #5: 1750114 bytes OK
+2022/05/20-21:57:48.455 14dd Delete type=0 #3

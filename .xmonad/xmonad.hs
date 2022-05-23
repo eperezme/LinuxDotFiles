@@ -135,6 +135,8 @@ myStartupHook = do
     --spawnOnce "picom"
     spawnOnce "nm-applet"
     spawnOnce "volumeicon"
+    spawnOnce "/usr/bin/emacs --daemon" -- emacs daemon for the emacsclient
+
 
     --spawn ("sleep 2 && conky -c $HOME/.config/conky/xmonad/" ++ colorScheme ++ "-01.conkyrc")
 
@@ -389,9 +391,7 @@ myKeys =
         , ("M-C-q", io exitSuccess)                   -- Quits xmonad
 
     -- KB_GROUP Get Help
-        , ("M-S-F1", spawn "~/.xmonad/xmonad_keys.sh") -- Get list of keybindings
-        , ("M-/", spawn "dtos-help")                  -- DTOS help/tutorial videos
-
+        , ("M-S-<Esc>", spawn "archlinux-logout")
     -- KB_GROUP Run Prompt
         , ("M-<Space>", spawn "~/.local/bin/dm-run") -- Dmenu
 
@@ -401,8 +401,8 @@ myKeys =
         , ("M-p h", spawn "dm-hub")           -- allows access to all dmscripts
         , ("M-p a", spawn "dm-sounds")        -- choose an ambient background
         , ("M-p b", spawn "dm-setbg")         -- set a background
-        , ("M-p c", spawn "dtos-colorscheme") -- choose a colorscheme
-        , ("M-p C", spawn "dm-colpick")       -- pick color from our scheme
+        --, ("M-p c", spawn "dtos-colorscheme") -- choose a colorscheme
+        --, ("M-p C", spawn "dm-colpick")       -- pick color from our scheme
         , ("M-p e", spawn "dm-confedit")      -- edit config files
         , ("M-p i", spawn "dm-maim")          -- screenshots (images)
         , ("M-p k", spawn "dm-kill")          -- kill processes
@@ -419,7 +419,7 @@ myKeys =
         , ("M-<Return>", spawn (myTerminal))
         , ("M-b", spawn (myBrowser))
         , ("M-M1-h", spawn (myTerminal ++ " -e htop"))
-
+        , ("M-c", spawn (myEmacs))
     -- KB_GROUP Kill windows
         , ("M-q", kill1)     -- Kill the currently focused client
         , ("M-S-q", killAll)   -- Kill all windows on current workspace
@@ -431,8 +431,8 @@ myKeys =
         , ("M-S-<KP_Subtract>", shiftTo Prev nonNSP >> moveTo Prev nonNSP)  -- Shifts focused window to prev ws
 
     -- KB_GROUP APPS
-        , ("M-e", spawn (myEmacs))
-        , ("M-r", spawn "ranger")
+        , ("M-e", spawn "pcmanfm")
+        , ("M-r", spawn "alacritty -e ranger")
 
     -- KB_GROUP Floating windows
         , ("M-S-f", sendMessage (T.Toggle "floats")) -- Toggles my 'floats' layout
@@ -502,16 +502,16 @@ myKeys =
         -- , ("M-u <Space>", spawn "mocp --toggle-pause")
 
     -- KB_GROUP Emacs (SUPER-e followed by a key)
-        , ("M-e e", spawn (myEmacs ++ ("--eval '(dashboard-refresh-buffer)'")))   -- emacs
-        , ("M-e b", spawn (myEmacs ++ ("--eval '(ibuffer)'")))   -- list buffers
-        , ("M-e d", spawn (myEmacs ++ ("--eval '(dired nil)'"))) -- dired
-        , ("M-e i", spawn (myEmacs ++ ("--eval '(erc)'")))       -- erc irc client
-        , ("M-e n", spawn (myEmacs ++ ("--eval '(elfeed)'")))    -- elfeed rss
-        , ("M-e s", spawn (myEmacs ++ ("--eval '(eshell)'")))    -- eshell
-        , ("M-e t", spawn (myEmacs ++ ("--eval '(mastodon)'")))  -- mastodon.el
-        , ("M-e v", spawn (myEmacs ++ ("--eval '(+vterm/here nil)'"))) -- vterm if on Doom Emacs
-        , ("M-e w", spawn (myEmacs ++ ("--eval '(doom/window-maximize-buffer(eww \"distro.tube\"))'"))) -- eww browser if on Doom Emacs
-        , ("M-e a", spawn (myEmacs ++ ("--eval '(emms)' --eval '(emms-play-directory-tree \"~/Music/\")'")))
+        --, ("M-e e", spawn (myEmacs ++ ("--eval '(dashboard-refresh-buffer)'")))   -- emacs
+        --, ("M-e b", spawn (myEmacs ++ ("--eval '(ibuffer)'")))   -- list buffers
+        --, ("M-e d", spawn (myEmacs ++ ("--eval '(dired nil)'"))) -- dired
+        --, ("M-e i", spawn (myEmacs ++ ("--eval '(erc)'")))       -- erc irc client
+        --, ("M-e n", spawn (myEmacs ++ ("--eval '(elfeed)'")))    -- elfeed rss
+        --, ("M-e s", spawn (myEmacs ++ ("--eval '(eshell)'")))    -- eshell
+        --, ("M-e t", spawn (myEmacs ++ ("--eval '(mastodon)'")))  -- mastodon.el
+        --, ("M-e v", spawn (myEmacs ++ ("--eval '(+vterm/here nil)'"))) -- vterm if on Doom Emacs
+        --, ("M-e w", spawn (myEmacs ++ ("--eval '(doom/window-maximize-buffer(eww \"distro.tube\"))'"))) -- eww browser if on Doom Emacs
+        --, ("M-e a", spawn (myEmacs ++ ("--eval '(emms)' --eval '(emms-play-directory-tree \"~/Music/\")'")))
 
     -- KB_GROUP Multimedia Keys
         , ("<XF86AudioPlay>", spawn "mocp --play")

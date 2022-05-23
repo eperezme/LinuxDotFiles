@@ -1,21 +1,12 @@
-2022/05/20-11:56:07.599 543 Reusing MANIFEST /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/05/20-11:56:07.599 543 Recovering log #25
-2022/05/20-11:56:07.613 543 Reusing old log /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000025.log 
-2022/05/20-12:14:11.420 2598 Level-0 table #30: started
-2022/05/20-12:14:11.428 2598 Level-0 table #30: 1202140 bytes OK
-2022/05/20-12:14:11.429 2598 Delete type=0 #25
-2022/05/20-12:16:35.313 2750 Compacting 1@1 + 1@2 files
-2022/05/20-12:16:35.337 2750 Generated table #31@1: 584 keys, 87746 bytes
-2022/05/20-12:16:35.337 2750 Compacted 1@1 + 1@2 files => 87746 bytes
-2022/05/20-12:16:35.338 2750 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/05/20-12:44:11.242 4f5a Level-0 table #33: started
-2022/05/20-12:44:11.251 4f5a Level-0 table #33: 1370539 bytes OK
-2022/05/20-12:44:11.253 4f5a Delete type=0 #29
-2022/05/20-12:44:11.253 4f5a Delete type=2 #27
-2022/05/20-12:44:11.253 4f5a Delete type=2 #30
-2022/05/20-12:44:16.245 4f5a Compacting 1@1 + 1@2 files
-2022/05/20-12:44:16.249 4f5a Generated table #34@1: 442 keys, 34182 bytes
-2022/05/20-12:44:16.249 4f5a Compacted 1@1 + 1@2 files => 34182 bytes
-2022/05/20-12:44:16.250 4f5a compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/05/20-12:44:16.250 4f5a Delete type=2 #33
-2022/05/20-12:44:16.250 4f5a Delete type=2 #31
+2022/05/23-12:28:25.834 29cd Reusing MANIFEST /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/23-12:28:25.835 29cd Recovering log #49
+2022/05/23-12:28:25.843 29cd Reusing old log /home/edu/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000049.log 
+2022/05/23-12:28:57.767 29ee Level-0 table #54: started
+2022/05/23-12:28:57.773 29ee Level-0 table #54: 1075242 bytes OK
+2022/05/23-12:28:57.775 29ee Delete type=0 #49
+2022/05/23-12:29:37.028 29ef Compacting 1@1 + 1@2 files
+2022/05/23-12:29:37.031 29ef Generated table #55@1: 397 keys, 37279 bytes
+2022/05/23-12:29:37.031 29ef Compacted 1@1 + 1@2 files => 37279 bytes
+2022/05/23-12:29:37.032 29ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/23-12:29:37.032 29ef Delete type=2 #51
+2022/05/23-12:29:37.032 29ef Delete type=2 #54

@@ -1,3 +1,9 @@
-2022/05/20-10:05:05.037 e7a Reusing MANIFEST /home/edu/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2022/05/20-10:05:05.037 e7a Recovering log #21
-2022/05/20-10:05:05.040 e7a Reusing old log /home/edu/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000021.log 
+2022/05/20-22:19:36.045 54b Reusing MANIFEST /home/edu/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/05/20-22:19:36.045 54b Recovering log #28
+2022/05/20-22:19:36.052 54b Reusing old log /home/edu/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000028.log 
+2022/05/20-22:25:23.346 58e Level-0 table #36: started
+2022/05/20-22:25:23.360 58e Level-0 table #36: 2617938 bytes OK
+2022/05/20-22:25:23.361 58e Delete type=0 #28
+2022/05/20-22:25:23.433 58e Level-0 table #38: started
+2022/05/20-22:25:23.448 58e Level-0 table #38: 2918493 bytes OK
+2022/05/20-22:25:23.449 58e Delete type=0 #35

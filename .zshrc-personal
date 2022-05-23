@@ -1,14 +1,31 @@
+#!/bin/sh
 
 # PACMAN
 alias install='sudo pacman -Syyu --noconfirm --color auto' # INSTALL
 alias remove="sudo pacman -r"	# UNINSTALL
 
-#Dmenu
+# Dmenu
 alias dm="dmenu_run"
 
-#Git
+# Git
 alias push="git push origin main"
 alias pull='git pull'
 alias add='git add *'
 alias commit='git commit -m'
 
+# Terminal
+alias sd="ls -la | grep"
+alias f="find / -iname"
+alias sf="sudo find / -iname"
+
+# Vim
+alias vim='nvim'
+
+# Emacs
+export PATH="$HOME/.emacs.d/bin:$PATH"
+export PATH="$HOME/.scripts:$PATH"
+alias emacs='emacsclient -c -a 'emacs''
+
+# Zsh
+alias zshrcp='emacsclient ~/.zshrc-personal'
+alias zshrc='emacsclient ~/.zshrc'

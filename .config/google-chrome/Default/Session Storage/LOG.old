@@ -1,3 +1,6 @@
-2022/05/20-10:05:04.652 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2022/05/20-10:05:04.652 3 Recovering log #29
-2022/05/20-10:05:04.652 3 Reusing old log /home/edu/.config/google-chrome/Default/Session Storage/000029.log 
+2022/05/20-22:19:35.599 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2022/05/20-22:19:35.599 3 Recovering log #44
+2022/05/20-22:19:35.600 3 Reusing old log /home/edu/.config/google-chrome/Default/Session Storage/000044.log 
+2022/05/20-22:19:43.267 3 Level-0 table #48: started
+2022/05/20-22:19:43.273 3 Level-0 table #48: 17788 bytes OK
+2022/05/20-22:19:43.275 3 Delete type=0 #44

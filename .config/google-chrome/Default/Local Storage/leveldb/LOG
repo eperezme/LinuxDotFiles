@@ -1,9 +1,24 @@
-2022/05/20-11:55:39.730 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/05/20-11:55:39.731 3 Recovering log #142
-2022/05/20-11:55:39.732 3 Reusing old log /home/edu/.config/google-chrome/Default/Local Storage/leveldb/000142.log 
-2022/05/20-12:13:26.228 d Level-0 table #146: started
-2022/05/20-12:13:26.253 d Level-0 table #146: 116950 bytes OK
-2022/05/20-12:13:26.254 d Delete type=0 #142
-2022/05/20-12:43:21.469 17 Level-0 table #148: started
-2022/05/20-12:43:21.492 17 Level-0 table #148: 116257 bytes OK
-2022/05/20-12:43:21.493 17 Delete type=0 #145
+2022/05/23-12:26:07.879 3 Reusing MANIFEST /home/edu/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/23-12:26:07.880 3 Recovering log #206
+2022/05/23-12:26:07.912 3 Reusing old log /home/edu/.config/google-chrome/Default/Local Storage/leveldb/000206.log 
+2022/05/23-12:32:32.876 4 Level-0 table #211: started
+2022/05/23-12:32:32.900 4 Level-0 table #211: 16291 bytes OK
+2022/05/23-12:32:32.902 4 Delete type=0 #206
+2022/05/23-12:51:37.430 e Level-0 table #213: started
+2022/05/23-12:51:37.455 e Level-0 table #213: 106735 bytes OK
+2022/05/23-12:51:37.457 e Delete type=0 #210
+2022/05/23-13:21:28.834 1c Level-0 table #215: started
+2022/05/23-13:21:28.859 1c Level-0 table #215: 17969 bytes OK
+2022/05/23-13:21:28.861 1c Delete type=0 #212
+2022/05/23-13:21:37.433 e Level-0 table #217: started
+2022/05/23-13:21:37.440 e Level-0 table #217: 512797 bytes OK
+2022/05/23-13:21:37.442 e Delete type=0 #214
+2022/05/23-13:21:37.442 e Compacting 4@0 + 1@1 files
+2022/05/23-13:21:37.457 e Generated table #218@0: 1774 keys, 914972 bytes
+2022/05/23-13:21:37.457 e Compacted 4@0 + 1@1 files => 914972 bytes
+2022/05/23-13:21:37.458 e compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/23-13:21:37.458 e Delete type=2 #213
+2022/05/23-13:21:37.458 e Delete type=2 #215
+2022/05/23-13:21:37.458 e Delete type=2 #208
+2022/05/23-13:21:37.458 e Delete type=2 #217
+2022/05/23-13:21:37.458 e Delete type=2 #211

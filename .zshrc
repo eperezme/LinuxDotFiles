@@ -115,8 +115,8 @@ export HISTCONTROL=ignoreboth:erasedups
 
 # Make nano the default editor
 
-export EDITOR='emacs'
-export VISUAL='emacs'
+export EDITOR='emacsclient -nw'
+export VISUAL='emacsclient -c'
 
 #PS1='[\u@\h \W]\$ '
 
@@ -442,4 +442,4 @@ neofetch
 #sysinfo
 #sysinfo-retro
 #cpufetch
-#colorscript random
+colorscript random

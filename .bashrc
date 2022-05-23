@@ -1,6 +1,6 @@
 ### EXPORT ###
-export EDITOR='nvim'
-export VISUAL='nvim'
+export EDITOR='emacsclient -nw'
+export VISUAL='emacsclient -c'
 export HISTCONTROL=ignoreboth:erasedups
 export PAGER='most'
 
@@ -34,7 +34,7 @@ bind "set completion-ignore-case on"
 alias ls='ls --color=auto'
 alias la='ls -a'
 alias ll='ls -alFh'
-alias l='ls -la'
+alias l='ls'
 alias l.="ls -A | egrep '^\.'"
 
 #fix obvious typo's
