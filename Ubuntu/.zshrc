@@ -74,7 +74,7 @@ plugins=(git zsh-syntax-highlighting zsh-autosuggestions)
 
 source $ZSH/oh-my-zsh.sh
 
-export PATH="/home/uoc/.cargo/bin:$PATH"
+export PATH="/home/edu/.cargo/bin:$PATH"
 
 # User configuration
 
@@ -262,3 +262,4 @@ neofetch
 #sysinfo
 #sysinfo-retro
 #cpufetch
+
