@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "dist/polyfill.js", "dist/background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "dist/dmv.css" ],
+      "js": [ "dist/polyfill.js", "dist/dmv.js" ],
+      "matches": [ "*://www.dungeonmastersvault.com/pages/dnd/5e/characters/*?frame=true" ]
+   }, {
+      "css": [ "dist/roll20.css" ],
+      "js": [ "dist/polyfill.js", "dist/roll20.js" ],
+      "matches": [ "*://app.roll20.net/editor*" ]
+   } ],
+   "description": "Connect Dungeon Master's Vault to Roll20.",
+   "icons": {
+      "128": "icons/128.png",
+      "48": "icons/48.png",
+      "96": "icons/96.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAykyiSEv4WaqU14vfkVf9nbNI6jCsUzwaWHa51uGR8wZH/2Z79w9XIDJK6P5pNkL8A4DupLWLvRPuu/J+nOkCyEEmXbsEno3ubxxCU3kh6pYLxIIC8zA/REW/+afROmUBc+J+3GL/Zb1jq2d1OuPPRELCae3H0+xQES/q6aMdAUGu4It3/YtOypbQJ11+MvL/mLbmXztUlwJuqXrtIcKzuGqgGTjipQatEExHr0Mur8nT9pjKGZVJy2Z/DYIg7O3Oo8ydU7/x91mnIuIolYxJEApbnngu18Nv9VRKqbRibtuPDLEN8YTNLceCgQktUDHDCp+r9xY58f6BO82C6LqDAwIDAQAB",
+   "manifest_version": 2,
+   "name": "VTT Bridge",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.3"
+}

@@ -1,0 +1,15 @@
+2023-04-01 16:41:42.570 [info] Deleted from disk tobiah.language-pde /home/eduard/.vscode/extensions/tobiah.language-pde-1.4.6
+2023-04-01 16:50:40.382 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2023-04-01 16:50:40.391 [info] Installing extension: catppuccin.catppuccin-vsc
+2023-04-01 16:50:40.922 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc
+2023-04-01 16:50:40.937 [info] Extracted extension to /home/eduard/.vscode/extensions/.9dbad1e8-86f0-4ce5-8444-136546994f80: catppuccin.catppuccin-vsc
+2023-04-01 16:50:40.939 [info] Renamed to /home/eduard/.vscode/extensions/catppuccin.catppuccin-vsc-2.6.3
+2023-04-01 16:50:40.940 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2023-04-01 16:50:40.946 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2023-04-01 16:50:47.129 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2023-04-01 16:50:47.137 [info] Installing extension: catppuccin.catppuccin-vsc-icons
+2023-04-01 16:50:47.584 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc-icons
+2023-04-01 16:50:47.898 [info] Extracted extension to /home/eduard/.vscode/extensions/.0191f172-5cc1-4541-872b-e48e5029314c: catppuccin.catppuccin-vsc-icons
+2023-04-01 16:50:47.903 [info] Renamed to /home/eduard/.vscode/extensions/catppuccin.catppuccin-vsc-icons-0.1.0
+2023-04-01 16:50:47.904 [info] Extracting extension completed. catppuccin.catppuccin-vsc-icons
+2023-04-01 16:50:47.908 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons

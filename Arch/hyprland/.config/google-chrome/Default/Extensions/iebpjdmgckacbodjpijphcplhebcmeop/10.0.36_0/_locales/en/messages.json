@@ -1,0 +1,406 @@
+{
+   "activateAction": {
+      "description": "Link to the activate page.",
+      "message": "Activate \u003Ci>Table Capture\u003C/i>"
+   },
+   "autoPageActionTooltip": {
+      "description": "Text to explain an action to auto-page.",
+      "message": "Attempt to auto-page the table"
+   },
+   "autoScrollActionTooltip": {
+      "description": "Text to explain an action to auto-scroll.",
+      "message": "Attempt to auto-scroll the table"
+   },
+   "clipActionTooltip": {
+      "description": "Text to explain an action to clip data.",
+      "message": "Clip the data to then later export all data clips together."
+   },
+   "cloudActionTooltip": {
+      "description": "Text to explain an action adding a table to Table Capture Cloud.",
+      "message": "Add to Table Capture Cloud"
+   },
+   "columnifyActionTooltip": {
+      "description": "Text to explain an action to break columns.",
+      "message": "Break columns: Helpful when your data is list-like"
+   },
+   "contextMenuActivity": {
+      "description": "A context menu message that invokes a recipe with the given name.",
+      "message": "☆ $1: $2"
+   },
+   "contextMenuDisplayInline": {
+      "description": "A context menu message that invokes the inline display.",
+      "message": "Table Capture - Display actions inline"
+   },
+   "contextMenuLaunchWorkshop": {
+      "description": "A context menu ...",
+      "message": "Table Capture - Launch workshop"
+   },
+   "contextMenuLaunchWorkshopForElement": {
+      "description": "A context menu ...",
+      "message": "Table Capture - Launch workshop for element"
+   },
+   "contextMenuLaunchWorkshopForSelection": {
+      "description": "A context menu ...",
+      "message": "Table Capture - Launch workshop for selection"
+   },
+   "contextMenuPageLoading": {
+      "description": "A context menu ...",
+      "message": "Loading..."
+   },
+   "contextMenuRecipe": {
+      "description": "A context menu message that invokes a recipe with the given name.",
+      "message": "Table Capture - Recipe: $1"
+   },
+   "contextMenuRecipeClipStart": {
+      "description": "A context menu message that starts auto-clipping a recipe with the given name.",
+      "message": "Table Capture - Start Clipping Recipe: $1"
+   },
+   "contextMenuRecipeClipStop": {
+      "description": "A context menu message that stops auto-clipping a recipe with the given name.",
+      "message": "Table Capture - Stop Clipping Recipe: $1"
+   },
+   "contextMenuRefreshNeeded": {
+      "description": "A context menu message that tells the user that a refresh is needed.",
+      "message": "Table Capture: Refresh this page before using"
+   },
+   "contextMenuWatchElement": {
+      "description": "A context menu message for watching an element.",
+      "message": "Watch Element"
+   },
+   "copied": {
+      "description": "A message stating that the copy finished.",
+      "message": "Copy complete"
+   },
+   "copyClipboardAction": {
+      "description": "Link to copy a table to the system clipboard.",
+      "message": "Copy to Clipboard"
+   },
+   "copyClipboardActionTooltip": {
+      "description": "Text to explain an action exporting a table to the clipboaard.",
+      "message": "Copy table data to the clipboard"
+   },
+   "copySelectedAction": {
+      "description": "Link to copy all selected tables.",
+      "message": "Copy Selected"
+   },
+   "copySelectedDescription": {
+      "description": "Tooltip for copySelectedAction above.",
+      "message": "Copy all the tables selected in the page"
+   },
+   "copying": {
+      "description": "A message stating that the copy is in progress.",
+      "message": "Copying..."
+   },
+   "csvAction": {
+      "description": "Link to download a table as a CSV file.",
+      "message": "To CSV"
+   },
+   "csvActionTooltip": {
+      "description": "Text to explain an action exporting a table to a CSV file.",
+      "message": "Download table as a CSV file"
+   },
+   "detachPaneAction": {
+      "description": "Link to detach the window so that it's a movable box on the page.  Useful for cases where the window blocks targeted tables.",
+      "message": "detach pane"
+   },
+   "detachPaneDescription": {
+      "description": "Tooltip for detachPaneAction above.",
+      "message": "Detach table listing pane to display within the page"
+   },
+   "displayableCloudPrice": {
+      "description": "Price to display",
+      "message": "$$25/month"
+   },
+   "displayablePrice": {
+      "description": "Price to display",
+      "message": "$$12/year"
+   },
+   "dynamicCaptureConfigTooltip": {
+      "description": "Tooltip for the dynamic table capture options.",
+      "message": "Configure dynamic table capture options"
+   },
+   "editActionTooltip": {
+      "description": "Text to explain an action of editing data before exporting it.",
+      "message": "Edit table data before exporting"
+   },
+   "editSettingsTooltip": {
+      "description": "Text to explain an action of editing options.",
+      "message": "Configure extraction options"
+   },
+   "excelAction": {
+      "description": "Link to convert a table to an Excel spreadsheet.",
+      "message": "To Excel"
+   },
+   "excelActionTooltip": {
+      "description": "Text to explain an action exporting a table to an Excel file.",
+      "message": "Download table as an Excel (.xlsx) file"
+   },
+   "extName": {
+      "description": "The extension name",
+      "message": "Table Capture"
+   },
+   "favoritesAction": {
+      "description": "Link to the activity page.",
+      "message": "activity"
+   },
+   "feedbackAction": {
+      "description": "Link to supply feedback on the extension.",
+      "message": "feedback"
+   },
+   "feedbackDescription": {
+      "description": "Tooltip for feedbackAction link above.",
+      "message": "Click to provide extension feedback"
+   },
+   "googleDocAction": {
+      "description": "Link to convert a table to a google sheet.",
+      "message": "To Google Sheets"
+   },
+   "googleDocActionTooltip": {
+      "description": "Text to explain an action exporting a table to a google sheet.",
+      "message": "Export table to Google Sheets"
+   },
+   "helpAction": {
+      "description": "Link to get help on the extension.",
+      "message": "get help now"
+   },
+   "inlineDescription": {
+      "description": "Tooltip for inlineAction above.",
+      "message": "Display Actions Inline"
+   },
+   "markdownActionTooltip": {
+      "description": "Text to explain an action exporting a table as Markdown.",
+      "message": "Copy to clipboard as Markdown"
+   },
+   "noTablesFound": {
+      "description": "A message that no tables have been found.",
+      "message": "No tables found on page."
+   },
+   "o365ActionTooltip": {
+      "description": "Text to explain an action exporting a table to Office 365.",
+      "message": "Export table to Office 365"
+   },
+   "openWorkshopAction": {
+      "description": "Link to open the workshop.",
+      "message": "More options"
+   },
+   "optionsAction": {
+      "description": "Link to the options page.",
+      "message": "options"
+   },
+   "optionsText": {
+      "description": "The text options",
+      "message": "Options"
+   },
+   "pageActionTitle": {
+      "description": "Title: Extension name and number of tables found.",
+      "message": "Table Capture: Found $1 Tables"
+   },
+   "pageTitleActivity": {
+      "description": "Page title for the activity page",
+      "message": "Activity | Table Capture"
+   },
+   "pageTitleOptions": {
+      "description": "Page title for the options page",
+      "message": "Options | Table Capture"
+   },
+   "pageTitleSupport": {
+      "description": "Page title for the options page",
+      "message": "Support | Table Capture"
+   },
+   "pageTitleUpgrade": {
+      "description": "Page title for the upgrade page",
+      "message": "Upgrade | Table Capture"
+   },
+   "pageTitleWelcome": {
+      "description": "Page title for the options page when you first install",
+      "message": "Welcome | Table Capture"
+   },
+   "pagingPagedElementDomSelectorActionTooltip": {
+      "description": "Workshop paging error: Provide your own selector/xpath",
+      "message": "Provide a selector/xpath for the paged table element."
+   },
+   "pagingResetActionTooltip": {
+      "description": "Workshop paging error: Reset the workshop",
+      "message": "Reset the workshop completely."
+   },
+   "pagingRetryActionTooltip": {
+      "description": "Message to show when a paged table cannot be located, but user retries.",
+      "message": "Try once again to locate your paged table."
+   },
+   "pagingRetrySalvageAction": {
+      "description": "Button action for salvaging data from a paged table.",
+      "message": "Salvage Data (Rows: $1)"
+   },
+   "pagingRetrySalvageActionTooltip": {
+      "description": "Message to show when a paged table cannot be located, but user retries/salvages.",
+      "message": "Export previously captured data even if the current page cannot be captured."
+   },
+   "pasteToCaptureMessage": {
+      "description": "Message in popup telling user to paste to get the captured table in their google sheet.",
+      "message": "Table Capture: Just paste from your clipboard to import your data."
+   },
+   "publishActionTooltip": {
+      "description": "Text to explain an action publishing a table.",
+      "message": "Share this table via GeorgeMike.com"
+   },
+   "refetchDataTooltip": {
+      "description": "Action to retry extracting data.",
+      "message": "Retry data extraction"
+   },
+   "refreshAction": {
+      "description": "Link to refresh the current listing of tables found on the page.",
+      "message": "refresh"
+   },
+   "refreshDescription": {
+      "description": "Tooltip for refreshAction link above.",
+      "message": "Click to refresh (for tables created after page-load)"
+   },
+   "removeAction": {
+      "description": "Link to remove an inline menu or pane from the page.",
+      "message": "remove"
+   },
+   "removeDetachedDescription": {
+      "description": "Tooltip for the action to remove a (detached) pane from the page.",
+      "message": "Remove this from the page"
+   },
+   "removeInlineDescription": {
+      "description": "Tooltip for the action to remove an inline menu from the page.",
+      "message": "Removes Inline Display"
+   },
+   "screenshotAction": {
+      "description": "Link to screenshot a table and download as an image.",
+      "message": "Screenshot table"
+   },
+   "screenshotActionTooltip": {
+      "description": "Text to explain an action screenshotting a table",
+      "message": "Screenshot table (saves as a .png image)"
+   },
+   "scrollToBottomActionTooltip": {
+      "description": "Text to explain the scrol-to-bottom action.",
+      "message": "Scroll to the bottom of the page."
+   },
+   "selectAllAction": {
+      "description": "Link to select all tables.",
+      "message": "Select all"
+   },
+   "selectAllDescription": {
+      "description": "Tooltip for selectAllAction above.",
+      "message": "Select all the tables in the page"
+   },
+   "selectNoneAction": {
+      "description": "Link to select none of the tables.",
+      "message": "Clear selection"
+   },
+   "selectNoneDescription": {
+      "description": "Tooltip for selectNoneAction above.",
+      "message": "Select none of the tables in the page"
+   },
+   "selectedToExcelAction": {
+      "description": "Link to convert selected tables to an Excel spreadsheet.",
+      "message": "To Excel"
+   },
+   "selectedToExcelDescription": {
+      "description": "Tooltip for selectedToExcelAction above.",
+      "message": "Create an Excel spreadsheet from all the tables selected in the page. Each table will be on a separate sheet in your Excel workbook."
+   },
+   "selectedToExcelDescriptionSingleSheet": {
+      "description": "Tooltip for selectedToExcelAction above.",
+      "message": "Create an Excel spreadsheet from all the tables selected in the page. Tables will be on one sheet in your Excel workbook separated by a blank row."
+   },
+   "selectedToGoogleAction": {
+      "description": "Link to convert selected tables to a google doc.",
+      "message": "To Google Sheets"
+   },
+   "selectedToGoogleDescription": {
+      "description": "Tooltip for selectedToGoogleAction above.",
+      "message": "Create a Google Doc from all the tables selected in the page"
+   },
+   "sheetSyncActionTooltip": {
+      "description": "Text to explain an action to sync live data to a Google Sheet.",
+      "message": "Sync live data to Google Sheets"
+   },
+   "supportAction": {
+      "description": "Link to the options page.",
+      "message": "support"
+   },
+   "tablesFoundAndSelectedTitle": {
+      "description": "Number of tables found, selected.",
+      "message": "Tables ($1), Selected ($2)"
+   },
+   "tablesFoundTitle": {
+      "description": "Number of tables found.",
+      "message": "Tables ($1)"
+   },
+   "updatePagerDomSelectorActionTooltip": {
+      "description": "Provide pager selector/xpath action tooltip.",
+      "message": "Update the selector/xpath for the button clicked to go to the next page."
+   },
+   "upgradeAction": {
+      "description": "Link to the upgrade page.",
+      "message": "Upgrade to \u003Ci>Pro\u003C/i>"
+   },
+   "upgradeActionTitle": {
+      "description": "Link to the upgrade page.",
+      "message": "Upgrade to Pro"
+   },
+   "upgradeCloudForFeature_SheetsSync": {
+      "description": "Beg for upgrade for feature",
+      "message": "Upgrade to Table Capture Cloud to enable Google Sheets sync."
+   },
+   "upgradeForFeature": {
+      "description": "Beg for upgrade for feature",
+      "message": "Upgrade to Table Capture Pro to enable this feature."
+   },
+   "workshopAction": {
+      "description": "Action to open the workshop",
+      "message": "open the workshop"
+   },
+   "workshopDescription": {
+      "description": "Tooltip for workshopAction.",
+      "message": "Click to launch the Table Capture Workshop"
+   },
+   "workshopFrameBetaTooltip": {
+      "description": "A tooltip for invoking beta features.",
+      "message": "Check out experimental Table Capture features."
+   },
+   "workshopFrameBottomDockTooltip": {
+      "description": "",
+      "message": "Dock to the bottom of the page"
+   },
+   "workshopFrameClearTooltip": {
+      "description": "A tooltip explaining what the workshop frames clear action does.",
+      "message": "Clear the current active element"
+   },
+   "workshopFrameFullScreenExitTooltip": {
+      "description": "A tooltip explaining what the workshop frames full screen exit action does.",
+      "message": "Exit full screen"
+   },
+   "workshopFrameFullScreenTooltip": {
+      "description": "A tooltip explaining what the workshop frames full screen action does.",
+      "message": "Go full screen"
+   },
+   "workshopFrameGlimpseTooltip": {
+      "description": "A tooltip explaining what the workshop frames glimpse action does.",
+      "message": "Glimpse behind the workshop"
+   },
+   "workshopFrameMaximizeTooltip": {
+      "description": "A tooltip explaining what the workshop frames maximize action does.",
+      "message": "Expand the workshop"
+   },
+   "workshopFrameMinimizeTooltip": {
+      "description": "A tooltip explaining what the workshop frames minimize action does.",
+      "message": "Minimize the workshop"
+   },
+   "workshopFrameRemoveTooltip": {
+      "description": "A tooltip explaining what the workshop frames remove action does.",
+      "message": "Remove the workshop"
+   },
+   "workshopFrameSupportTooltip": {
+      "description": "A tooltip for reporting a bug or getting help",
+      "message": "Get help or report a bug"
+   },
+   "workshopFrameTopDockTooltip": {
+      "description": "",
+      "message": "Dock to the top of the page"
+   }
+}

@@ -1,0 +1,284 @@
+{
+	"workbench.colorTheme": "Catppuccin Macchiato",
+	"files.autoSave": "onFocusChange",
+	"editor.fontSize": 18,
+
+	"latex-workshop.latex.recipes": [
+		{
+			"name": "latexmk 🔃",
+			"tools": ["latexmk"]
+		},
+		{
+			"name": "pdfLaTeX",
+			"tools": ["pdflatex"]
+		},
+		{
+			"name": "xelatex",
+			"tools": ["xelatex"]
+		},
+		{
+			"name": "pdflatex ➞ bibtex ➞ pdflatex`×2",
+			"tools": ["pdflatex", "bibtex", "pdflatex", "pdflatex"]
+		},
+		{
+			"name": "xelatex ➞ bibtex ➞ xelatex`×2",
+			"tools": ["xelatex", "bibtex", "xelatex", "xelatex"]
+		},
+		{
+			"name": "xelatex ➞ biber ➞ xelatex`×2",
+			"tools": ["xelatex", "biber", "xelatex", "xelatex"]
+		}
+	],
+	"latex-workshop.latex.autoBuild.run": "onSave",
+	"diffEditor.codeLens": true,
+	"diffEditor.wordWrap": "on",
+	"editor.wrappingColumn": 0,
+	"editor.minimap.autohide": true,
+	"[latex]": {
+		"editor.formatOnPaste": false,
+		"editor.defaultFormatter": "James-Yu.latex-workshop"
+	},
+	"workbench.editorAssociations": {
+		"*.pdf": "latex-workshop-pdf-hook"
+	},
+	"latex-workshop.view.pdf.hand": true,
+	"git.ignoredRepositories": ["c:\\Users\\eduar\\.vscode\\extensions\\stepsize.stepsize-1.0.1\\resources\\demo-repository"],
+	"gitlens.defaultDateLocale": null,
+	"gitlens.defaultDateShortFormat": null,
+	"gitlens.defaultTimeFormat": null,
+	"gitlens.defaultDateFormat": null,
+	"editor.fontLigatures": true,
+	"workbench.preferredDarkColorTheme": "Gatito Theme",
+	"workbench.preferredHighContrastColorTheme": "Gatito Theme",
+	"workbench.preferredHighContrastLightColorTheme": "Gatito Theme",
+	"workbench.preferredLightColorTheme": "Gatito Theme",
+	"notebook.cellToolbarLocation": {
+		"default": "right",
+		"jupyter-notebook": "left"
+	},
+	"notebook.lineNumbers": "on",
+	"workbench.iconTheme": "catppuccin-macchiato",
+	"jupyter.generateSVGPlots": true,
+	"tabnine.experimentalAutoImports": true,
+	"C_Cpp.autocompleteAddParentheses": true,
+	"python.autoComplete.extraPaths": [],
+	"python.analysis.extraPaths": [],
+	"python.analysis.autoImportCompletions": true,
+	"jupyter.inspectKernelMessages.enabled": true,
+	"python.analysis.completeFunctionParens": true,
+	"files.associations": {
+		"*.rmd": "markdown"
+	},
+	"explorer.confirmDelete": false,
+	"latex-workshop.message.error.show": false,
+	"latex-workshop.message.warning.show": false,
+	"todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^|%|\\\\)\\s*($TAGS)\\{*|^\\s*- \\[ \\])",
+	"todo-tree.highlights.defaultHighlight": {
+		"icon": "alert",
+		"type": "text-and-comment",
+		"foreground": "black",
+		"background": "white",
+		"opacity": 50,
+		"iconColour": "blue",
+		"gutterIcon": true
+	},
+	"todo-tree.highlights.customHighlight": {
+		"TODO": {
+			"icon": "check",
+			"foreground": "black",
+			"background": "white",
+			"iconColour": "white"
+		},
+		"NOTE": {
+			"icon": "note",
+			"foreground": "white",
+			"background": "gray",
+			"iconColour": "gray"
+		},
+		"COMMENT": {
+			"icon": "note",
+			"foreground": "white",
+			"background": "gray",
+			"iconColour": "gray"
+		},
+		"FIXME": {
+			"foreground": "black",
+			"background": "yellow",
+			"iconColour": "yellow"
+		},
+		"BUG": {
+			"foreground": "black",
+			"background": "red",
+			"iconColour": "red"
+		},
+		"[ ]": {
+			"icon": "check",
+			"foreground": "black",
+			"background": "white",
+			"iconColour": "yellow"
+		},
+		"[x]": {
+			"icon": "check",
+			"foreground": "white",
+			"background": "green",
+			"iconColour": "green"
+		}
+	},
+	"todo-tree.general.tags": ["BUG", "HACK", "FIXME", "TODO", "NOTE", "COMMENT", "[ ]", "[x]"],
+	"indentRainbow.lightIndicatorStyleLineWidth": 10,
+	"prettier.useTabs": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.renderWhitespace": "boundary",
+	"workbench.tree.renderIndentGuides": "always",
+	"workbench.tree.indent": 10,
+	"guides.overrideDefault": true,
+	"guides.normal.style": "inset",
+	"editor.guides.bracketPairsHorizontal": false,
+	"editor.guides.bracketPairs": true,
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"latex-workshop.bibtex-format.tab": "tab",
+	"latex-workshop.latex.clean.subfolder.enabled": true,
+	"latex-workshop.latex.pdfWatch.delay": 0,
+	"latex-workshop.linting.chktex.enabled": true,
+	"latex-workshop.view.pdf.invert": 0,
+	"security.workspace.trust.untrustedFiles": "open",
+
+	"latex-workshop.view.pdf.external.viewer.command": "C:\\Program Files\\sioyek\\sioyek.exe",
+	"latex-workshop.view.pdf.external.synctex.command": "C:\\Program Files\\sioyek\\sioyek.exe",
+	"latex-workshop.view.pdf.external.synctex.args": [
+		"--inverse-search",
+		"\"C:\\Users\\eduar\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" \"C:\\Users\\eduar\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\out\\cli.js\" --ms-enable-electron-run-as-node -r -g \"%1:%2\"",
+		"--reuse-instance",
+		"--forward-search-file",
+		"%TEX%",
+		"--forward-search-line",
+		"%LINE%",
+		"%PDF%"
+	],
+	"latex-workshop.view.pdf.viewer": "external",
+	"latex-workshop.latex.autoBuild.cleanAndRetry.enabled": false,
+	"latex-utilities.countWord.args": "C:\\Users\\eduar\\.vscode\\Script\\texcount.pl",
+	"latex-workshop.intellisense.citation.backend": "biblatex",
+	"git.autofetch": true,
+	"git.confirmSync": false,
+	"git.enableSmartCommit": true,
+	"editor.formatOnSave": true,
+	"editor.wordWrap": "on",
+	"terminal.integrated.fontFamily": "Cascadia Mono",
+	"cSpell.language": "en,es-ES,es,ca",
+	"cSpell.userWords": [
+		"ANOVA",
+		"apolipoproteína",
+		"Binom",
+		"binomiales",
+		"biomarcador",
+		"Bonferroni",
+		"como",
+		"denotación",
+		"Eduard",
+		"eritematoso",
+		"estadísticamente",
+		"funció",
+		"heterocedasticidad",
+		"homocedasticidad",
+		"HSPA",
+		"Interv",
+		"Kruskal",
+		"Levene",
+		"muestral",
+		"pdfpagemode",
+		"preeclampsia",
+		"significancia",
+		"Tukey",
+		"Wilcoxon",
+		"Wilk"
+	],
+	"latex-workshop.latex.tools": [
+		{
+			"name": "latexmk",
+			"command": "latexmk",
+			"args": ["-shell-escape", "-synctex=1", "-interaction=nonstopmode", "-file-line-error", "-pdf", "%DOC%"],
+			"env": {}
+		},
+		{
+			"name": "lualatexmk",
+			"command": "latexmk",
+			"args": ["-synctex=1", "-interaction=nonstopmode", "-file-line-error", "-lualatex", "%DOC%"],
+			"env": {}
+		},
+		{
+			"name": "xelatexmk",
+			"command": "latexmk",
+			"args": ["-synctex=1", "-interaction=nonstopmode", "-file-line-error", "-xelatex", "%DOC%"],
+			"env": {}
+		},
+		{
+			"name": "latexmk_rconly",
+			"command": "latexmk",
+			"args": ["%DOC%"],
+			"env": {}
+		},
+		{
+			"name": "pdflatex",
+			"command": "pdflatex",
+			"args": ["-synctex=1", "-interaction=nonstopmode", "-file-line-error", "%DOC%"],
+			"env": {}
+		},
+		{
+			"name": "bibtex",
+			"command": "bibtex",
+			"args": ["%DOCFILE%"],
+			"env": {}
+		},
+		{
+			"name": "rnw2tex",
+			"command": "Rscript",
+			"args": ["-e", "knitr::opts_knit$set(concordance = TRUE); knitr::knit('%DOCFILE_EXT%')"],
+			"env": {}
+		},
+		{
+			"name": "jnw2tex",
+			"command": "julia",
+			"args": ["-e", "using Weave; weave(\"%DOC_EXT%\", doctype=\"tex\")"],
+			"env": {}
+		},
+		{
+			"name": "jnw2texmintex",
+			"command": "julia",
+			"args": ["-e", "using Weave; weave(\"%DOC_EXT%\", doctype=\"texminted\")"],
+			"env": {}
+		},
+		{
+			"name": "tectonic",
+			"command": "tectonic",
+			"args": ["--synctex", "--keep-logs", "%DOC%.tex"],
+			"env": {}
+		}
+	],
+	"cSpell.enableFiletypes": ["tex"],
+	"dev.containers.cacheVolume": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnType": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"html.format.contentUnformatted": "",
+	"html.format.extraLiners": "",
+	"explorer.confirmDragAndDrop": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"[php]": {
+		"editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+	},
+	"prettier.printWidth": 150,
+	"editor.accessibilitySupport": "on",
+	"[python]": {
+		"editor.formatOnType": true
+	},
+	"editor.fontVariations": false,
+	"editor.fontFamily": "Cascadia Mono",
+	"editor.inlineSuggest.enabled": true
+}

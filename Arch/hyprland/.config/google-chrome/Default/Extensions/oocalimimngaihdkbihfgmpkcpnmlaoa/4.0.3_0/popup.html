@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Teleparty</title>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="normalize.css" />
+  <link rel="stylesheet" href="popup.css" />
+  <script type="text/javascript" src="../lib/jquery.js"></script>
+  <script type="text/javascript" src="popup_bundled.js"></script>
+</head>
+
+<body>
+  <div class="no-error">
+    <div class="serviceSite hidden">
+      <p id="site-msg" class="error extension-txt">
+        Please start the video first and then click on the Tp Icon.
+      </p>
+    </div>
+    <div class="unsupportedSite hidden">
+      <p id="site-msg" class="error extension-txt">
+        Sorry, Teleparty doesn't support this site yet, but we will in the
+        future!
+      </p>
+    </div>
+    <div class="wrongSite hidden">
+      <p id="site-msg" class="error extension-txt">
+        To use the extension, please open a video on one of the supported services:
+      </p>
+      <div id="services-holder">
+        <button class="service-button" id="service-netflix">
+          Netflix
+        </button>
+        <button class="service-button" id="service-youtube">
+          YouTube
+        </button>
+        <button class="service-button" id="service-hulu">
+          Hulu
+        </button>
+        <button class="service-button" id="service-disney">
+          Disney+
+        </button>
+        <button class="service-button" id="service-hbomax">
+          HBO Max
+        </button>
+        <button class="service-button" id="service-amazon">
+          Amazon Prime Video
+        </button>
+        <button class="service-button" id="service-youtube-tv">
+          Youtube TV
+        </button>
+      </div>
+    </div>
+    <div class="comingSoon hidden">
+      <p id="site-msg" class="error extension-txt">
+        Netflix Party is renaming to Teleparty and expanding to Disney Plus,
+        Hulu, and HBO next week.
+        <br />
+        <span id="service-type"></span>
+      </p>
+      <p>
+        <button id="learn-more-teleparty" class="extension-btn" type="button">
+          Learn more
+        </button>
+      </p>
+    </div>
+    <div class="permissions hidden">
+      <h2 style="text-align: center;">Allow permissions for Teleparty</h2>
+      <br />
+      <p class="extension-txt">
+        Teleparty needs permission to read and change website data on all supported services so that you can watch with
+        other users.
+        <br />
+        <br />
+        Teleparty does not collect any personal details or read your browser history. Find more details in our <a
+          style="color:red; text-decoration: underline; display: inline;" href="https://www.teleparty.com/privacy"
+          target="none">
+          privacy policy
+        </a>
+        .
+      </p>
+
+      <button id="accept-permissions" class="extension-btn" type="button">
+        Accept & Proceed
+      </button>
+    </div>
+    <div class="disconnected">
+      <div id="disconnected-home">
+        <h2>Create a Teleparty</h2>
+
+        <div class="popup-controlchat-container">
+          <p class="extension-txt">Only I have control</p>
+          <label class="switch">
+            <input type="checkbox" id="control-lock" />
+            <span class="slider round"></span>
+          </label>
+        </div>
+
+        <p>
+          <button id="create-session" class="extension-btn" type="button">
+            Start the party
+          </button>
+        </p>
+        <p>
+          <button id="schedule-session" class="extension-btn" type="button">
+            Schedule a party
+          </button>
+        </p>
+
+        <p class="extension-txt-indicator">
+          <span id="testsettings">
+            Please make sure to tell your guests that they need to click on the
+            red Tp icon to join a party after clicking on your party invite
+            link.
+          </span>
+        </p>
+      </div>
+      <div id="disconnected-calendar">
+        <!--<div class="calendar-title-row">
+          <h2 id="disconnected-calendar-title"></h2>
+          <div class="button-row">
+            <button class="extension-btn" id="decrement-month"><img src="./img/chevron-left.svg"></button>
+            <button class="extension-btn" id="increment-month"><img src="./img/chevron-right.svg"></button>
+          </div>
+        </div>
+        <div class="calendar-grid" id="disconnected-calendar-grid"></div>-->
+        <div id="calendar-loading">
+          <span>Checking your events<span class="ellipsis-anim"><span>.</span><span>.</span><span>.</span></span></span>
+        </div>
+        <div id="calendar-linked" class="hidden">
+          <div class="section-selector">
+            <div class="section-name active" id="select-upcoming">
+              Upcoming
+            </div>
+            <div class="section-name" id="select-recent">
+              Recent
+            </div>
+            <div class="selection" id="upcoming-recent-selection"></div>
+          </div>
+          <div class="events-list" id="events-list"></div>
+        </div>
+        <div class="hidden" id="link-google-calendar">
+          <div>Link your account to check and schedule parties.</div>
+          <img id="sign-in-with-google-btn" src="./img/btn_google_signin_dark_normal_web.png" />
+        </div>
+        <div id="schedule-party-container">
+          <div class="heading">Party Name</div>
+          <input type="text" placeholder="Enter a title for your event">
+          <div class="heading">Details</div>
+          <div class="popup-controlchat-container">
+            <p class="extension-txt">Recurring party</p>
+            <label class="switch">
+              <input type="checkbox" id="recurring" />
+              <span class="slider round"></span>
+            </label>
+          </div>
+          <div class="heading">Description</div>
+        </div>
+      </div>
+      <div class="section-selector" style="">
+        <div class="section-name active" id="select-home">
+          <img src="./img/home.svg">Home
+        </div>
+        <div class="section-name" id="select-calendar">
+          <img src="./img/calendar.svg">Events
+        </div>
+        <div class="selection" id="home-calendar-selection"></div>
+      </div>
+    </div>
+    <div class="loading">
+      <p class="extension-txt"></p>
+      <i class="spinner fa fa-circle-o-notch fa-spin"></i>
+    </div>
+    <div class="connected hidden">
+      <p class="extension-txt">
+        Share the URL below so others can join the party. The recipient(s)
+        should navigate to this URL and
+        <i>then click on the red Tp icon</i> to join.
+      </p>
+
+      <div class="popup-url-container">
+        <input id="share-url" type="text" readonly="true" autocomplete="off" autofocus />
+        <p class="copy-val extension-btn">
+          <a id="copy-btn">Copy URL</a>
+        </p>
+      </div>
+
+      <div class="popup-showchat-container">
+        <p class="extension-txt">Show Chat</p>
+        <label class="switch">
+          <input type="checkbox" id="show-chat" />
+          <span class="slider round"></span>
+        </label>
+      </div>
+
+      <p>
+        <button id="leave-session" class="extension-btn" type="button">
+          Disconnect
+        </button>
+      </p>
+
+      <div class="popup-review-container hidden">
+        <p class="extension-txt">
+          Enjoying Teleparty? Leave a positive review in the Chrome Store.
+          <button id="reviewLink" target="npReview" class="extension-btn" type="button">
+            Leave a review
+          </button>
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="some-error hidden">
+    <p id="error-msg" class="error extension-txt"></p>
+    <p>
+      <button id="close-error" class="extension-btn" type="button">
+        Dismiss
+      </button>
+    </p>
+  </div>
+</body>
+
+</html>

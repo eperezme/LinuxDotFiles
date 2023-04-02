@@ -1,0 +1,6 @@
+2023-03-28 23:18:25.124 [info] update#setState idle
+2023-03-28 23:18:25.773 [info] Starting extension host with pid 30482 (fork() took 4 ms).
+2023-03-28 23:18:55.116 [info] update#setState checking for updates
+2023-03-28 23:18:55.340 [info] update#setState idle
+2023-03-28 23:19:12.178 [info] Waiting for extension host with pid 30482 to exit.
+2023-03-28 23:19:12.181 [info] Extension host with pid 30482 exited with code: 0, signal: null.

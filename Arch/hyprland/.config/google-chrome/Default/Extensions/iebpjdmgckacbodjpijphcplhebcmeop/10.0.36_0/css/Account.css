@@ -1,0 +1,43 @@
+
+.readable.documentation {
+  font-size: 17px;
+}
+
+.main-account-info-wrapper section {
+  margin: 32px 0;
+}
+
+.main-account-info-wrapper section .pairs .pair {
+  padding-bottom: 4px;
+  margin-bottom: 8px;
+}
+
+.licenses-wrapper .license .tag,
+.main-account-info-wrapper section .pairs .pair {
+  display: inline-flex;
+  font-size: 17px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 8px;
+}
+
+.licenses-wrapper .license .tag.EXPIRED {
+  background-color: var(--color-status-expired);
+}
+
+.licenses-wrapper .license .tag.CANCELED {
+  background-color: var(--color-status-canceled);
+}
+
+.main-account-info-wrapper section .pairs .pair .key {
+  font-weight: 500;
+  margin-right: 8px;
+}
+
+.licenses-wrapper .license {
+  margin-bottom: 8px;
+}
+
+.licenses-wrapper .license .tag {
+  background-color: #fff;
+}

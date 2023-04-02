@@ -1,0 +1,163 @@
+2023-04-01 16:41:41.499 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:41:41.507 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:41:41.507 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:41:41.507 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:41:42.120 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, interactive
+product.json (WINS): inlineCompletionsAdditions
+2023-04-01 16:41:42.120 [error] Extension 'ms-toolsai.vscode-jupyter-powertoys' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:41:42.120 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:41:42.641 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: blade
+2023-04-01 16:41:42.641 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: ejs
+2023-04-01 16:41:42.641 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: latte
+2023-04-01 16:41:42.641 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: tpl
+2023-04-01 16:41:42.641 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: twig
+2023-04-01 16:41:42.642 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: vue-html
+2023-04-01 16:41:42.642 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: django-html
+2023-04-01 16:41:42.642 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: jinja-html
+2023-04-01 16:41:42.642 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: erb
+2023-04-01 16:41:42.642 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: HTML (Eex)
+2023-04-01 16:41:42.642 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: volt
+2023-04-01 16:41:42.642 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: nunjucks
+2023-04-01 16:41:42.659 [info] Creating lazy extension host: contains 1 extension(s): pomdtr.excalidraw-editor.
+2023-04-01 16:41:44.619 [info] [perf] Render performance baseline is 21ms
+2023-04-01 16:43:02.753 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:02.761 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:02.761 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:02.761 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:02.989 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, interactive
+product.json (WINS): inlineCompletionsAdditions
+2023-04-01 16:43:02.990 [error] Extension 'ms-toolsai.vscode-jupyter-powertoys' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:02.990 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:03.059 [info] Creating lazy extension host: contains 1 extension(s): pomdtr.excalidraw-editor.
+2023-04-01 16:43:03.516 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: blade
+2023-04-01 16:43:03.516 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: ejs
+2023-04-01 16:43:03.516 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: latte
+2023-04-01 16:43:03.516 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: tpl
+2023-04-01 16:43:03.516 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: twig
+2023-04-01 16:43:03.517 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: vue-html
+2023-04-01 16:43:03.517 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: django-html
+2023-04-01 16:43:03.517 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: jinja-html
+2023-04-01 16:43:03.517 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: erb
+2023-04-01 16:43:03.517 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: HTML (Eex)
+2023-04-01 16:43:03.517 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: volt
+2023-04-01 16:43:03.518 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: nunjucks
+2023-04-01 16:43:05.569 [info] [perf] Render performance baseline is 21ms
+2023-04-01 16:43:06.230 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, interactive
+product.json (WINS): inlineCompletionsAdditions
+2023-04-01 16:43:06.230 [error] Extension 'ms-toolsai.vscode-jupyter-powertoys' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:06.270 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: blade
+2023-04-01 16:43:06.271 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: ejs
+2023-04-01 16:43:06.271 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: latte
+2023-04-01 16:43:06.271 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: tpl
+2023-04-01 16:43:06.271 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: twig
+2023-04-01 16:43:06.271 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: vue-html
+2023-04-01 16:43:06.271 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: jinja-html
+2023-04-01 16:43:06.272 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: erb
+2023-04-01 16:43:06.272 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: HTML (Eex)
+2023-04-01 16:43:06.272 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: volt
+2023-04-01 16:43:06.272 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: nunjucks
+2023-04-01 16:43:06.272 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: sass
+2023-04-01 16:43:06.272 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: svelte
+2023-04-01 16:43:06.272 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: blade
+2023-04-01 16:43:06.272 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: ejs
+2023-04-01 16:43:06.272 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: latte
+2023-04-01 16:43:06.272 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: tpl
+2023-04-01 16:43:06.273 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: twig
+2023-04-01 16:43:06.273 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: vue-html
+2023-04-01 16:43:06.273 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: jinja-html
+2023-04-01 16:43:06.273 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: erb
+2023-04-01 16:43:06.273 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: HTML (Eex)
+2023-04-01 16:43:06.273 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: volt
+2023-04-01 16:43:06.273 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: nunjucks
+2023-04-01 16:43:09.333 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:09.341 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:09.341 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'contribEditorGutterMenu' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:09.341 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookControllerKind' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:09.571 [error] Extension 'github.copilot' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): inlineCompletionsAdditions, interactive
+product.json (WINS): inlineCompletionsAdditions
+2023-04-01 16:43:09.571 [error] Extension 'ms-toolsai.vscode-jupyter-powertoys' wants API proposal 'notebookWorkspaceEdit' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:09.571 [error] Extension 'tabnine.tabnine-vscode' wants API proposal 'inlineCompletions' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-04-01 16:43:09.666 [info] Creating lazy extension host: contains 1 extension(s): pomdtr.excalidraw-editor.
+2023-04-01 16:43:09.998 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: blade
+2023-04-01 16:43:09.998 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: ejs
+2023-04-01 16:43:09.999 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: latte
+2023-04-01 16:43:09.999 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: tpl
+2023-04-01 16:43:09.999 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: twig
+2023-04-01 16:43:09.999 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: vue-html
+2023-04-01 16:43:09.999 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: jinja-html
+2023-04-01 16:43:09.999 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: erb
+2023-04-01 16:43:09.999 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: HTML (Eex)
+2023-04-01 16:43:10.000 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: volt
+2023-04-01 16:43:10.000 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: nunjucks
+2023-04-01 16:43:10.000 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: sass
+2023-04-01 16:43:10.000 [error] [AnbuselvanRocky.bootstrap5-vscode]: Unknown language in `contributes.bootstrap5-vscode.language`. Provided value: svelte
+2023-04-01 16:43:10.000 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: blade
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: ejs
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: latte
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: tpl
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: twig
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: vue-html
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: jinja-html
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: erb
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: HTML (Eex)
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: volt
+2023-04-01 16:43:10.001 [error] [thekalinga.bootstrap4-vscode]: Unknown language in `contributes.bootstrap4-vscode.language`. Provided value: nunjucks
+2023-04-01 16:43:12.295 [info] [perf] Render performance baseline is 22ms
+2023-04-01 16:47:34.990 [error] Could not find category with ID: Setup: Error: Could not find category with ID: Setup
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2548:53844
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at B.progressStep (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27216)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27411
+    at Set.forEach (<anonymous>)
+    at B.progressByEvent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27395)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:22015
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at w.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1570:13520)
+    at w.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1570:13037)
+    at Hs.J (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:619:6711)
+    at Hs.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:619:4841)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2297:90263
+2023-04-01 16:47:34.991 [error] Could not find category with ID: SetupWeb: Error: Could not find category with ID: SetupWeb
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2548:53844
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at B.progressStep (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27216)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27411
+    at Set.forEach (<anonymous>)
+    at B.progressByEvent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27395)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:22015
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at w.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1570:13520)
+    at w.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1570:13037)
+    at Hs.J (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:619:6711)
+    at Hs.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:619:4841)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2297:90263
+2023-04-01 16:56:32.316 [error] Could not find category with ID: Beginner: Error: Could not find category with ID: Beginner
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2548:53844
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at B.progressStep (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27216)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27411
+    at Set.forEach (<anonymous>)
+    at B.progressByEvent (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:27395)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1896:22015
+    at g.invoke (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:145)
+    at o.deliver (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:2121)
+    at l.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:86:1729)
+    at w.k (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1570:13520)
+    at w.executeCommand (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1570:13037)
+    at Hs.J (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:619:6711)
+    at Hs.H (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:619:4841)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2297:90263

@@ -1,0 +1,19 @@
+2023-04-01 16:07:38.179 [info] [SharedProcess] using utility process
+2023-04-01 16:07:38.197 [info] update#setState idle
+2023-04-01 16:07:38.634 [info] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2023-04-01 16:07:38.639 [info] [UtilityProcess id: 1, type: extensionHost, pid: 27890]: successfully created
+2023-04-01 16:07:38.666 [info] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2023-04-01 16:07:38.668 [info] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2023-04-01 16:07:38.714 [info] [UtilityProcess type: shared-process, pid: 27900]: successfully created
+2023-04-01 16:07:38.715 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 27915]: successfully created
+2023-04-01 16:07:47.758 [info] update#setState checking for updates
+2023-04-01 16:07:47.801 [info] update#setState idle
+2023-04-01 16:08:08.197 [info] update#setState checking for updates
+2023-04-01 16:08:08.243 [info] update#setState idle
+2023-04-01 16:14:39.139 [info] [UtilityProcess id: 1, type: extensionHost, pid: 27890]: received exit event with code 0
+2023-04-01 16:14:39.139 [info] Extension host with pid 27890 exited with code: 0, signal: unknown.
+2023-04-01 16:14:39.143 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 27915]: attempting to kill the process...
+2023-04-01 16:14:39.143 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 27915]: successfully killed the process
+2023-04-01 16:14:39.146 [info] [UtilityProcess id: 1, type: fileWatcher, pid: 27915]: received exit event with code 15
+2023-04-01 16:14:39.146 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-04-01 16:14:39.146 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 27915]: crashed with code 15 and reason 'killed'

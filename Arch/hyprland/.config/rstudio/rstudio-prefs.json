@@ -1,0 +1,8 @@
+{
+    "initial_working_directory": "~",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "editor_theme": "Dracula",
+    "jobs_tab_visibility": "shown",
+    "font_size_points": 14
+}

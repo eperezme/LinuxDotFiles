@@ -1,0 +1,6 @@
+audio.play_bitrate_non_metered_migrated=true
+audio.play_bitrate_enumeration=3
+ui.minimize_to_tray=true
+audio.play_bitrate_non_metered_enumeration=3
+ui.show_friend_feed=false
+app.player.volume=45219

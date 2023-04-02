@@ -1,0 +1,6 @@
+2023-03-28 23:19:16.244 [info] update#setState idle
+2023-03-28 23:19:16.916 [info] Starting extension host with pid 30930 (fork() took 4 ms).
+2023-03-28 23:19:46.245 [info] update#setState checking for updates
+2023-03-28 23:19:46.477 [info] update#setState idle
+2023-03-28 23:19:59.762 [info] Waiting for extension host with pid 30930 to exit.
+2023-03-28 23:19:59.765 [info] Extension host with pid 30930 exited with code: 0, signal: null.

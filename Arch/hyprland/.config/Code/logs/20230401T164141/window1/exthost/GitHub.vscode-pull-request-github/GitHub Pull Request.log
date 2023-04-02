@@ -1,0 +1,43 @@
+2023-04-01 16:41:43.119 [info] Looking for git repository
+2023-04-01 16:41:43.119 [info] Found 0 repositories during activation
+2023-04-01 16:41:43.119 [info] Git repository found, initializing review manager and pr tree view.
+2023-04-01 16:43:03.629 [info] Looking for git repository
+2023-04-01 16:43:03.629 [info] Found 0 repositories during activation
+2023-04-01 16:43:03.629 [info] Git repository found, initializing review manager and pr tree view.
+2023-04-01 16:43:06.725 [info] Registering git provider
+2023-04-01 16:43:06.982 [info] Repository file:///home/eduard/UoC/Machine-Learning has been opened
+2023-04-01 16:43:06.982 [info] Review> Validate state in progress
+2023-04-01 16:43:06.982 [info] Review> Validating state...
+2023-04-01 16:43:06.982 [info] Cannot updates repositories as git is uninitialized
+2023-04-01 16:43:07.025 [info] Git initialization state changed: state=initialized
+2023-04-01 16:43:07.025 [info] Review> Queuing additional validate state
+2023-04-01 16:43:07.055 [info] Review> Queuing additional validate state
+2023-04-01 16:43:07.055 [info] Repo state for file:///home/eduard/UoC/Machine-Learning changed.
+2023-04-01 16:43:07.055 [info] Repo file:///home/eduard/UoC/Machine-Learning has already been setup.
+2023-04-01 16:43:07.074 [info] Review> Validating state...
+2023-04-01 16:43:07.076 [info] Found GitHub remote for folder /home/eduard/UoC/Machine-Learning
+2023-04-01 16:43:07.106 [info] Review> no matching pull request metadata found for current branch main
+2023-04-01 16:43:07.106 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-01 16:43:07.108 [info] Review> Validating state...
+2023-04-01 16:43:07.109 [info] Found GitHub remote for folder /home/eduard/UoC/Machine-Learning
+2023-04-01 16:43:07.126 [info] Review> no matching pull request metadata found for current branch main
+2023-04-01 16:43:07.126 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-01 16:43:10.787 [info] Looking for git repository
+2023-04-01 16:43:10.787 [info] Found 0 repositories during activation
+2023-04-01 16:43:10.787 [info] Git repository found, initializing review manager and pr tree view.
+2023-04-01 16:43:10.790 [info] Registering git provider
+2023-04-01 16:43:10.790 [info] Review> Validate state in progress
+2023-04-01 16:43:10.790 [info] Review> Validating state...
+2023-04-01 16:43:10.798 [info] Found GitHub remote for folder /home/eduard/UoC/Machine-Learning
+2023-04-01 16:43:10.849 [info] Repo state for file:///home/eduard/UoC/Machine-Learning changed.
+2023-04-01 16:43:10.849 [info] Repo file:///home/eduard/UoC/Machine-Learning has already been setup.
+2023-04-01 16:43:10.849 [info] Review> no matching pull request metadata found for current branch main
+2023-04-01 16:43:10.849 [info] Review> No matching pull request metadata found on GitHub for current branch main
+2023-04-01 16:47:57.776 [info] Review> Validate state in progress
+2023-04-01 16:47:57.776 [info] Review> Validating state...
+2023-04-01 16:47:57.792 [info] Found GitHub remote for folder /home/eduard/UoC/Machine-Learning
+2023-04-01 16:47:57.800 [info] Found GitHub remote for folder /home/eduard/UoC/Machine-Learning
+2023-04-01 16:47:57.806 [info] Found GitHub remote for folder /home/eduard/UoC/Machine-Learning
+2023-04-01 16:47:58.192 [info] Found GitHub remote for folder /home/eduard/UoC/Machine-Learning
+2023-04-01 16:47:58.245 [info] Review> no matching pull request metadata found for current branch main
+2023-04-01 16:47:58.589 [info] Review> No matching pull request metadata found on GitHub for current branch main

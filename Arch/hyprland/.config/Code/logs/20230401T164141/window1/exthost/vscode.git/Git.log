@@ -1,0 +1,162 @@
+2023-04-01 16:43:06.781 [info] Log level: Info
+2023-04-01 16:43:06.781 [info] Validating found git in: "git"
+2023-04-01 16:43:06.781 [info] Using git "2.40.0" from "git"
+2023-04-01 16:43:06.806 [info] > git rev-parse --show-toplevel [81ms]
+2023-04-01 16:43:06.966 [info] > git rev-parse --git-dir --git-common-dir [41ms]
+2023-04-01 16:43:06.982 [info] Open repository: /home/eduard/UoC/Machine-Learning
+2023-04-01 16:43:07.013 [info] > git rev-parse --show-toplevel [23ms]
+2023-04-01 16:43:07.024 [info] > git rev-parse --show-toplevel [4ms]
+2023-04-01 16:43:07.025 [info] > git config --get commit.template [22ms]
+2023-04-01 16:43:07.041 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2023-04-01 16:43:07.052 [info] > git status -z -uall [4ms]
+2023-04-01 16:43:07.074 [info] > git config --get commit.template [10ms]
+2023-04-01 16:43:07.089 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:43:07.092 [info] > git config --local branch.main.github-pr-owner-number [9ms]
+2023-04-01 16:43:07.096 [info] > git status -z -uall [4ms] (cancelled)
+2023-04-01 16:43:07.096 [info] > git config --get commit.template [0ms]
+2023-04-01 16:43:07.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:43:07.105 [info] > git status -z -uall [1ms]
+2023-04-01 16:43:07.114 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2023-04-01 16:43:07.121 [info] > git config --get commit.template [4ms]
+2023-04-01 16:43:07.121 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:43:07.125 [info] > git status -z -uall [1ms]
+2023-04-01 16:43:07.533 [info] > git check-ignore -v -z --stdin [4ms]
+2023-04-01 16:43:07.918 [info] > git fetch [937ms]
+2023-04-01 16:43:07.918 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 16:43:07.926 [info] > git config --get commit.template [3ms]
+2023-04-01 16:43:07.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-01 16:43:07.930 [info] > git status -z -uall [1ms]
+2023-04-01 16:43:10.414 [info] Log level: Info
+2023-04-01 16:43:10.414 [info] Validating found git in: "git"
+2023-04-01 16:43:10.414 [info] Using git "2.40.0" from "git"
+2023-04-01 16:43:10.414 [info] > git rev-parse --show-toplevel [1ms]
+2023-04-01 16:43:10.414 [info] > git rev-parse --git-dir --git-common-dir [23ms]
+2023-04-01 16:43:10.414 [info] Open repository: /home/eduard/UoC/Machine-Learning
+2023-04-01 16:43:10.422 [info] > git rev-parse --show-toplevel [299ms]
+2023-04-01 16:43:10.557 [info] > git rev-parse --show-toplevel [131ms]
+2023-04-01 16:43:10.559 [info] > git config --get commit.template [140ms]
+2023-04-01 16:43:10.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2023-04-01 16:43:10.679 [info] > git status -z -uall [40ms]
+2023-04-01 16:43:10.719 [info] > git config --get commit.template [29ms]
+2023-04-01 16:43:10.762 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2023-04-01 16:43:10.776 [info] > git status -z -uall [11ms]
+2023-04-01 16:43:10.806 [info] > git config --local branch.main.github-pr-owner-number [2ms]
+2023-04-01 16:43:10.830 [info] > git config --get commit.template [7ms]
+2023-04-01 16:43:10.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2023-04-01 16:43:10.847 [info] > git status -z -uall [0ms]
+2023-04-01 16:43:10.940 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-01 16:43:11.066 [info] > git fetch [948ms]
+2023-04-01 16:43:11.066 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 16:43:11.074 [info] > git config --get commit.template [2ms]
+2023-04-01 16:43:11.078 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:43:11.081 [info] > git status -z -uall [0ms]
+2023-04-01 16:43:36.809 [info] > git check-ignore -v -z --stdin [1ms]
+2023-04-01 16:46:12.006 [info] > git fetch [914ms]
+2023-04-01 16:46:12.006 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 16:46:12.014 [info] > git config --get commit.template [3ms]
+2023-04-01 16:46:12.015 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:46:12.018 [info] > git status -z -uall [0ms]
+2023-04-01 16:47:58.204 [info] > git config --local branch.main.github-pr-owner-number [3ms]
+2023-04-01 16:47:58.231 [info] > git config --get commit.template [14ms]
+2023-04-01 16:47:58.238 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:47:58.243 [info] > git status -z -uall [1ms]
+2023-04-01 16:48:10.797 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2023-04-01 16:48:10.805 [info] > git config --get commit.template [4ms]
+2023-04-01 16:48:10.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:48:10.810 [info] > git status -z -uall [1ms]
+2023-04-01 16:49:12.938 [info] > git fetch [908ms]
+2023-04-01 16:49:12.938 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 16:49:12.948 [info] > git config --get commit.template [4ms]
+2023-04-01 16:49:12.948 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:49:12.952 [info] > git status -z -uall [1ms]
+2023-04-01 16:52:17.632 [info] > git fetch [925ms]
+2023-04-01 16:52:17.632 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 16:52:17.642 [info] > git config --get commit.template [5ms]
+2023-04-01 16:52:17.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:52:17.647 [info] > git status -z -uall [1ms]
+2023-04-01 16:53:10.820 [info] > git config --local branch.main.github-pr-owner-number [0ms]
+2023-04-01 16:53:10.830 [info] > git config --get commit.template [5ms]
+2023-04-01 16:53:10.830 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:53:10.835 [info] > git status -z -uall [1ms]
+2023-04-01 16:55:37.844 [info] > git fetch [937ms]
+2023-04-01 16:55:37.844 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 16:55:37.856 [info] > git config --get commit.template [5ms]
+2023-04-01 16:55:37.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:55:37.862 [info] > git status -z -uall [1ms]
+2023-04-01 16:58:10.844 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2023-04-01 16:58:10.853 [info] > git config --get commit.template [5ms]
+2023-04-01 16:58:10.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-01 16:58:10.858 [info] > git status -z -uall [0ms]
+2023-04-01 16:59:06.720 [info] > git fetch [949ms]
+2023-04-01 16:59:06.720 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 16:59:06.732 [info] > git config --get commit.template [5ms]
+2023-04-01 16:59:06.733 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 16:59:06.738 [info] > git status -z -uall [1ms]
+2023-04-01 17:02:19.741 [info] > git fetch [959ms]
+2023-04-01 17:02:19.741 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 17:02:19.752 [info] > git config --get commit.template [5ms]
+2023-04-01 17:02:19.753 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-04-01 17:02:19.758 [info] > git status -z -uall [1ms]
+2023-04-01 17:03:10.869 [info] > git config --local branch.main.github-pr-owner-number [1ms]
+2023-04-01 17:03:10.879 [info] > git config --get commit.template [5ms]
+2023-04-01 17:03:10.879 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-01 17:03:10.885 [info] > git status -z -uall [1ms]
+2023-04-01 17:05:41.263 [info] > git fetch [963ms]
+2023-04-01 17:05:41.263 [info] Missing or invalid credentials.
+Skip silent fetch commands
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2023-04-01 17:05:41.274 [info] > git config --get commit.template [4ms]
+2023-04-01 17:05:41.274 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2023-04-01 17:05:41.279 [info] > git status -z -uall [1ms]

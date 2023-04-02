@@ -1,0 +1,443 @@
+2023-04-01 16:15:28.414 [info] Getting Manifest... esbenp.prettier-vscode
+2023-04-01 16:15:28.501 [info] Installing extension: esbenp.prettier-vscode
+2023-04-01 16:15:28.501 [info] Installing the extension without checking dependencies and pack esbenp.prettier-vscode
+2023-04-01 16:15:29.137 [warning] Extension signature verification failed with error 'UnknownError': esbenp.prettier-vscode
+2023-04-01 16:15:29.214 [info] Extracted extension to /home/eduard/.vscode/extensions/.df5c2f90-d971-4f14-aeb4-c0d39445fbd9: esbenp.prettier-vscode
+2023-04-01 16:15:29.215 [info] Renamed to /home/eduard/.vscode/extensions/esbenp.prettier-vscode-9.10.4
+2023-04-01 16:15:29.217 [info] Extracting extension completed. esbenp.prettier-vscode
+2023-04-01 16:15:29.220 [info] Extension installed successfully: esbenp.prettier-vscode
+2023-04-01 16:15:29.221 [info] Getting Manifest... donjayamanne.python-extension-pack
+2023-04-01 16:15:29.274 [info] Installing extension: donjayamanne.python-extension-pack
+2023-04-01 16:15:29.274 [info] Installing the extension without checking dependencies and pack donjayamanne.python-extension-pack
+2023-04-01 16:15:29.554 [warning] Extension signature verification failed with error 'UnknownError': donjayamanne.python-extension-pack
+2023-04-01 16:15:29.558 [info] Extracted extension to /home/eduard/.vscode/extensions/.f4656f6c-cc6a-4792-8520-2d945c1e9521: donjayamanne.python-extension-pack
+2023-04-01 16:15:29.560 [info] Renamed to /home/eduard/.vscode/extensions/donjayamanne.python-extension-pack-1.7.0
+2023-04-01 16:15:29.560 [info] Extracting extension completed. donjayamanne.python-extension-pack
+2023-04-01 16:15:29.564 [info] Extension installed successfully: donjayamanne.python-extension-pack
+2023-04-01 16:15:29.564 [info] Getting Manifest... editorconfig.editorconfig
+2023-04-01 16:15:29.617 [info] Installing extension: editorconfig.editorconfig
+2023-04-01 16:15:29.617 [info] Installing the extension without checking dependencies and pack editorconfig.editorconfig
+2023-04-01 16:15:29.888 [warning] Extension signature verification failed with error 'UnknownError': editorconfig.editorconfig
+2023-04-01 16:15:29.910 [info] Extracted extension to /home/eduard/.vscode/extensions/.83bf7aa9-adc1-4fae-95db-8ba16c7a5e06: editorconfig.editorconfig
+2023-04-01 16:15:29.911 [info] Renamed to /home/eduard/.vscode/extensions/editorconfig.editorconfig-0.16.4
+2023-04-01 16:15:29.912 [info] Extracting extension completed. editorconfig.editorconfig
+2023-04-01 16:15:29.915 [info] Extension installed successfully: editorconfig.editorconfig
+2023-04-01 16:15:29.916 [info] Getting Manifest... anbuselvanrocky.bootstrap5-vscode
+2023-04-01 16:15:29.971 [info] Installing extension: anbuselvanrocky.bootstrap5-vscode
+2023-04-01 16:15:29.971 [info] Installing the extension without checking dependencies and pack anbuselvanrocky.bootstrap5-vscode
+2023-04-01 16:15:30.240 [warning] Extension signature verification failed with error 'UnknownError': anbuselvanrocky.bootstrap5-vscode
+2023-04-01 16:15:30.248 [info] Extracted extension to /home/eduard/.vscode/extensions/.0976e4ba-d707-4b59-aaed-58ddc598f4ea: anbuselvanrocky.bootstrap5-vscode
+2023-04-01 16:15:30.250 [info] Renamed to /home/eduard/.vscode/extensions/anbuselvanrocky.bootstrap5-vscode-0.4.2
+2023-04-01 16:15:30.250 [info] Extracting extension completed. anbuselvanrocky.bootstrap5-vscode
+2023-04-01 16:15:30.259 [info] Extension installed successfully: anbuselvanrocky.bootstrap5-vscode
+2023-04-01 16:15:30.259 [info] Getting Manifest... pomdtr.excalidraw-editor
+2023-04-01 16:15:30.312 [info] Installing extension: pomdtr.excalidraw-editor
+2023-04-01 16:15:30.312 [info] Installing the extension without checking dependencies and pack pomdtr.excalidraw-editor
+2023-04-01 16:15:30.698 [warning] Extension signature verification failed with error 'UnknownError': pomdtr.excalidraw-editor
+2023-04-01 16:15:30.725 [info] Extracted extension to /home/eduard/.vscode/extensions/.81d1dd51-bd38-496b-b531-1dd66d2fac8a: pomdtr.excalidraw-editor
+2023-04-01 16:15:30.727 [info] Renamed to /home/eduard/.vscode/extensions/pomdtr.excalidraw-editor-3.4.1
+2023-04-01 16:15:30.727 [info] Extracting extension completed. pomdtr.excalidraw-editor
+2023-04-01 16:15:30.730 [info] Extension installed successfully: pomdtr.excalidraw-editor
+2023-04-01 16:15:30.730 [info] Getting Manifest... streetsidesoftware.code-spell-checker-catalan
+2023-04-01 16:15:30.782 [info] Installing extension: streetsidesoftware.code-spell-checker-catalan
+2023-04-01 16:15:30.782 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker-catalan
+2023-04-01 16:15:31.231 [warning] Extension signature verification failed with error 'UnknownError': streetsidesoftware.code-spell-checker-catalan
+2023-04-01 16:15:31.254 [info] Extracted extension to /home/eduard/.vscode/extensions/.49c29156-f514-40c7-9ea9-d005b4014abe: streetsidesoftware.code-spell-checker-catalan
+2023-04-01 16:15:31.256 [info] Renamed to /home/eduard/.vscode/extensions/streetsidesoftware.code-spell-checker-catalan-1.0.4
+2023-04-01 16:15:31.256 [info] Extracting extension completed. streetsidesoftware.code-spell-checker-catalan
+2023-04-01 16:15:31.260 [info] Extension installed successfully: streetsidesoftware.code-spell-checker-catalan
+2023-04-01 16:15:31.261 [info] Getting Manifest... tecosaur.latex-utilities
+2023-04-01 16:15:31.316 [info] Installing extension: tecosaur.latex-utilities
+2023-04-01 16:15:31.316 [info] Installing the extension without checking dependencies and pack tecosaur.latex-utilities
+2023-04-01 16:15:31.669 [warning] Extension signature verification failed with error 'UnknownError': tecosaur.latex-utilities
+2023-04-01 16:15:31.685 [info] Extracted extension to /home/eduard/.vscode/extensions/.953f0a0b-8bd4-4606-b4b9-f6af981d20bf: tecosaur.latex-utilities
+2023-04-01 16:15:31.687 [info] Renamed to /home/eduard/.vscode/extensions/tecosaur.latex-utilities-0.4.10
+2023-04-01 16:15:31.688 [info] Extracting extension completed. tecosaur.latex-utilities
+2023-04-01 16:15:31.691 [info] Extension installed successfully: tecosaur.latex-utilities
+2023-04-01 16:15:31.692 [info] Getting Manifest... tobiah.language-pde
+2023-04-01 16:15:31.750 [info] Installing extension: tobiah.language-pde
+2023-04-01 16:15:31.750 [info] Installing the extension without checking dependencies and pack tobiah.language-pde
+2023-04-01 16:15:32.036 [warning] Extension signature verification failed with error 'UnknownError': tobiah.language-pde
+2023-04-01 16:15:32.046 [info] Extracted extension to /home/eduard/.vscode/extensions/.812ab703-554d-47ca-ad4a-692c39f102b5: tobiah.language-pde
+2023-04-01 16:15:32.047 [info] Renamed to /home/eduard/.vscode/extensions/tobiah.language-pde-1.4.6
+2023-04-01 16:15:32.048 [info] Extracting extension completed. tobiah.language-pde
+2023-04-01 16:15:32.052 [info] Extension installed successfully: tobiah.language-pde
+2023-04-01 16:15:32.053 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2023-04-01 16:15:32.089 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow
+2023-04-01 16:15:32.089 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-slideshow
+2023-04-01 16:15:32.379 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-slideshow
+2023-04-01 16:15:32.391 [info] Extracted extension to /home/eduard/.vscode/extensions/.9b5aa696-27a1-4f71-9934-25fd8b35c48e: ms-toolsai.vscode-jupyter-slideshow
+2023-04-01 16:15:32.392 [info] Renamed to /home/eduard/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+2023-04-01 16:15:32.393 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-slideshow
+2023-04-01 16:15:32.397 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+2023-04-01 16:15:32.398 [info] Getting Manifest... ecmel.vscode-html-css
+2023-04-01 16:15:32.459 [info] Installing extension: ecmel.vscode-html-css
+2023-04-01 16:15:32.459 [info] Installing the extension without checking dependencies and pack ecmel.vscode-html-css
+2023-04-01 16:15:32.743 [warning] Extension signature verification failed with error 'UnknownError': ecmel.vscode-html-css
+2023-04-01 16:15:32.751 [info] Extracted extension to /home/eduard/.vscode/extensions/.98eb3cb9-57eb-4bcc-b44e-3d74b0bd57ec: ecmel.vscode-html-css
+2023-04-01 16:15:32.752 [info] Renamed to /home/eduard/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+2023-04-01 16:15:32.753 [info] Extracting extension completed. ecmel.vscode-html-css
+2023-04-01 16:15:32.757 [info] Extension installed successfully: ecmel.vscode-html-css
+2023-04-01 16:15:32.758 [info] Getting Manifest... wenfangdu.snippet-generator
+2023-04-01 16:15:32.812 [info] Installing extension: wenfangdu.snippet-generator
+2023-04-01 16:15:32.812 [info] Installing the extension without checking dependencies and pack wenfangdu.snippet-generator
+2023-04-01 16:15:33.214 [warning] Extension signature verification failed with error 'UnknownError': wenfangdu.snippet-generator
+2023-04-01 16:15:33.231 [info] Extracted extension to /home/eduard/.vscode/extensions/.12fed87f-dc06-46df-9d69-bfe425bdfc57: wenfangdu.snippet-generator
+2023-04-01 16:15:33.233 [info] Renamed to /home/eduard/.vscode/extensions/wenfangdu.snippet-generator-0.3.4
+2023-04-01 16:15:33.234 [info] Extracting extension completed. wenfangdu.snippet-generator
+2023-04-01 16:15:33.238 [info] Extension installed successfully: wenfangdu.snippet-generator
+2023-04-01 16:15:33.238 [info] Getting Manifest... zhuangtongfa.material-theme
+2023-04-01 16:15:33.291 [info] Installing extension: zhuangtongfa.material-theme
+2023-04-01 16:15:33.291 [info] Installing the extension without checking dependencies and pack zhuangtongfa.material-theme
+2023-04-01 16:15:33.612 [warning] Extension signature verification failed with error 'UnknownError': zhuangtongfa.material-theme
+2023-04-01 16:15:33.650 [info] Extracted extension to /home/eduard/.vscode/extensions/.8aaf89af-059e-4777-abb9-6b19c1d22550: zhuangtongfa.material-theme
+2023-04-01 16:15:33.652 [info] Renamed to /home/eduard/.vscode/extensions/zhuangtongfa.material-theme-3.15.8
+2023-04-01 16:15:33.653 [info] Extracting extension completed. zhuangtongfa.material-theme
+2023-04-01 16:15:33.656 [info] Extension installed successfully: zhuangtongfa.material-theme
+2023-04-01 16:15:33.657 [info] Getting Manifest... reditorsupport.r
+2023-04-01 16:15:33.723 [info] Installing extension: reditorsupport.r
+2023-04-01 16:15:33.724 [info] Installing the extension without checking dependencies and pack reditorsupport.r
+2023-04-01 16:15:34.353 [warning] Extension signature verification failed with error 'UnknownError': reditorsupport.r
+2023-04-01 16:15:34.407 [info] Extracted extension to /home/eduard/.vscode/extensions/.4cc9331a-0fac-4c8a-8d17-7c8853a258f3: reditorsupport.r
+2023-04-01 16:15:34.408 [info] Renamed to /home/eduard/.vscode/extensions/reditorsupport.r-2.7.2
+2023-04-01 16:15:34.409 [info] Extracting extension completed. reditorsupport.r
+2023-04-01 16:15:34.412 [info] Extension installed successfully: reditorsupport.r
+2023-04-01 16:15:34.413 [info] Getting Manifest... zainchen.json
+2023-04-01 16:15:34.470 [info] Installing extension: zainchen.json
+2023-04-01 16:15:34.470 [info] Installing the extension without checking dependencies and pack zainchen.json
+2023-04-01 16:15:34.757 [warning] Extension signature verification failed with error 'UnknownError': zainchen.json
+2023-04-01 16:15:34.774 [info] Extracted extension to /home/eduard/.vscode/extensions/.bbddba07-a43a-4e17-ad7d-40c9f3ee5f81: zainchen.json
+2023-04-01 16:15:34.775 [info] Renamed to /home/eduard/.vscode/extensions/zainchen.json-2.0.2
+2023-04-01 16:15:34.776 [info] Extracting extension completed. zainchen.json
+2023-04-01 16:15:34.780 [info] Extension installed successfully: zainchen.json
+2023-04-01 16:15:34.781 [info] Getting Manifest... ms-dotnettools.csharp
+2023-04-01 16:15:34.838 [info] Installing extension: ms-dotnettools.csharp
+2023-04-01 16:15:34.838 [info] Installing the extension without checking dependencies and pack ms-dotnettools.csharp
+2023-04-01 16:15:50.561 [info] Uninstalling extension from the profile: tobiah.language-pde@1.4.6 vscode-userdata:/home/eduard/.vscode/extensions/extensions.json
+2023-04-01 16:15:50.578 [info] Marked extension as uninstalled tobiah.language-pde-1.4.6
+2023-04-01 16:15:50.760 [info] Successfully uninstalled extension from the profile tobiah.language-pde@1.4.6 vscode-userdata:/home/eduard/.vscode/extensions/extensions.json
+2023-04-01 16:15:52.125 [warning] Extension signature verification failed with error 'UnknownError': ms-dotnettools.csharp
+2023-04-01 16:15:54.578 [info] Extracted extension to /home/eduard/.vscode/extensions/.9c6c2aa4-2825-4567-b504-aa4490d3852e: ms-dotnettools.csharp
+2023-04-01 16:15:54.585 [info] Renamed to /home/eduard/.vscode/extensions/ms-dotnettools.csharp-1.25.4-linux-x64
+2023-04-01 16:15:54.586 [info] Extracting extension completed. ms-dotnettools.csharp
+2023-04-01 16:15:54.590 [info] Extension installed successfully: ms-dotnettools.csharp
+2023-04-01 16:15:54.590 [info] Getting Manifest... james-yu.latex-workshop
+2023-04-01 16:15:54.652 [info] Installing extension: james-yu.latex-workshop
+2023-04-01 16:15:54.652 [info] Installing the extension without checking dependencies and pack james-yu.latex-workshop
+2023-04-01 16:15:55.580 [warning] Extension signature verification failed with error 'UnknownError': james-yu.latex-workshop
+2023-04-01 16:15:56.025 [info] Extracted extension to /home/eduard/.vscode/extensions/.e54c37cd-d134-499d-bd42-4e7e2f89b4a1: james-yu.latex-workshop
+2023-04-01 16:15:56.032 [info] Renamed to /home/eduard/.vscode/extensions/james-yu.latex-workshop-9.8.2
+2023-04-01 16:15:56.033 [info] Extracting extension completed. james-yu.latex-workshop
+2023-04-01 16:15:56.037 [info] Extension installed successfully: james-yu.latex-workshop
+2023-04-01 16:15:56.038 [info] Getting Manifest... batisteo.vscode-django
+2023-04-01 16:15:56.091 [info] Installing extension: batisteo.vscode-django
+2023-04-01 16:15:56.091 [info] Installing the extension without checking dependencies and pack batisteo.vscode-django
+2023-04-01 16:15:56.425 [warning] Extension signature verification failed with error 'UnknownError': batisteo.vscode-django
+2023-04-01 16:15:56.460 [info] Extracted extension to /home/eduard/.vscode/extensions/.68a646e0-e829-4ca4-b2ff-efbab16352ac: batisteo.vscode-django
+2023-04-01 16:15:56.462 [info] Renamed to /home/eduard/.vscode/extensions/batisteo.vscode-django-1.10.0
+2023-04-01 16:15:56.463 [info] Extracting extension completed. batisteo.vscode-django
+2023-04-01 16:15:56.467 [info] Extension installed successfully: batisteo.vscode-django
+2023-04-01 16:15:56.467 [info] Getting Manifest... pawelgrzybek.gatito-theme
+2023-04-01 16:15:56.521 [info] Installing extension: pawelgrzybek.gatito-theme
+2023-04-01 16:15:56.521 [info] Installing the extension without checking dependencies and pack pawelgrzybek.gatito-theme
+2023-04-01 16:15:56.914 [warning] Extension signature verification failed with error 'UnknownError': pawelgrzybek.gatito-theme
+2023-04-01 16:15:56.922 [info] Extracted extension to /home/eduard/.vscode/extensions/.ac63ec36-59b5-440a-bd09-7739a0546ffd: pawelgrzybek.gatito-theme
+2023-04-01 16:15:56.923 [info] Renamed to /home/eduard/.vscode/extensions/pawelgrzybek.gatito-theme-0.2.3
+2023-04-01 16:15:56.924 [info] Extracting extension completed. pawelgrzybek.gatito-theme
+2023-04-01 16:15:56.927 [info] Extension installed successfully: pawelgrzybek.gatito-theme
+2023-04-01 16:15:56.928 [info] Getting Manifest... thekalinga.bootstrap4-vscode
+2023-04-01 16:15:56.987 [info] Installing extension: thekalinga.bootstrap4-vscode
+2023-04-01 16:15:56.987 [info] Installing the extension without checking dependencies and pack thekalinga.bootstrap4-vscode
+2023-04-01 16:15:57.284 [warning] Extension signature verification failed with error 'UnknownError': thekalinga.bootstrap4-vscode
+2023-04-01 16:15:57.295 [info] Extracted extension to /home/eduard/.vscode/extensions/.967d0374-27f9-4f52-90f2-4844b1172c1b: thekalinga.bootstrap4-vscode
+2023-04-01 16:15:57.297 [info] Renamed to /home/eduard/.vscode/extensions/thekalinga.bootstrap4-vscode-6.1.0
+2023-04-01 16:15:57.298 [info] Extracting extension completed. thekalinga.bootstrap4-vscode
+2023-04-01 16:15:57.302 [info] Extension installed successfully: thekalinga.bootstrap4-vscode
+2023-04-01 16:15:57.302 [info] Getting Manifest... oderwat.indent-rainbow
+2023-04-01 16:15:57.356 [info] Installing extension: oderwat.indent-rainbow
+2023-04-01 16:15:57.356 [info] Installing the extension without checking dependencies and pack oderwat.indent-rainbow
+2023-04-01 16:15:58.038 [warning] Extension signature verification failed with error 'UnknownError': oderwat.indent-rainbow
+2023-04-01 16:15:58.321 [info] Extracted extension to /home/eduard/.vscode/extensions/.ccd13c6d-847d-4fdc-933b-956dafceb9a6: oderwat.indent-rainbow
+2023-04-01 16:15:58.326 [info] Renamed to /home/eduard/.vscode/extensions/oderwat.indent-rainbow-8.3.1
+2023-04-01 16:15:58.327 [info] Extracting extension completed. oderwat.indent-rainbow
+2023-04-01 16:15:58.330 [info] Extension installed successfully: oderwat.indent-rainbow
+2023-04-01 16:15:58.331 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2023-04-01 16:15:58.382 [info] Installing extension: shd101wyy.markdown-preview-enhanced
+2023-04-01 16:15:58.382 [info] Installing the extension without checking dependencies and pack shd101wyy.markdown-preview-enhanced
+2023-04-01 16:16:02.679 [warning] Extension signature verification failed with error 'UnknownError': shd101wyy.markdown-preview-enhanced
+2023-04-01 16:16:04.226 [info] Extracted extension to /home/eduard/.vscode/extensions/.934c1256-cd2e-4f02-9400-7e77ea60c88c: shd101wyy.markdown-preview-enhanced
+2023-04-01 16:16:04.231 [info] Renamed to /home/eduard/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.6.8
+2023-04-01 16:16:04.232 [info] Extracting extension completed. shd101wyy.markdown-preview-enhanced
+2023-04-01 16:16:04.236 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced
+2023-04-01 16:16:04.236 [info] Getting Manifest... gruntfuggly.todo-tree
+2023-04-01 16:16:04.296 [info] Installing extension: gruntfuggly.todo-tree
+2023-04-01 16:16:04.296 [info] Installing the extension without checking dependencies and pack gruntfuggly.todo-tree
+2023-04-01 16:16:04.658 [warning] Extension signature verification failed with error 'UnknownError': gruntfuggly.todo-tree
+2023-04-01 16:16:04.684 [info] Extracted extension to /home/eduard/.vscode/extensions/.fc82c2f1-6aa2-4e0b-b210-7e2736929b29: gruntfuggly.todo-tree
+2023-04-01 16:16:04.686 [info] Renamed to /home/eduard/.vscode/extensions/gruntfuggly.todo-tree-0.0.224
+2023-04-01 16:16:04.688 [info] Extracting extension completed. gruntfuggly.todo-tree
+2023-04-01 16:16:04.692 [info] Extension installed successfully: gruntfuggly.todo-tree
+2023-04-01 16:16:04.693 [info] Getting Manifest... ms-toolsai.jupyter
+2023-04-01 16:16:04.715 [info] Installing extension: ms-toolsai.jupyter
+2023-04-01 16:16:04.715 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter
+2023-04-01 16:16:06.753 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2023-04-01 16:16:06.980 [info] Extracted extension to /home/eduard/.vscode/extensions/.e3d3bcdd-15b7-4427-8842-465580d2be49: ms-toolsai.jupyter
+2023-04-01 16:16:06.985 [info] Renamed to /home/eduard/.vscode/extensions/ms-toolsai.jupyter-2023.3.1000892223
+2023-04-01 16:16:06.988 [info] Extracting extension completed. ms-toolsai.jupyter
+2023-04-01 16:16:06.992 [info] Extension installed successfully: ms-toolsai.jupyter
+2023-04-01 16:16:06.992 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2023-04-01 16:16:07.015 [info] Installing extension: ms-toolsai.jupyter-keymap
+2023-04-01 16:16:07.015 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-keymap
+2023-04-01 16:16:07.258 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-keymap
+2023-04-01 16:16:07.262 [info] Extracted extension to /home/eduard/.vscode/extensions/.4d5b8c14-27e8-4b92-93c3-e251999f0878: ms-toolsai.jupyter-keymap
+2023-04-01 16:16:07.263 [info] Renamed to /home/eduard/.vscode/extensions/ms-toolsai.jupyter-keymap-1.1.0
+2023-04-01 16:16:07.263 [info] Extracting extension completed. ms-toolsai.jupyter-keymap
+2023-04-01 16:16:07.266 [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+2023-04-01 16:16:07.267 [info] Getting Manifest... yzhang.markdown-all-in-one
+2023-04-01 16:16:07.318 [info] Installing extension: yzhang.markdown-all-in-one
+2023-04-01 16:16:07.318 [info] Installing the extension without checking dependencies and pack yzhang.markdown-all-in-one
+2023-04-01 16:16:07.694 [warning] Extension signature verification failed with error 'UnknownError': yzhang.markdown-all-in-one
+2023-04-01 16:16:07.714 [info] Extracted extension to /home/eduard/.vscode/extensions/.1e5ee87d-66d1-4b1b-8039-86363bd7eb1b: yzhang.markdown-all-in-one
+2023-04-01 16:16:07.716 [info] Renamed to /home/eduard/.vscode/extensions/yzhang.markdown-all-in-one-3.5.1
+2023-04-01 16:16:07.718 [info] Extracting extension completed. yzhang.markdown-all-in-one
+2023-04-01 16:16:07.722 [info] Extension installed successfully: yzhang.markdown-all-in-one
+2023-04-01 16:16:07.723 [info] Getting Manifest... kevinrose.vsc-python-indent
+2023-04-01 16:16:07.776 [info] Installing extension: kevinrose.vsc-python-indent
+2023-04-01 16:16:07.776 [info] Installing the extension without checking dependencies and pack kevinrose.vsc-python-indent
+2023-04-01 16:16:08.133 [warning] Extension signature verification failed with error 'UnknownError': kevinrose.vsc-python-indent
+2023-04-01 16:16:08.146 [info] Extracted extension to /home/eduard/.vscode/extensions/.b98c16c0-c9bb-4695-9722-5ce455ead8c5: kevinrose.vsc-python-indent
+2023-04-01 16:16:08.148 [info] Renamed to /home/eduard/.vscode/extensions/kevinrose.vsc-python-indent-1.18.0
+2023-04-01 16:16:08.149 [info] Extracting extension completed. kevinrose.vsc-python-indent
+2023-04-01 16:16:08.152 [info] Extension installed successfully: kevinrose.vsc-python-indent
+2023-04-01 16:16:08.153 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2023-04-01 16:16:08.174 [info] Installing extension: ms-toolsai.jupyter-renderers
+2023-04-01 16:16:08.174 [info] Installing the extension without checking dependencies and pack ms-toolsai.jupyter-renderers
+2023-04-01 16:16:09.375 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter-renderers
+2023-04-01 16:16:09.497 [info] Extracted extension to /home/eduard/.vscode/extensions/.dd21c050-1b25-488c-b920-5cebe9098839: ms-toolsai.jupyter-renderers
+2023-04-01 16:16:09.501 [info] Renamed to /home/eduard/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.15
+2023-04-01 16:16:09.502 [info] Extracting extension completed. ms-toolsai.jupyter-renderers
+2023-04-01 16:16:09.505 [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+2023-04-01 16:16:09.506 [info] Getting Manifest... randomfractalsinc.vscode-data-table
+2023-04-01 16:16:09.562 [info] Installing extension: randomfractalsinc.vscode-data-table
+2023-04-01 16:16:09.562 [info] Installing the extension without checking dependencies and pack randomfractalsinc.vscode-data-table
+2023-04-01 16:16:10.093 [warning] Extension signature verification failed with error 'UnknownError': randomfractalsinc.vscode-data-table
+2023-04-01 16:16:10.132 [info] Extracted extension to /home/eduard/.vscode/extensions/.df469648-1557-406c-acb3-3c2c91cadffd: randomfractalsinc.vscode-data-table
+2023-04-01 16:16:10.133 [info] Renamed to /home/eduard/.vscode/extensions/randomfractalsinc.vscode-data-table-1.12.0
+2023-04-01 16:16:10.134 [info] Extracting extension completed. randomfractalsinc.vscode-data-table
+2023-04-01 16:16:10.139 [info] Extension installed successfully: randomfractalsinc.vscode-data-table
+2023-04-01 16:16:10.139 [info] Getting Manifest... donjayamanne.githistory
+2023-04-01 16:16:10.162 [info] Installing extension: donjayamanne.githistory
+2023-04-01 16:16:10.162 [info] Installing the extension without checking dependencies and pack donjayamanne.githistory
+2023-04-01 16:16:10.473 [warning] Extension signature verification failed with error 'UnknownError': donjayamanne.githistory
+2023-04-01 16:16:10.492 [info] Extracted extension to /home/eduard/.vscode/extensions/.3c1de94b-7287-49a1-aba8-ed111dd9ffb5: donjayamanne.githistory
+2023-04-01 16:16:10.494 [info] Renamed to /home/eduard/.vscode/extensions/donjayamanne.githistory-0.6.20
+2023-04-01 16:16:10.494 [info] Extracting extension completed. donjayamanne.githistory
+2023-04-01 16:16:10.499 [info] Extension installed successfully: donjayamanne.githistory
+2023-04-01 16:16:10.499 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2023-04-01 16:16:10.517 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-01 16:16:10.517 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-cell-tags
+2023-04-01 16:16:10.774 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-cell-tags
+2023-04-01 16:16:10.783 [info] Extracted extension to /home/eduard/.vscode/extensions/.a9c15a90-481a-4824-9f65-b88f3e152785: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-01 16:16:10.785 [info] Renamed to /home/eduard/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.8
+2023-04-01 16:16:10.785 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-cell-tags
+2023-04-01 16:16:10.789 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+2023-04-01 16:16:10.790 [info] Getting Manifest... njpwerner.autodocstring
+2023-04-01 16:16:10.849 [info] Installing extension: njpwerner.autodocstring
+2023-04-01 16:16:10.849 [info] Installing the extension without checking dependencies and pack njpwerner.autodocstring
+2023-04-01 16:16:11.176 [warning] Extension signature verification failed with error 'UnknownError': njpwerner.autodocstring
+2023-04-01 16:16:11.202 [info] Extracted extension to /home/eduard/.vscode/extensions/.2ef88b3e-c5b4-4c28-8df5-8c6138bf6518: njpwerner.autodocstring
+2023-04-01 16:16:11.204 [info] Renamed to /home/eduard/.vscode/extensions/njpwerner.autodocstring-0.6.1
+2023-04-01 16:16:11.205 [info] Extracting extension completed. njpwerner.autodocstring
+2023-04-01 16:16:11.209 [info] Extension installed successfully: njpwerner.autodocstring
+2023-04-01 16:16:11.210 [info] Getting Manifest... davidanson.vscode-markdownlint
+2023-04-01 16:16:11.267 [info] Installing extension: davidanson.vscode-markdownlint
+2023-04-01 16:16:11.267 [info] Installing the extension without checking dependencies and pack davidanson.vscode-markdownlint
+2023-04-01 16:16:11.582 [warning] Extension signature verification failed with error 'UnknownError': davidanson.vscode-markdownlint
+2023-04-01 16:16:11.591 [info] Extracted extension to /home/eduard/.vscode/extensions/.2ecb3f0b-cac2-43ca-b852-15901694c0d5: davidanson.vscode-markdownlint
+2023-04-01 16:16:11.594 [info] Renamed to /home/eduard/.vscode/extensions/davidanson.vscode-markdownlint-0.49.0
+2023-04-01 16:16:11.595 [info] Extracting extension completed. davidanson.vscode-markdownlint
+2023-04-01 16:16:11.599 [info] Extension installed successfully: davidanson.vscode-markdownlint
+2023-04-01 16:16:11.600 [info] Getting Manifest... streetsidesoftware.code-spell-checker
+2023-04-01 16:16:11.626 [info] Installing extension: streetsidesoftware.code-spell-checker
+2023-04-01 16:16:11.626 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker
+2023-04-01 16:16:12.150 [warning] Extension signature verification failed with error 'UnknownError': streetsidesoftware.code-spell-checker
+2023-04-01 16:16:12.257 [info] Extracted extension to /home/eduard/.vscode/extensions/.0a24f083-f778-4995-8463-bd92ac70d5d8: streetsidesoftware.code-spell-checker
+2023-04-01 16:16:12.264 [info] Renamed to /home/eduard/.vscode/extensions/streetsidesoftware.code-spell-checker-2.20.3
+2023-04-01 16:16:12.265 [info] Extracting extension completed. streetsidesoftware.code-spell-checker
+2023-04-01 16:16:12.269 [info] Extension installed successfully: streetsidesoftware.code-spell-checker
+2023-04-01 16:16:12.269 [info] Getting Manifest... vscodevim.vim
+2023-04-01 16:16:12.332 [info] Installing extension: vscodevim.vim
+2023-04-01 16:16:12.332 [info] Installing the extension without checking dependencies and pack vscodevim.vim
+2023-04-01 16:16:12.676 [warning] Extension signature verification failed with error 'UnknownError': vscodevim.vim
+2023-04-01 16:16:12.702 [info] Extracted extension to /home/eduard/.vscode/extensions/.b34e9a1c-a01d-4957-aef5-f3f80541a593: vscodevim.vim
+2023-04-01 16:16:12.704 [info] Renamed to /home/eduard/.vscode/extensions/vscodevim.vim-1.25.2
+2023-04-01 16:16:12.705 [info] Extracting extension completed. vscodevim.vim
+2023-04-01 16:16:12.708 [info] Extension installed successfully: vscodevim.vim
+2023-04-01 16:16:12.708 [info] Getting Manifest... tabnine.tabnine-vscode
+2023-04-01 16:16:12.762 [info] Installing extension: tabnine.tabnine-vscode
+2023-04-01 16:16:12.762 [info] Installing the extension without checking dependencies and pack tabnine.tabnine-vscode
+2023-04-01 16:16:13.069 [warning] Extension signature verification failed with error 'UnknownError': tabnine.tabnine-vscode
+2023-04-01 16:16:13.077 [info] Extracted extension to /home/eduard/.vscode/extensions/.ca154e79-bb65-4c9d-af4c-35fc7b8d18ed: tabnine.tabnine-vscode
+2023-04-01 16:16:13.079 [info] Renamed to /home/eduard/.vscode/extensions/tabnine.tabnine-vscode-3.6.43
+2023-04-01 16:16:13.080 [info] Extracting extension completed. tabnine.tabnine-vscode
+2023-04-01 16:16:13.083 [info] Extension installed successfully: tabnine.tabnine-vscode
+2023-04-01 16:16:13.083 [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+2023-04-01 16:16:13.120 [info] Installing extension: visualstudioexptteam.vscodeintellicode
+2023-04-01 16:16:13.120 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.vscodeintellicode
+2023-04-01 16:16:21.564 [warning] Extension signature verification failed with error 'UnknownError': visualstudioexptteam.vscodeintellicode
+2023-04-01 16:16:22.234 [info] Extracted extension to /home/eduard/.vscode/extensions/.a4a64f4b-1ca3-45a6-92f1-e0cde0c4fbbb: visualstudioexptteam.vscodeintellicode
+2023-04-01 16:16:22.239 [info] Renamed to /home/eduard/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30
+2023-04-01 16:16:22.240 [info] Extracting extension completed. visualstudioexptteam.vscodeintellicode
+2023-04-01 16:16:22.243 [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+2023-04-01 16:16:22.244 [info] Getting Manifest... vintharas.learn-vim
+2023-04-01 16:16:22.299 [info] Installing extension: vintharas.learn-vim
+2023-04-01 16:16:22.299 [info] Installing the extension without checking dependencies and pack vintharas.learn-vim
+2023-04-01 16:16:22.613 [warning] Extension signature verification failed with error 'UnknownError': vintharas.learn-vim
+2023-04-01 16:16:22.640 [info] Extracted extension to /home/eduard/.vscode/extensions/.0e9adaae-ed3f-4dd0-a608-55f1090f2fdd: vintharas.learn-vim
+2023-04-01 16:16:22.645 [info] Renamed to /home/eduard/.vscode/extensions/vintharas.learn-vim-0.0.28
+2023-04-01 16:16:22.646 [info] Extracting extension completed. vintharas.learn-vim
+2023-04-01 16:16:22.651 [info] Extension installed successfully: vintharas.learn-vim
+2023-04-01 16:16:22.651 [info] Getting Manifest... ms-toolsai.vscode-jupyter-powertoys
+2023-04-01 16:16:22.670 [info] Installing extension: ms-toolsai.vscode-jupyter-powertoys
+2023-04-01 16:16:22.670 [info] Installing the extension without checking dependencies and pack ms-toolsai.vscode-jupyter-powertoys
+2023-04-01 16:16:23.209 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.vscode-jupyter-powertoys
+2023-04-01 16:16:23.263 [info] Extracted extension to /home/eduard/.vscode/extensions/.a902deb8-e17a-48fc-8ef8-23fd20091079: ms-toolsai.vscode-jupyter-powertoys
+2023-04-01 16:16:23.265 [info] Renamed to /home/eduard/.vscode/extensions/ms-toolsai.vscode-jupyter-powertoys-0.0.6
+2023-04-01 16:16:23.266 [info] Extracting extension completed. ms-toolsai.vscode-jupyter-powertoys
+2023-04-01 16:16:23.269 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-powertoys
+2023-04-01 16:16:23.270 [info] Getting Manifest... streetsidesoftware.code-spell-checker-spanish
+2023-04-01 16:16:23.287 [info] Installing extension: streetsidesoftware.code-spell-checker-spanish
+2023-04-01 16:16:23.287 [info] Installing the extension without checking dependencies and pack streetsidesoftware.code-spell-checker-spanish
+2023-04-01 16:16:23.587 [warning] Extension signature verification failed with error 'UnknownError': streetsidesoftware.code-spell-checker-spanish
+2023-04-01 16:16:23.596 [info] Extracted extension to /home/eduard/.vscode/extensions/.193de301-ff08-4fe2-8c85-d1270c3f410b: streetsidesoftware.code-spell-checker-spanish
+2023-04-01 16:16:23.598 [info] Renamed to /home/eduard/.vscode/extensions/streetsidesoftware.code-spell-checker-spanish-2.1.8
+2023-04-01 16:16:23.598 [info] Extracting extension completed. streetsidesoftware.code-spell-checker-spanish
+2023-04-01 16:16:23.602 [info] Extension installed successfully: streetsidesoftware.code-spell-checker-spanish
+2023-04-01 16:16:23.602 [info] Getting Manifest... xdebug.php-debug
+2023-04-01 16:16:23.655 [info] Installing extension: xdebug.php-debug
+2023-04-01 16:16:23.655 [info] Installing the extension without checking dependencies and pack xdebug.php-debug
+2023-04-01 16:16:24.188 [warning] Extension signature verification failed with error 'UnknownError': xdebug.php-debug
+2023-04-01 16:16:24.401 [info] Extracted extension to /home/eduard/.vscode/extensions/.2a7030fb-2529-4a04-ba73-05a472596f97: xdebug.php-debug
+2023-04-01 16:16:24.406 [info] Renamed to /home/eduard/.vscode/extensions/xdebug.php-debug-1.32.1
+2023-04-01 16:16:24.407 [info] Extracting extension completed. xdebug.php-debug
+2023-04-01 16:16:24.410 [info] Extension installed successfully: xdebug.php-debug
+2023-04-01 16:16:24.411 [info] Getting Manifest... github.copilot
+2023-04-01 16:16:24.471 [info] Installing extension: github.copilot
+2023-04-01 16:16:24.471 [info] Installing the extension without checking dependencies and pack github.copilot
+2023-04-01 16:16:27.616 [warning] Extension signature verification failed with error 'UnknownError': github.copilot
+2023-04-01 16:16:27.854 [info] Extracted extension to /home/eduard/.vscode/extensions/.0f24a340-caa6-43b9-8680-5f9263e1249f: github.copilot
+2023-04-01 16:16:27.858 [info] Renamed to /home/eduard/.vscode/extensions/github.copilot-1.78.9758
+2023-04-01 16:16:27.859 [info] Extracting extension completed. github.copilot
+2023-04-01 16:16:27.862 [info] Extension installed successfully: github.copilot
+2023-04-01 16:16:27.863 [info] Getting Manifest... wholroyd.jinja
+2023-04-01 16:16:27.915 [info] Installing extension: wholroyd.jinja
+2023-04-01 16:16:27.915 [info] Installing the extension without checking dependencies and pack wholroyd.jinja
+2023-04-01 16:16:28.203 [warning] Extension signature verification failed with error 'UnknownError': wholroyd.jinja
+2023-04-01 16:16:28.209 [info] Extracted extension to /home/eduard/.vscode/extensions/.b65a59b3-640c-4677-bdae-b7fb4fa67bb0: wholroyd.jinja
+2023-04-01 16:16:28.211 [info] Renamed to /home/eduard/.vscode/extensions/wholroyd.jinja-0.0.8
+2023-04-01 16:16:28.212 [info] Extracting extension completed. wholroyd.jinja
+2023-04-01 16:16:28.215 [info] Extension installed successfully: wholroyd.jinja
+2023-04-01 16:16:28.215 [info] Getting Manifest... zobo.php-intellisense
+2023-04-01 16:16:28.274 [info] Installing extension: zobo.php-intellisense
+2023-04-01 16:16:28.274 [info] Installing the extension without checking dependencies and pack zobo.php-intellisense
+2023-04-01 16:16:29.316 [warning] Extension signature verification failed with error 'UnknownError': zobo.php-intellisense
+2023-04-01 16:16:30.254 [info] Extracted extension to /home/eduard/.vscode/extensions/.55044c6c-eca9-4c6a-9e4c-388a70ce7cbb: zobo.php-intellisense
+2023-04-01 16:16:30.261 [info] Renamed to /home/eduard/.vscode/extensions/zobo.php-intellisense-1.1.2
+2023-04-01 16:16:30.261 [info] Extracting extension completed. zobo.php-intellisense
+2023-04-01 16:16:30.265 [info] Extension installed successfully: zobo.php-intellisense
+2023-04-01 16:16:30.265 [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+2023-04-01 16:16:30.283 [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples
+2023-04-01 16:16:30.283 [info] Installing the extension without checking dependencies and pack visualstudioexptteam.intellicode-api-usage-examples
+2023-04-01 16:16:30.753 [warning] Extension signature verification failed with error 'UnknownError': visualstudioexptteam.intellicode-api-usage-examples
+2023-04-01 16:16:30.814 [info] Extracted extension to /home/eduard/.vscode/extensions/.26f769d3-4cdf-4ab3-b55d-9e8c6d4c6925: visualstudioexptteam.intellicode-api-usage-examples
+2023-04-01 16:16:30.816 [info] Renamed to /home/eduard/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.7
+2023-04-01 16:16:30.817 [info] Extracting extension completed. visualstudioexptteam.intellicode-api-usage-examples
+2023-04-01 16:16:30.820 [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+2023-04-01 16:16:30.820 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2023-04-01 16:16:30.875 [info] Installing extension: bmewburn.vscode-intelephense-client
+2023-04-01 16:16:30.875 [info] Installing the extension without checking dependencies and pack bmewburn.vscode-intelephense-client
+2023-04-01 16:16:31.820 [warning] Extension signature verification failed with error 'UnknownError': bmewburn.vscode-intelephense-client
+2023-04-01 16:16:31.990 [info] Extracted extension to /home/eduard/.vscode/extensions/.c7c01b60-92c1-4273-a279-50b6b1276298: bmewburn.vscode-intelephense-client
+2023-04-01 16:16:31.995 [info] Renamed to /home/eduard/.vscode/extensions/bmewburn.vscode-intelephense-client-1.9.5
+2023-04-01 16:16:31.996 [info] Extracting extension completed. bmewburn.vscode-intelephense-client
+2023-04-01 16:16:32.000 [info] Extension installed successfully: bmewburn.vscode-intelephense-client
+2023-04-01 16:16:32.000 [info] Getting Manifest... xdebug.php-pack
+2023-04-01 16:16:32.021 [info] Installing extension: xdebug.php-pack
+2023-04-01 16:16:32.021 [info] Installing the extension without checking dependencies and pack xdebug.php-pack
+2023-04-01 16:16:32.261 [warning] Extension signature verification failed with error 'UnknownError': xdebug.php-pack
+2023-04-01 16:16:32.263 [info] Extracted extension to /home/eduard/.vscode/extensions/.608c56e5-7f1d-4e6b-b541-18fd1bd3e348: xdebug.php-pack
+2023-04-01 16:16:32.267 [info] Renamed to /home/eduard/.vscode/extensions/xdebug.php-pack-1.0.3
+2023-04-01 16:16:32.267 [info] Extracting extension completed. xdebug.php-pack
+2023-04-01 16:16:32.271 [info] Extension installed successfully: xdebug.php-pack
+2023-04-01 16:16:32.272 [info] Getting Manifest... pkief.material-icon-theme
+2023-04-01 16:16:32.308 [info] Installing extension: pkief.material-icon-theme
+2023-04-01 16:16:32.308 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2023-04-01 16:16:32.669 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2023-04-01 16:16:32.845 [info] Extracted extension to /home/eduard/.vscode/extensions/.f0bfc60e-110d-4f6a-80a8-09764f398ca6: pkief.material-icon-theme
+2023-04-01 16:16:32.850 [info] Renamed to /home/eduard/.vscode/extensions/pkief.material-icon-theme-4.25.0
+2023-04-01 16:16:32.851 [info] Extracting extension completed. pkief.material-icon-theme
+2023-04-01 16:16:32.855 [info] Extension installed successfully: pkief.material-icon-theme
+2023-04-01 16:16:32.855 [info] Getting Manifest... donjayamanne.python-environment-manager
+2023-04-01 16:16:32.873 [info] Installing extension: donjayamanne.python-environment-manager
+2023-04-01 16:16:32.873 [info] Installing the extension without checking dependencies and pack donjayamanne.python-environment-manager
+2023-04-01 16:16:34.721 [warning] Extension signature verification failed with error 'UnknownError': donjayamanne.python-environment-manager
+2023-04-01 16:16:35.307 [info] Extracted extension to /home/eduard/.vscode/extensions/.672e954a-f1cb-4841-ba8b-c5483127e029: donjayamanne.python-environment-manager
+2023-04-01 16:16:35.312 [info] Renamed to /home/eduard/.vscode/extensions/donjayamanne.python-environment-manager-1.0.4
+2023-04-01 16:16:35.313 [info] Extracting extension completed. donjayamanne.python-environment-manager
+2023-04-01 16:16:35.317 [info] Extension installed successfully: donjayamanne.python-environment-manager
+2023-04-01 16:16:35.317 [info] Getting Manifest... ritwickdey.liveserver
+2023-04-01 16:16:35.374 [info] Installing extension: ritwickdey.liveserver
+2023-04-01 16:16:35.374 [info] Installing the extension without checking dependencies and pack ritwickdey.liveserver
+2023-04-01 16:16:36.390 [warning] Extension signature verification failed with error 'UnknownError': ritwickdey.liveserver
+2023-04-01 16:16:37.302 [info] Extracted extension to /home/eduard/.vscode/extensions/.fdc308c2-d6ca-4c74-b9ee-e33e0ff7ae79: ritwickdey.liveserver
+2023-04-01 16:16:37.309 [info] Renamed to /home/eduard/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2023-04-01 16:16:37.309 [info] Extracting extension completed. ritwickdey.liveserver
+2023-04-01 16:16:37.313 [info] Extension installed successfully: ritwickdey.liveserver
+2023-04-01 16:16:37.314 [info] Getting Manifest... ms-python.isort
+2023-04-01 16:16:37.351 [info] Installing extension: ms-python.isort
+2023-04-01 16:16:37.351 [info] Installing the extension without checking dependencies and pack ms-python.isort
+2023-04-01 16:16:37.754 [warning] Extension signature verification failed with error 'UnknownError': ms-python.isort
+2023-04-01 16:16:37.820 [info] Extracted extension to /home/eduard/.vscode/extensions/.23dfe539-02d4-483c-ba13-6b7e6e07efeb: ms-python.isort
+2023-04-01 16:16:37.821 [info] Renamed to /home/eduard/.vscode/extensions/ms-python.isort-2022.8.0
+2023-04-01 16:16:37.822 [info] Extracting extension completed. ms-python.isort
+2023-04-01 16:16:37.825 [info] Extension installed successfully: ms-python.isort
+2023-04-01 16:16:37.826 [info] Getting Manifest... ms-python.vscode-pylance
+2023-04-01 16:16:37.849 [info] Installing extension: ms-python.vscode-pylance
+2023-04-01 16:16:37.849 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2023-04-01 16:16:39.375 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2023-04-01 16:16:40.565 [info] Extracted extension to /home/eduard/.vscode/extensions/.b6def58c-4057-40c0-a4e3-0da663074b62: ms-python.vscode-pylance
+2023-04-01 16:16:40.574 [info] Renamed to /home/eduard/.vscode/extensions/ms-python.vscode-pylance-2023.3.40
+2023-04-01 16:16:40.575 [info] Extracting extension completed. ms-python.vscode-pylance
+2023-04-01 16:16:40.579 [info] Extension installed successfully: ms-python.vscode-pylance
+2023-04-01 16:16:40.580 [info] Getting Manifest... ms-python.python
+2023-04-01 16:16:40.602 [info] Installing extension: ms-python.python
+2023-04-01 16:16:40.602 [info] Installing the extension without checking dependencies and pack ms-python.python
+2023-04-01 16:16:42.673 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2023-04-01 16:16:43.336 [info] Extracted extension to /home/eduard/.vscode/extensions/.cf9972f6-ff0f-4531-bfd1-32251808992b: ms-python.python
+2023-04-01 16:16:43.342 [info] Renamed to /home/eduard/.vscode/extensions/ms-python.python-2023.6.0
+2023-04-01 16:16:43.344 [info] Extracting extension completed. ms-python.python
+2023-04-01 16:16:43.348 [info] Extension installed successfully: ms-python.python
+2023-04-01 16:16:43.348 [info] Getting Manifest... eamodio.gitlens
+2023-04-01 16:16:43.381 [info] Installing extension: eamodio.gitlens
+2023-04-01 16:16:43.381 [info] Installing the extension without checking dependencies and pack eamodio.gitlens
+2023-04-01 16:16:44.513 [warning] Extension signature verification failed with error 'UnknownError': eamodio.gitlens
+2023-04-01 16:16:44.646 [info] Extracted extension to /home/eduard/.vscode/extensions/.0d85ecc4-3f8c-4f04-8540-bf4b9ffcf6c7: eamodio.gitlens
+2023-04-01 16:16:44.655 [info] Renamed to /home/eduard/.vscode/extensions/eamodio.gitlens-13.4.0
+2023-04-01 16:16:44.658 [info] Extracting extension completed. eamodio.gitlens
+2023-04-01 16:16:44.666 [info] Extension installed successfully: eamodio.gitlens
+2023-04-01 16:16:44.667 [info] Getting Manifest... github.vscode-pull-request-github
+2023-04-01 16:16:44.687 [info] Installing extension: github.vscode-pull-request-github
+2023-04-01 16:16:44.687 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2023-04-01 16:16:45.099 [warning] Extension signature verification failed with error 'UnknownError': github.vscode-pull-request-github
+2023-04-01 16:16:45.137 [info] Extracted extension to /home/eduard/.vscode/extensions/.11cd543f-bf57-479c-9515-ed03cf19dec0: github.vscode-pull-request-github
+2023-04-01 16:16:45.139 [info] Renamed to /home/eduard/.vscode/extensions/github.vscode-pull-request-github-0.62.0
+2023-04-01 16:16:45.142 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-04-01 16:16:45.146 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-04-01 16:16:45.146 [info] Getting Manifest... ms-vscode.cpptools
+2023-04-01 16:16:45.188 [info] Installing extension: ms-vscode.cpptools
+2023-04-01 16:16:45.189 [info] Installing the extension without checking dependencies and pack ms-vscode.cpptools
+2023-04-01 16:16:53.359 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools
+2023-04-01 16:16:54.455 [info] Extracted extension to /home/eduard/.vscode/extensions/.c229ed5b-bfd3-4c84-a299-f770849a82e4: ms-vscode.cpptools
+2023-04-01 16:16:54.461 [info] Renamed to /home/eduard/.vscode/extensions/ms-vscode.cpptools-1.14.5-linux-x64
+2023-04-01 16:16:54.466 [info] Extracting extension completed. ms-vscode.cpptools
+2023-04-01 16:16:54.472 [info] Extension installed successfully: ms-vscode.cpptools

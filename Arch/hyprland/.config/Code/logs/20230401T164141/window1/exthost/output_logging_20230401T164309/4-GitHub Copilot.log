@@ -1,0 +1,732 @@
+[INFO] [codequote] [2023-04-01T14:43:12.152Z] CodeQuote disabled
+[INFO] [ghostText] [2023-04-01T14:46:16.180Z] Cancelled after extractPrompt
+[INFO] [default] [2023-04-01T14:46:16.266Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:16.710Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 443 ms
+[INFO] [streamChoices] [2023-04-01T14:46:16.712Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:16.714Z] request done: headerRequestId: [d907977f-ba46-4f33-b48d-bd8cd8f99fde] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:46:22.106Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:46:24.128Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-04-01T14:46:24.559Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:24.678Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:24.791Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:25.096Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:25.856Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-04-01T14:46:28.098Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:46:29.908Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:30.086Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 178 ms
+[INFO] [streamChoices] [2023-04-01T14:46:30.087Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:30.088Z] request done: headerRequestId: [c3934ae6-e5d7-47db-a121-9a193e143aa2] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:46:30.611Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:30.760Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:31.080Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 320 ms
+[INFO] [streamChoices] [2023-04-01T14:46:31.081Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:31.082Z] request done: headerRequestId: [809e561c-cfbb-450f-a9b3-d779a678d7ba] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:46:34.648Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:35.029Z] Cancelled by contextual filter
+[INFO] [default] [2023-04-01T14:46:36.141Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:36.330Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 189 ms
+[INFO] [streamChoices] [2023-04-01T14:46:36.331Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:36.332Z] request done: headerRequestId: [2f41d89c-3540-4492-ac94-a5244537fc78] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:46:36.763Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:36.981Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 217 ms
+[INFO] [streamChoices] [2023-04-01T14:46:36.982Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:36.983Z] request done: headerRequestId: [77d38a4c-f755-4b23-a8fd-47a0c65076e2] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:46:37.270Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:37.463Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 193 ms
+[INFO] [streamChoices] [2023-04-01T14:46:37.465Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:37.465Z] request done: headerRequestId: [4d8b99cd-12cd-4900-a8f6-d794dcd766de] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:46:37.813Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:38.338Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:38.922Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:46:39.632Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:39.867Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 234 ms
+[INFO] [streamChoices] [2023-04-01T14:46:39.868Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:39.868Z] request done: headerRequestId: [d6695c4c-e6b9-4dd5-8dbf-2763bf7f0180] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:46:40.106Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:40.243Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 136 ms
+[INFO] [streamChoices] [2023-04-01T14:46:40.244Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:40.244Z] request done: headerRequestId: [4864c3c7-3ab9-4fc3-b56d-3c17edea4910] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:46:42.805Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:43.076Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 271 ms
+[INFO] [streamChoices] [2023-04-01T14:46:43.077Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:43.078Z] request done: headerRequestId: [34a4e060-ebe1-43ec-be65-f94631931dbf] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:46:43.482Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:43.555Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:43.761Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:46:43.839Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:46:46.830Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:47.008Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:47.291Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 283 ms
+[INFO] [streamChoices] [2023-04-01T14:46:47.292Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:47.293Z] request done: headerRequestId: [cdf936e8-4128-423a-bb34-b13856126ba6] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:46:55.088Z] Cancelled during debounce
+[INFO] [default] [2023-04-01T14:46:55.207Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:55.352Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:55.578Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:55.726Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-04-01T14:46:55.874Z] Cancelled during debounce
+[INFO] [default] [2023-04-01T14:46:55.995Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-04-01T14:46:56.150Z] Cancelled during debounce
+[INFO] [default] [2023-04-01T14:46:56.272Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:56.426Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:56.708Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-04-01T14:46:56.942Z] Cancelled during debounce
+[INFO] [ghostText] [2023-04-01T14:46:57.066Z] Cancelled during debounce
+[INFO] [ghostText] [2023-04-01T14:46:57.152Z] Cancelled during debounce
+[INFO] [default] [2023-04-01T14:46:57.266Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-04-01T14:46:57.589Z] Cancelled during debounce
+[INFO] [default] [2023-04-01T14:46:57.701Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:57.851Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:57.985Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:58.187Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 202 ms
+[INFO] [streamChoices] [2023-04-01T14:46:58.188Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:58.188Z] request done: headerRequestId: [0ed8dada-dff0-440a-bfb1-5254dca99b62] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:46:59.467Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:46:59.797Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 330 ms
+[INFO] [streamChoices] [2023-04-01T14:46:59.798Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:46:59.799Z] request done: headerRequestId: [4f4d135c-690d-4117-9e34-bf793b010ae4] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:46:59.929Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:47:00.229Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:47:00.410Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 181 ms
+[INFO] [streamChoices] [2023-04-01T14:47:00.413Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:47:00.414Z] request done: headerRequestId: [92c3db47-35a0-4b46-a465-3a5d26d8fb59] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:47:02.877Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:03.532Z] Cancelled by contextual filter
+[INFO] [ghostText] [2023-04-01T14:47:04.806Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:04.971Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:05.206Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:05.397Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:05.562Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:05.727Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:05.891Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:47:06.052Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:47:06.636Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:47:06.822Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 186 ms
+[INFO] [streamChoices] [2023-04-01T14:47:06.823Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:47:06.823Z] request done: headerRequestId: [f8b353fa-e132-40ed-91f6-2c817882e36c] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:47:45.258Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:47:45.541Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 283 ms
+[INFO] [streamChoices] [2023-04-01T14:47:45.542Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:47:45.543Z] request done: headerRequestId: [79cc9b07-9c76-4ebf-848d-0b34c80c7253] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:47:45.899Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:47:46.103Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 204 ms
+[INFO] [streamChoices] [2023-04-01T14:47:46.103Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:47:46.104Z] request done: headerRequestId: [29a28a39-50f1-4050-9e52-e509b990b891] model deployment ID: [x58519fc8b61f]
+[INFO] [codequote] [2023-04-01T14:47:58.230Z] CodeQuote disabled
+[INFO] [solutions] [2023-04-01T14:48:16.985Z] prompt: {"prefix":"% Language: tex\n% create a new file with a beautiful front page","suffix":"","isFimEnabled":false,"promptElementRanges":[{"kind":"LanguageMarker","start":0,"end":16},{"kind":"BeforeCursor","start":16,"end":63}]}
+[INFO] [default] [2023-04-01T14:48:16.986Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:48:19.527Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 2541 ms
+[INFO] [streamChoices] [2023-04-01T14:48:22.844Z] solution 4 returned. finish reason: [stop]
+[INFO] [solutions] [2023-04-01T14:48:22.846Z] Open Copilot completion: [
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{mathrsfs}
+\usepackage{amsthm}
+\usepackage{amscd}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{verbatim}
+\usepackage{enumerate}
+\usepackage{color}
+\usepackage{epsfig}
+\usepackage{url}
+\usepackage{wrapfig}
+\usepackage{subfigure}
+\usepackage{cite}
+\usepackage{multirow}
+\]
+[INFO] [streamChoices] [2023-04-01T14:48:22.847Z] solution 0 returned. finish reason: [stop]
+[INFO] [solutions] [2023-04-01T14:48:22.848Z] Open Copilot completion: [
+\documentclass{article}
+\usepackage{frontpage}
+
+\begin{document}
+\frontpage
+
+\end{document}
+\endinput]
+[INFO] [streamChoices] [2023-04-01T14:48:23.065Z] solution 9 returned. finish reason: [length]
+[INFO] [solutions] [2023-04-01T14:48:23.066Z] Open Copilot completion: [
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amscd}
+\usepackage{stmaryrd}
+\usepackage{enumerate}
+\usepackage{tikz-cd}
+\usepackage{tikz}
+\usepackage{hyperref}
+\usepackage{bm}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{rotating}
+\usepackage{verbatim}
+\usepackage{tikz}
+\usepackage{tikz-cd}
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{rotating}
+\usepackage{verbatim}
+\usepackage{tikz}
+\usepackage{tikz-cd}
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{rotating}
+\usepackage{verbatim}
+\usepackage{tikz}
+\usepackage{tikz-cd}
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{rotating}
+\usepackage{verbatim}
+\usepackage{tikz}
+\usepackage{tikz-cd}
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+\usepackage{pifont}
+\usepackage{]
+[INFO] [streamChoices] [2023-04-01T14:48:23.155Z] solution 1 returned. finish reason: [length]
+[INFO] [solutions] [2023-04-01T14:48:23.157Z] Open Copilot completion: [
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{cite}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{url}
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{algpseudocode}
+\usepackage{authblk}
+\usepackage{blindtext}
+\usepackage{booktabs}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{makecell}
+\usepackage{multirow}
+\usepackage{subcaption}
+\usepackage{url}
+\usepackage{wrapfig}
+
+\usepackage{amsmath,amssymb,bm,amsfonts}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{cite}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{url}
+
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{algpseudocode}
+\usepackage{authblk}
+\usepackage{blindtext}
+\usepackage{booktabs}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{makecell}
+\usepackage{multirow}
+\usepackage{subcaption}
+\usepackage{url}
+\usepackage{wrapfig}
+
+\usepackage{amsmath,amssymb,bm,amsfonts}
+\usepackage{graphicx}
+\usepackage{subfig}
+\usepackage{amsmath}
+\usepackage]
+[INFO] [streamChoices] [2023-04-01T14:48:23.196Z] solution 7 returned. finish reason: [stop]
+[INFO] [solutions] [2023-04-01T14:48:23.196Z] Open Copilot completion: [
+% 
+% Usage: 
+%   \documentclass{article}
+%   \usepackage{frontpage}
+%   \begin{document}
+%   \frontpage
+%   \end{document}
+% 
+% The front page is created using the title, author, date and
+% publisher defined in the preamble.
+% 
+% The front page is created using the title, author, date and
+% publisher defined in the preamble.
+\documentclass[12pt]{article}
+\usepackage{frontpage}
+\begin{document}
+\frontpage
+\end{document}
+```
+
+# License
+
+The code is licensed under the [MIT license](https://opensource.org/licenses/MIT).]
+[INFO] [streamChoices] [2023-04-01T14:48:23.318Z] solution 5 returned. finish reason: [length]
+[INFO] [solutions] [2023-04-01T14:48:23.319Z] Open Copilot completion: [
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amss]
+[INFO] [streamChoices] [2023-04-01T14:48:23.434Z] solution 6 returned. finish reason: [length]
+[INFO] [solutions] [2023-04-01T14:48:23.436Z] Open Copilot completion: [
+\documentclass[12pt]{article}
+\usepackage{amsmath,amssymb,amsfonts,amsthm,graphicx,epsfig,subfigure}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+\usepackage{geometry}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tikz}
+\usepackage{verbatim}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{float}
+\usepackage{url}
+\usepackage{multirow}
+\usepackage{rotating}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{arydshln}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pg]
+[INFO] [streamChoices] [2023-04-01T14:48:23.528Z] solution 3 returned. finish reason: [length]
+[INFO] [solutions] [2023-04-01T14:48:23.530Z] Open Copilot completion: [
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{bbm}
+\usepackage{enumitem}
+\usepackage{mathtools}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage{cancel}
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{tabu}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{todonotes}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{adjustbox}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{algpseudocode}
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{tabu}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{todonotes}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{adjustbox}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{algpseudocode}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{todonotes}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{adjustbox}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{algpseudocode}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{todonotes}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{adjustbox}
+\use]
+[INFO] [streamChoices] [2023-04-01T14:48:23.644Z] solution 2 returned. finish reason: [length]
+[INFO] [solutions] [2023-04-01T14:48:23.646Z] Open Copilot completion: [
+% 1. create a new file
+% 2. use the \frontmatter command
+% 3. use the \title, \author and \date commands
+% 4. use the \maketitle command
+% 5. use the \mainmatter command
+% 6. use the \tableofcontents command
+% 7. use the \include command to include the chapters
+% 8. use the \backmatter command
+% 9. use the \printbibliography command
+% 10. use the \end command to finish the file
+
+\documentclass[10pt,oneside,openany]{book}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{url}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{array}
+\usepackage{color}
+
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{array}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{url}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{array}
+\usepackage{color}
+
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage{array}
+\usepackage{color}
+\use]
+[INFO] [streamChoices] [2023-04-01T14:48:23.765Z] solution 8 returned. finish reason: [length]
+[INFO] [solutions] [2023-04-01T14:48:23.767Z] Open Copilot completion: [
+% 
+\documentclass[11pt]{article}
+\usepackage{geometry}
+\geometry{a4paper, textwidth=16cm, textheight=23cm, marginparsep=7mm,
+marginparwidth=0mm}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{listings}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\usepackage{mathtools}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{pgfplotstable}
+\usepackage{tikz}
+\usepackage{tikzscale}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{tikz}
+\usepackage{tikzscale}
+\usetikzlibrary{arrows}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{tikz}
+\usepackage{tikzscale}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{tikz}
+\usepackage{tikzscale}
+\usetikzlibrary{arrows}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{arrows.meta}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{tikz}
+\usepackage{tikzscale}
+\usetikzlibrary{arrows}
+\usetikzlibrary{arrows.meta}
+\usetikzlibrary{arrows.meta}
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{tikz}
+\usepackage{tikzscale}
+\usetikzlibrary{arrows}
+\usetikzlibrary{ar]
+[INFO] [streamChoices] [2023-04-01T14:48:23.770Z] request done: headerRequestId: [8dd44ada-1cd9-4410-b6ca-e99b6dcfaf4e] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:48:45.355Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:48.494Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:48.564Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:48.738Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:48.928Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:48:52.277Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:48:52.517Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:48:52.699Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 182 ms
+[INFO] [streamChoices] [2023-04-01T14:48:52.700Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:48:52.701Z] request done: headerRequestId: [2fa45c0b-d357-446e-b9dc-98d11eef372b] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:48:53.026Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:53.229Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:53.293Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:53.403Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:53.721Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:54.108Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:48:54.220Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:48:54.502Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:48:54.754Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 252 ms
+[INFO] [streamChoices] [2023-04-01T14:48:54.755Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:48:54.756Z] request done: headerRequestId: [b11618fe-7819-45ca-a0a1-199c59436eff] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:48:57.971Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:48:58.128Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 157 ms
+[INFO] [streamChoices] [2023-04-01T14:48:58.129Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:48:58.129Z] request done: headerRequestId: [34dbe085-c873-492d-b229-7abcc05321b4] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:14.735Z] Found inline suggestions locally
+[INFO] [ghostText] [2023-04-01T14:49:17.039Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:17.355Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:17.597Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 241 ms
+[INFO] [streamChoices] [2023-04-01T14:49:17.598Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:17.599Z] request done: headerRequestId: [b2ce2a7b-74f4-41dd-8f87-57413ede2829] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:18.194Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:19.330Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:19.607Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 276 ms
+[INFO] [streamChoices] [2023-04-01T14:49:19.608Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:19.609Z] request done: headerRequestId: [65af2a52-a226-474a-ae47-0888b64c4f4b] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:20.492Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:20.850Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:21.291Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 441 ms
+[INFO] [streamChoices] [2023-04-01T14:49:21.292Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:21.293Z] request done: headerRequestId: [d8c3b7b1-4ea4-4685-97a2-c8f8b244f262] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:21.814Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:22.070Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:22.267Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 196 ms
+[INFO] [streamChoices] [2023-04-01T14:49:22.267Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:22.268Z] request done: headerRequestId: [3182bb38-99c4-42a7-a3bd-284ed0c9653f] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:22.803Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:23.051Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:23.320Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 269 ms
+[INFO] [streamChoices] [2023-04-01T14:49:23.322Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:23.323Z] request done: headerRequestId: [885ff2de-0c8a-4056-a160-c3e4f3ed7665] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:23.696Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:23.904Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:24.267Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 363 ms
+[INFO] [streamChoices] [2023-04-01T14:49:24.268Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:24.269Z] request done: headerRequestId: [8f2e46cf-c25c-4233-8d0e-6b92f631e841] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:25.625Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:25.889Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:26.080Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 190 ms
+[INFO] [streamChoices] [2023-04-01T14:49:26.081Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:26.082Z] request done: headerRequestId: [d10584bb-2d8c-4e36-8122-e1911786ef6c] model deployment ID: [x58519fc8b61f]
+[INFO] [ghostText] [2023-04-01T14:49:26.164Z] Found inline suggestions locally
+[INFO] [default] [2023-04-01T14:49:26.778Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:27.031Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:27.325Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:27.625Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 300 ms
+[INFO] [streamChoices] [2023-04-01T14:49:27.626Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:27.627Z] request done: headerRequestId: [3ed4b84a-adb5-48b4-9ae9-7dfb6c3c64fd] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:49:28.680Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:28.885Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 205 ms
+[INFO] [streamChoices] [2023-04-01T14:49:28.885Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:28.886Z] request done: headerRequestId: [99052aa5-befb-4c2f-8880-40122baf49cd] model deployment ID: [x58519fc8b61f]
+[INFO] [default] [2023-04-01T14:49:30.329Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [default] [2023-04-01T14:49:30.788Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex/completions] took 459 ms
+[INFO] [streamChoices] [2023-04-01T14:49:30.790Z] solution 0 returned. finish reason: [stop]
+[INFO] [streamChoices] [2023-04-01T14:49:30.791Z] request done: headerRequestId: [79639af3-8363-4c07-96c8-aaedd71ad516] model deployment ID: [x58519fc8b61f]

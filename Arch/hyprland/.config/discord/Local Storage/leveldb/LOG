@@ -1,0 +1,6 @@
+2023/04/02-11:27:31.776 909 Reusing MANIFEST /home/eduard/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/04/02-11:27:31.777 909 Recovering log #14
+2023/04/02-11:27:31.778 909 Reusing old log /home/eduard/.config/discord/Local Storage/leveldb/000014.log 
+2023/04/02-11:29:32.302 90a Level-0 table #17: started
+2023/04/02-11:29:32.318 90a Level-0 table #17: 1523544 bytes OK
+2023/04/02-11:29:32.319 90a Delete type=0 #14

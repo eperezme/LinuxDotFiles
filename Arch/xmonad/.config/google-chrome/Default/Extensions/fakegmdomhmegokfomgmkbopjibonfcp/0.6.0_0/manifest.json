@@ -1,0 +1,36 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icon48.png"
+   },
+   "content_scripts": [ {
+      "js": [ "app.js" ],
+      "matches": [ "https://app.getmetastream.com/*", "http://local.getmetastream.com/*", "http://localhost:8080/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "first.js" ],
+      "matches": [ "*://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Watch streaming media with friends.",
+   "externally_connectable": {
+      "matches": [ "https://app.getmetastream.com/*", "http://local.getmetastream.com/*", "http://localhost:8080/*" ]
+   },
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwATjrynWXJ48EwhcylI6Qe9D8RKhUtWJ6e+fa0nM1KUZpW0gTXNRfY8k8ZfByuwzSquLQUv5l9d+enkWz+txQEnuJrAeFMdEZKyZJwEhEw68Zz+TSDl5BZSRbUJlLdVz+ZeBBEJnbtHpI4ZIaZbNx3QN7S0VTV/GDqX6C4IJi/6f6V230UyKD9mptFAFjtsPmrUZT3jmNJ7C7XlfsyVFtziePvuZaRuYQeB+xg5ZgXguWpN+++sjU2IvTko+nuOuMSLyGJYaaMjtSIreyjo5GnBvn/j12Ub0uyrnAnh/+195Wwl/mjP28PJFVr6ms1ij/oh/909OgBTbDt4/8201swIDAQAB",
+   "manifest_version": 2,
+   "name": "Metastream Remote",
+   "optional_permissions": [ "contentSettings" ],
+   "permissions": [ "tabs", "webNavigation", "webRequest", "webRequestBlocking", "contextMenus", "\u003Call_urls>" ],
+   "short_name": "Metastream",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.6.0"
+}

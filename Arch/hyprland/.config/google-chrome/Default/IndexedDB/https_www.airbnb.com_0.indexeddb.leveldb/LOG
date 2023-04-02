@@ -1,0 +1,6 @@
+2023/03/30-02:17:29.636 14aa Creating DB /home/eduard/.config/google-chrome/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb since it was missing.
+2023/03/30-02:17:29.641 14aa Reusing MANIFEST /home/eduard/.config/google-chrome/Default/IndexedDB/https_www.airbnb.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/30-02:18:26.479 14ab Level-0 table #5: started
+2023/03/30-02:18:26.480 14ab Level-0 table #5: 1247 bytes OK
+2023/03/30-02:18:26.481 14ab Delete type=0 #3
+2023/03/30-02:18:26.481 14ab Manual compaction at level-0 from (begin) .. (end); will stop at (end)

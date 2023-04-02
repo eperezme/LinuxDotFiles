@@ -1,0 +1,28 @@
+2023-04-01 17:08:05.746 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-04-01 17:08:05.746 [info] Auto Sync is enabled.
+2023-04-01 17:08:05.746 [info] Auto Sync: Suspended until auth token is available.
+2023-04-01 17:08:06.364 [info] Deleting non existing profile from backup /home/eduard/.config/Code/User/sync/extensions
+2023-04-01 17:08:06.384 [info] Deleting non existing profile from backup /home/eduard/.config/Code/User/sync/globalState
+2023-04-01 17:08:06.385 [info] Deleting non existing profile from backup /home/eduard/.config/Code/User/sync/keybindings
+2023-04-01 17:08:06.386 [info] Deleting non existing profile from backup /home/eduard/.config/Code/User/sync/profiles
+2023-04-01 17:08:06.387 [info] Deleting non existing profile from backup /home/eduard/.config/Code/User/sync/settings
+2023-04-01 17:08:06.388 [info] Deleting non existing profile from backup /home/eduard/.config/Code/User/sync/snippets
+2023-04-01 17:08:06.389 [info] Deleting non existing profile from backup /home/eduard/.config/Code/User/sync/tasks
+2023-04-01 17:08:06.805 [info] Auto Sync: Triggered by Interval
+2023-04-01 17:08:06.805 [info] Sync started.
+2023-04-01 17:08:07.041 [info] Settings: Last sync resource does not exist locally.
+2023-04-01 17:08:07.136 [info] Settings: No changes found during synchronizing settings.
+2023-04-01 17:08:07.138 [info] Keybindings: Last sync resource does not exist locally.
+2023-04-01 17:08:07.192 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-04-01 17:08:07.193 [info] Snippets: Last sync resource does not exist locally.
+2023-04-01 17:08:07.281 [info] Snippets: No changes found during synchronizing snippets.
+2023-04-01 17:08:07.283 [info] Tasks: Last sync resource does not exist locally.
+2023-04-01 17:08:07.328 [info] Tasks: No changes found during synchronizing tasks.
+2023-04-01 17:08:07.330 [info] GlobalState: Last sync resource does not exist locally.
+2023-04-01 17:08:07.679 [info] GlobalState: Updated remote ui state. Updated: workbench.panel.pinnedPanels,workbench.activity.pinnedViewlets2.
+2023-04-01 17:08:07.685 [info] GlobalState: Updated last synchronized ui state
+2023-04-01 17:08:07.687 [info] Extensions: Last sync resource does not exist locally.
+2023-04-01 17:08:07.795 [info] Extensions: No changes found during synchronizing extensions.
+2023-04-01 17:08:07.796 [info] Profiles: Last sync resource does not exist locally.
+2023-04-01 17:08:07.897 [info] Profiles: No changes found during synchronizing profiles.
+2023-04-01 17:08:07.898 [info] Sync done. Took 1094ms

@@ -1,0 +1,7 @@
+2023/04/01-17:49:49.248 54e Reusing MANIFEST /home/eduard/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/01-17:49:49.248 54e Recovering log #3
+2023/04/01-17:49:49.248 54e Reusing old log /home/eduard/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2023/04/01-17:50:54.131 54f Level-0 table #5: started
+2023/04/01-17:50:54.132 54f Level-0 table #5: 11125 bytes OK
+2023/04/01-17:50:54.133 54f Delete type=0 #3
+2023/04/01-17:50:54.133 54f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

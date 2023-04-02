@@ -1,0 +1,45 @@
+2023/04/02-11:26:50.229 3 Reusing MANIFEST /home/eduard/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/04/02-11:26:50.229 3 Recovering log #301
+2023/04/02-11:26:50.234 3 Level-0 table #304: started
+2023/04/02-11:26:50.238 3 Level-0 table #304: 141111 bytes OK
+2023/04/02-11:26:50.245 3 Delete type=0 #301
+2023/04/02-11:32:33.134 4 Level-0 table #307: started
+2023/04/02-11:32:33.140 4 Level-0 table #307: 2639859 bytes OK
+2023/04/02-11:32:33.142 4 Delete type=0 #305
+2023/04/02-11:32:33.142 4 Compacting 4@0 + 2@1 files
+2023/04/02-11:32:33.147 4 Generated table #308@0: 51 keys, 2641675 bytes
+2023/04/02-11:32:33.158 4 Generated table #309@0: 710 keys, 2111503 bytes
+2023/04/02-11:32:33.160 4 Generated table #310@0: 76 keys, 172785 bytes
+2023/04/02-11:32:33.160 4 Compacted 4@0 + 2@1 files => 4925963 bytes
+2023/04/02-11:32:33.160 4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/04/02-11:32:33.161 4 Delete type=2 #297
+2023/04/02-11:32:33.161 4 Delete type=2 #298
+2023/04/02-11:32:33.161 4 Delete type=2 #304
+2023/04/02-11:32:33.161 4 Delete type=2 #302
+2023/04/02-11:32:33.161 4 Delete type=2 #300
+2023/04/02-11:32:33.161 4 Delete type=2 #307
+2023/04/02-11:34:11.131 4 Level-0 table #312: started
+2023/04/02-11:34:11.136 4 Level-0 table #312: 137901 bytes OK
+2023/04/02-11:34:11.137 4 Delete type=0 #306
+2023/04/02-11:39:57.030 4 Level-0 table #314: started
+2023/04/02-11:39:57.045 4 Level-0 table #314: 3583254 bytes OK
+2023/04/02-11:39:57.047 4 Delete type=0 #311
+2023/04/02-11:43:43.246 4 Level-0 table #316: started
+2023/04/02-11:43:43.264 4 Level-0 table #316: 2652351 bytes OK
+2023/04/02-11:43:43.265 4 Delete type=0 #313
+2023/04/02-11:43:59.110 4 Level-0 table #318: started
+2023/04/02-11:43:59.113 4 Level-0 table #318: 134649 bytes OK
+2023/04/02-11:43:59.114 4 Delete type=0 #315
+2023/04/02-11:43:59.114 4 Compacting 4@0 + 3@1 files
+2023/04/02-11:43:59.147 4 Generated table #319@0: 51 keys, 2660064 bytes
+2023/04/02-11:43:59.157 4 Generated table #320@0: 710 keys, 2111553 bytes
+2023/04/02-11:43:59.158 4 Generated table #321@0: 76 keys, 172666 bytes
+2023/04/02-11:43:59.158 4 Compacted 4@0 + 3@1 files => 4944283 bytes
+2023/04/02-11:43:59.160 4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/04/02-11:43:59.160 4 Delete type=2 #318
+2023/04/02-11:43:59.160 4 Delete type=2 #312
+2023/04/02-11:43:59.160 4 Delete type=2 #314
+2023/04/02-11:43:59.160 4 Delete type=2 #309
+2023/04/02-11:43:59.160 4 Delete type=2 #316
+2023/04/02-11:43:59.160 4 Delete type=2 #308
+2023/04/02-11:43:59.160 4 Delete type=2 #310

@@ -1,0 +1,66 @@
+{
+   "background": {
+      "scripts": [ "js/lib/js.cookie.v2.2.0.js", "js/lib/clipboard.js", "js/ActivityLogger.js", "js/ActivityLogUtil.js", "js/AuthWrapper.js", "js/BackgroundDataManager.js", "js/BackgroundScriptUtil.js", "js/BigSyncStorage.js", "js/BrowserEnv.js", "js/Config.js", "js/ExtensionUtils.js", "js/GMikeAPI.js", "js/MessageAction.js", "js/OutputFormat.js", "js/ScreenshotUtil.js", "js/SheetsSync.js", "js/TableActionLogger.js", "js/TableUtil.js", "js/table.analytics.js", "js/background.js" ]
+   },
+   "commands": {
+      "_execute_page_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+T",
+            "mac": "Alt+Shift+T",
+            "windows": "Alt+Shift+T"
+         }
+      },
+      "display-inline-table-capture": {
+         "description": "Display Inline",
+         "suggested_key": {
+            "default": "Ctrl+Shift+D",
+            "mac": "Alt+Shift+D",
+            "windows": "Alt+Shift+D"
+         }
+      },
+      "launch-table-capture-workshop": {
+         "description": "Launch Workshop",
+         "suggested_key": {
+            "default": "Ctrl+Shift+E",
+            "mac": "Alt+Shift+E",
+            "windows": "Alt+Shift+E"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/hint.min.css", "css/content.css", "css/SelectionWorkshop.css", "css/ContentComponents.css", "css/Loading.css", "css/Toggle.css" ],
+      "exclude_matches": [  ],
+      "js": [ "js/lib/Blob.js", "js/lib/FileSaver.v2.0.4.min.js", "js/lib/xlsx.full.0.16.1.min.js", "js/lib/js.cookie.v2.2.0.js", "js/lib/clipboard.js", "js/lib/html2canvas.js", "js/lib/markdown-table.js", "js/AutoPager.js", "js/DataClipper.js", "js/DataProvider.js", "js/MockActivityLogger.js", "js/MessageAction.js", "js/OutputFormat.js", "js/MutationSnoop.js", "js/TableShow.js", "js/DetachedTableShow.js", "js/ElementWrapper.js", "js/TableWrapper.js", "js/SelectionWrapper.js", "js/SpecialCaseElementWrapper.js", "js/NotionTableWrapper.js", "js/RecipeTableWrapper.js", "js/app/ContentScriptUtil.js", "js/app/PagingListener.js", "js/app/Robot.js", "js/app/ContentModal.js", "js/app/WorkshopEvent.js", "js/app/WorkshopFrame.js", "js/app/SelectionWorkshop.js", "js/BigSyncStorage.js", "js/BrowserEnv.js", "js/Config.js", "js/ExtensionUtils.js", "js/ExcelUtil.js", "js/TableActionLogger.js", "js/TableUtil.js", "js/ScreenshotUtil.js", "js/SheetsSyncBridge.js", "js/TableManager.js", "js/content.js" ],
+      "match_about_blank": true,
+      "matches": [ "file://*/*", "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://www.google-analytics.com https://apis.google.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Copies HTML tables to the clipboard or exports them to Microsoft Excel, CSV, Google Sheets, Office 365, etc.",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDi6Dw5DobK26uihLg0LSQyWag4yYjQXemyTIZVjnunraQ9t5d8L+5DKW791Wwqxv4M4AyQG0JOraRAHEZsHgBQTRBDkBOOWgPBW2yr1lwg3v9E5eKXqeh4ieA1zIvNmomR/n9vNRqjIJ5VLt032T4R2XtyRx4gcbUVi+GqFdFhjQIDAQAB",
+   "manifest_version": 2,
+   "name": "Table Capture",
+   "oauth2": {
+      "client_id": "1097367017052-trrb99o67tl9v060qcul5k2848da97t6.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/userinfo.email" ]
+   },
+   "optional_permissions": [ "identity" ],
+   "options_page": "options.html",
+   "page_action": {
+      "default_icon": {
+         "19": "images/icon.addressbar.19.gif"
+      },
+      "default_name": "Tables Available to Capture",
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "tabs", "storage", "contextMenus", "webNavigation" ],
+   "short_name": "Table Capture",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "10.0.36",
+   "web_accessible_resources": [ "images/icon.addressbar.gif", "images/icon.addressbar.19.gif", "images/loader.gif", "images/icon.png", "images/icon.csv.b.png", "images/icon.clipboard.add.png", "images/icon.clipboard.edit.png", "images/icon.excel.svg", "images/icon.html.png", "images/icon.markdown.png", "images/icon.menu.png", "images/icon.o365.png", "images/icon.publish.png", "images/icon.sheets.png", "images/icon.screenshot.big.png", "images/icon.cloud.128.png", "activate.html", "activity.html", "clips.html", "cloud.html", "manage-sheets.html", "options.html", "pdf-extract.html", "recipes.html", "support.html", "upgrade.html", "onboard/onboard.html" ]
+}
