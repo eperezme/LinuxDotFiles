@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=vscode
+Name=did-authenticate
+Type=Link
+URL[$e]=vscode://vscode.github-authentication/did-authenticate?nonce=92dda0e3c7cb4102&windowId=2&code=d2a377e7530f16576bd9&state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253D92dda0e3c7cb4102%2526windowId%253D2
+X-KDE-LastOpenedWith=code-url-handler

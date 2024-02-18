@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>ChromeOS Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1354050</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>72</rating>
+  <downloads>3586</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/desktoptheme/ChromeOS</installedfile>
+  <id>1354050</id>
+  <releasedate>2024-01-13</releasedate>
+  <summary>ChromeOS kde is a materia Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+- Aurorae Themes&lt;br />
+- Kvantum Themes &lt;a href="http:// https://www.pling.com/p/1354051/ " target="_blank" rel="nofollow"> https://www.pling.com/p/1354051/ &lt;/a>&lt;br />
+- Plasma Color Schemes&lt;br />
+- Plasma Desktop Themes&lt;br />
+- Plasma Look-and-Feel Themes&lt;br />
+- wallpaper &lt;a href="https://www.pling.com/p/1307853/" target="_blank" rel="nofollow">https://www.pling.com/p/1307853/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1354050/image868.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1354050/image868.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDUxNjEyMTAiLCJvIjoiMSIsInMiOiJmMGIzY2M5NGRhNWFkYWQzYWUwMTZkOWQ5NWFmZjYzNGQ2ZGFiODg0N2U5ZmI4NGZhZjQxN2RmODA0MmIxZDA0NGVjMjcwZDQzOGFiZDFmM2RiOGY4NzQ3ZGUwNzkxMjMyZGRlMmI5NGJhNzExZTE2ODdkOGEzODE5MmRmY2UwMiIsInQiOjE3MDgwOTczNDAsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.axciNWph9HZCzQ-E8sFVYyHOAW0IFZfAicrEQrGckOk/ChromeOS.tar.xz</payload>
+  <tags>theme,unix,kde,linux,original-product,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Scratchy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1896013</homepage>
+  <licence></licence>
+  <version>1.6</version>
+  <rating>58</rating>
+  <downloads>7678</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/desktoptheme/Scratchy</installedfile>
+  <id>1896013</id>
+  <releasedate>2024-02-16</releasedate>
+  <summary>Dark theme, based on the catppuccin macchiato color palette.&lt;br />
+https://github.com/catppuccin/catppuccin</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1896013/scratchy-global-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1896013/scratchy-global-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTQ4OTc5MjYiLCJvIjoiMSIsInMiOiI4ZTg3MWE1OWI4Mjk1Y2JiNmFhMWI0NDQ3NTg4NDc2ZWNlMDVhYTVhNmFiYjgyMGQ1Njg4YWU0MDZiOGUxYWMxMWUwMTkxMDcxNjE1NWY0NTRjNjUzYjE2MjdjOTg5ZGUwOGM1ZDNlZDJmMTdlMGEwMTY5ZGRlN2UxOGUxYTMyMSIsInQiOjE3MDgwOTc3MzksInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.zk0uGTXUJipHFaLzQzecn9eSFM4q4huYpUmB2pfgJOg/Scratchy.tar.gz</payload>
+  <tags>kde,linux,mit-license,plasma,theme,unix,plasma##majorversion=5</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>WhiteSur [Apple MacOS] dark plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1400409</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>81</rating>
+  <downloads>8095</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/desktoptheme/WhiteSur-dark</installedfile>
+  <id>1400409</id>
+  <releasedate>2024-01-13</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398841/" target="_blank" rel="nofollow">https://www.pling.com/p/1398841/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1405756/" target="_blank" rel="nofollow">https://www.pling.com/p/1405756/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Cursors theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1355701/" target="_blank" rel="nofollow">https://www.pling.com/p/1355701/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Wallpaper:&lt;/strong> &lt;a href="https://www.pling.com/p/1398833/" target="_blank" rel="nofollow">https://www.pling.com/p/1398833/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1400409/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1400409/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDUxNjU4NTQiLCJvIjoiMSIsInMiOiIwMWRlNjBkYmE1YTYzMGNhMTNlYTEzZTJjZDA2NjY1NGQ1ZjIyMGYwMmVlODVjNjY0OTUxOWYxYjc0NDI2M2FmMmVjODMyNjNlMTVlODg3NGUwMDIxYmZiY2Q3NjBiZDdmNzdmYmM2YTlhMDIxN2U2ODNlZTBmMTUzOGM4MmQ5MiIsInQiOjE3MDgwOTgyNzcsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ._cAa_HuVcVO_jJicinCREaLguY06yQ8CVu_i5nCPDBM/WhiteSur-dark.tar.xz</payload>
+  <tags>plasma,original-product,theme,unix,gplv3,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Layan plasma theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325241</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>80</rating>
+  <downloads>11601</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/desktoptheme/Layan</installedfile>
+  <id>1325241</id>
+  <releasedate>2024-02-15</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon theme&lt;/strong>: Tela icon theme&lt;br />
+&lt;a href="https://www.pling.com/p/1279924/" target="_blank" rel="nofollow">https://www.pling.com/p/1279924/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Wallpaper&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309218/" target="_blank" rel="nofollow">https://www.pling.com/p/1309218/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325241/0103cc7287e0a059282b827939062da324ea.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325241/0103cc7287e0a059282b827939062da324ea.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDQ4MTg4MTAiLCJvIjoiMSIsInMiOiIxOWJkODJmMzc2N2JmODg5M2RkYWY0YzU1NjI0N2I0ZjdjYmU2YmU3OGI0OTNiZTM4MGI1MDRhZDAxOWM4YTVlYzc2Nzg0NDk4YzhmNDNkOGJmNmUyZjFkYzBjNGI2ZWRhNWY3MTNjNWU3NmE3ZmM0ZTU1MjgyNTAzZGJhMTExOCIsInQiOjE3MDgwOTczMTQsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.8ttgOymDbdAr8jXpUikPPlqwH552dhYRPFr6iLnvPjY/Layan.tar.gz</payload>
+  <tags>unix,theme,gplv3,original-product,plasma,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

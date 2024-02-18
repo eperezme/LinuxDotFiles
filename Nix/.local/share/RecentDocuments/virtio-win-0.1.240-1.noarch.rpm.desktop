@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-rpm
+Name=virtio-win-0.1.240-1.noarch.rpm
+Type=Link
+URL[$e]=file:$HOME/Downloads/virtio-win-0.1.240-1.noarch.rpm
+X-KDE-LastOpenedWith=org.kde.ark

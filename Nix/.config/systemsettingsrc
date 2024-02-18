@@ -1,0 +1,18 @@
+[FileDialogSize]
+2 screens: Height=780
+2 screens: Width=1300
+
+[KFileDialog Settings]
+Recent Files[$e]=IntoneMonoNerdFont-Bold.ttf,file:$HOME/Downloads/PXL_20240202_082113029.RAW-01.MP.COVER.jpg,file:$HOME/Pictures/Screenshot_20240216_170302.png,file:$HOME/Downloads/FiraMono/FiraMonoNerdFontPropo-Regular.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFontPropo-Medium.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFontPropo-Bold.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFontMono-Regular.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFontMono-Medium.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFontMono-Bold.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFont-Regular.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFont-Medium.otf,file:$HOME/Downloads/FiraMono/FiraMonoNerdFont-Bold.otf,file:$HOME/Downloads/IntelOneMono/IntoneMonoNerdFontMono-MediumItalic.ttf,file:$HOME/Downloads/IntelOneMono/IntoneMonoNerdFontMono-Medium.ttf,file:$HOME/Downloads/IntelOneMono/IntoneMonoNerdFontMono-LightItalic.ttf,file:$HOME/Downloads/IntelOneMono/IntoneMonoNerdFontMono-Light.ttf
+Recent URLs[$e]=file:$HOME/Downloads/IntelOneMono/,file:$HOME/Downloads/FiraMono/,file:$HOME/Pictures/,file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Height=867
+2 screens: Width=1416
+2 screens: XPosition=465
+2 screens: YPosition=122
+DP-1 DP-2=DP-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABsIAAAP3AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

@@ -1,0 +1,20 @@
+[ExtractDialog]
+2 screens: Height=740
+2 screens: Width=1605
+DirHistory[$e]=$HOME/.config/kvantum/,$HOME/Downloads/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME
+Recent URLs[$e]=file:$HOME/.config/kvantum/,file:$HOME/Downloads/,file:$HOME/
+detailViewIconSize=16
+
+[MainWindow]
+2 screens: Height=606
+2 screens: Width=942
+State=AAAA/wAAAAD9AAAAAQAAAAEAAACrAAACMPwCAAAAAfsAAAAWAGEAcgBrAF8AcwBpAGQAZQBiAGEAcgEAAAAuAAACMAAAAHMBAAACAAADAgAAAjAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled

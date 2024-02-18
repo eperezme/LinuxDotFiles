@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="299">
+  <name>WhiteSur Wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398833</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>66</rating>
+  <downloads>578356</downloads>
+  <installedfile>/home/eperezme/.local/share/wallpapers/WhiteSur/*</installedfile>
+  <id>1398833</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398833/3fdc0e89e55c612da93893fd2162539284231.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398833/3fdc0e89e55c612da93893fd2162539284231.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM1ODg5MzciLCJvIjoiMSIsInMiOiJiZGVlZTBiNzE4ZjJjNmU0YTIxMmU2ZGI3OTU3OTgxYjdmMGU4YTk2YjE0YjkwMzhmOWU4NTQxZDY1YmVlMjJjZGEzMGM2MDc4YTFkMjg5NDhmNmMyNGU3YjJhM2Y4MzFiYzU3MzkyY2VmMjA3NTFhMGIxOTA5NGRmNzU5MGI5NSIsInQiOjE3MDgwOTgyODAsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.3FNZAtef0iW_bODMD7oXuKEaQQ20XLZzTXdpMXUHgU4/WhiteSur.tar.xz</payload>
+  <tags>kde,artwork,cc-by-sa,wallpaper,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Scratchy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1896012</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>11365</downloads>
+  <installedfile>/home/eperezme/.local/share/wallpapers/Scratchy/*</installedfile>
+  <id>1896012</id>
+  <releasedate>2023-03-25</releasedate>
+  <summary>Wallpaper for Scratchy plasma theme.&lt;br />
+&lt;br />
+Scratchy plasma theme: https://www.pling.com/p/1896013/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1896012/scratchy-pling.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1896012/scratchy-pling.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Nzk3NDU5NTYiLCJvIjoiMSIsInMiOiIyNjIzOThiMzE4YTk0MDExODBlNTM4MDcxNDc2YzY4ZmJhMWU2ODg3ODY5MTI4NjQ1MGExNTAyOTk3ZDZlODcyODhhZjIxMTM5ZGUyN2FjMDNhMDk3MTM4NjY4ZGFkNDk0Y2ZjYjI4YTIxMGI3OWRiOGJkM2UwOTZhMjFiZjk4ZSIsInQiOjE3MDgwOTc3NDgsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.9eake0rEjmTVzEltkF7QHqePJ0QWaB70r4FgLx5wkKE/Scratchy.tar.gz</payload>
+  <tags>gplv3,kde,wallpaper,plasma,original-product,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Layan wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1309218</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>70</rating>
+  <downloads>378010</downloads>
+  <installedfile>/home/eperezme/.local/share/wallpapers/CYCnkf-Layan/*</installedfile>
+  <id>1309218</id>
+  <releasedate>2020-05-19</releasedate>
+  <summary>Layan wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1309218/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1309218/56c7cecf6cbf36ae3c18198c0874278fbbc3.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODk4NzY2NzAiLCJvIjoiMSIsInMiOiI3YTIyYzljY2FiNTlkYjMwZTc3NGFiNmVjZTBhODg5Yjc3Mjc3MjQ2OTViMDc3NzAzZTE3ZTJlZWY4OWQwZmE0MWYwZmFmY2FlZDg2MWU0NGYxNjQ3OTY2YTMwNDM2NDI0OTg0M2EwZTYzYmYzNWFiMjZlZTM0OTMwMGNhNWZjMiIsInQiOjE3MDgwOTczMjMsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.HmV3NqSCsi3fGmEsG1mhLW7RFt3qFbCVKN9-Em4ePok/Layan.tar.xz</payload>
+  <tags>gplv3,wallpaper,artwork,kde,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Tela color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1307853</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>220254</downloads>
+  <installedfile>/home/eperezme/.local/share/wallpapers/rUohre-ChromeOS/*</installedfile>
+  <id>1307853</id>
+  <releasedate>2020-05-13</releasedate>
+  <summary>Flat colorful wallpapers</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1307853/a9d603ef0e911f7f5ad8326c5c7da2740be21.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1307853/a9d603ef0e911f7f5ad8326c5c7da2740be21.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODkzNTEyMzIiLCJvIjoiMSIsInMiOiJiMzc1Mzc0ODU1ZWQ2MDMxMjhhNDVmNzRkZGIyYWEwNGI1ZTc4MzJkYTRmNTZkZWExZGY0OGIxYWVlNGJhMjgzYTczZTdhM2RjZDM1OWQ0ZWYwNjUzNjNhMjlkYTFhZGRlMTFjYzdjNmUzMzE5ZDk0NTgzZDY4YWEzYmVlYmMwZSIsInQiOjE3MDgwOTczNDYsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.fjHAbuKon60aUJIpoMEz6vO7ISK-1v970v18wek-8NY/ChromeOS.tar.xz</payload>
+  <tags>original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Scratchy v2</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/2055751</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>58</rating>
+  <downloads>9580</downloads>
+  <installedfile>/home/eperezme/.local/share/wallpapers/Scratchy-V2/*</installedfile>
+  <id>2055751</id>
+  <releasedate>2024-02-16</releasedate>
+  <summary>New wallpaper. Suggested for the global theme Scratchy.&lt;br />
+&lt;br />
+https://store.kde.org/p/1898344/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/2055751/logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/2055751/logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2ODc2MjU1MDQiLCJvIjoiMSIsInMiOiI2OWQ4Yzg5OTIwNGMzYWE2OWYxM2VjMDEwNzFhMzUzMzdiODgxZmQ5MTY1YzU4ZWQwY2RmZTc0ZWNhYzIxNThmNjE1YWI3OWQ5OTUwNmE1MGM3N2Q2MjVjMzdjMjliY2UxZjVmZDYxZDY3MmU1MmQxZTc5OWY3NDhlZDdmY2NhMyIsInQiOjE3MDgwOTc3NDYsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.8Kf-lKADCknMjUIW0Zl4yk9IIyDgCphgt7ndhxhiE9E/Scratchy-V2.tar.gz</payload>
+  <tags>gplv3,artwork,wallpaper,kde,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>ChromeOS color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1354044</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>78300</downloads>
+  <installedfile>/home/eperezme/.local/share/color-schemes/ChromeOS.colors</installedfile>
+  <installedfile>/home/eperezme/.local/share/color-schemes/ChromeOSDark.colors</installedfile>
+  <installedfile>/home/eperezme/.local/share/color-schemes/ChromeOSLight.colors</installedfile>
+  <id>1354044</id>
+  <releasedate>2021-12-22</releasedate>
+  <summary>ChromeOS kde is a materia Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+- Aurorae Themes&lt;br />
+- Kvantum Themes&lt;br />
+- Plasma Color Schemes&lt;br />
+- Plasma Desktop Themes&lt;br />
+- Plasma Look-and-Feel Themes</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1354044/d382aba9f6644e93dbeeb9ddcce0b5272237.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1354044/d382aba9f6644e93dbeeb9ddcce0b5272237.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDAxNjcxMDgiLCJvIjoiMSIsInMiOiIxNGYxMzg3YjgyZTNhMTdkNDk0YWIyMTViMjVlNmQxM2FiOTgzYzRjNDljOGU1ZTJiOTJkM2Q4OGI2OTVjZTkzNjNmZGRhZjQ5NWE5ZjNlZmNkOWE1N2E0ZmQwZWQzZDgyZjdlZWQ5MDA1MTE0Y2M0MjE2NDk5ZWE5MWNhNDJiMiIsInQiOjE3MDgwOTczMzgsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.3eOyq0U6jLiBi3c2i07B3gkC3skH6ziwVFzsQDtfQt0/ChromeOS-color-schemes.tar.xz</payload>
+  <tags>plasma,theme,unix,kde,linux,colorscheme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Layan color schemes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325239</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>144899</downloads>
+  <installedfile>/home/eperezme/.local/share/color-schemes/Layan.colors</installedfile>
+  <installedfile>/home/eperezme/.local/share/color-schemes/LayanLight.colors</installedfile>
+  <id>1325239</id>
+  <releasedate>2022-02-13</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325239/c4f7b851ffdc6b8ed65a36dba14ebe877b91.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ3NjA0MzUiLCJvIjoiMSIsInMiOiI4YzJkZjM0MGUzMTNiOGVhNTFjYTYzMzM0MjMxYWRmZWI1ODgyNDg2YmJmMGQ3ZjFmZDVjZjQ5YzFhNTA0YTcxNzA2MWVhMTc2MTE4NTc0NDAwYzYyYjVhMDY5NWVjYWVlYTdlMzE3ZjY3YjczZmRiNGM3ZjI2MzEwNGU4NTZmYSIsInQiOjE3MDgwOTczMTIsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.RO9UaCNxsUtouFL1d8fmFkLq4ErcmBeKJJBP_rwAAnI/Layan.tar.gz</payload>
+  <tags>gplv3,colorscheme,kde,linux,plasma,original-product,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Fluent color scheme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1499840</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>65</rating>
+  <downloads>89114</downloads>
+  <installedfile>/home/eperezme/.local/share/color-schemes/FluentDark.colors</installedfile>
+  <installedfile>/home/eperezme/.local/share/color-schemes/FluentLight.colors</installedfile>
+  <id>1499840</id>
+  <releasedate>2021-08-14</releasedate>
+  <summary>Fluent design theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1499836/" target="_blank" rel="nofollow">https://www.pling.com/p/1499836/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1499840/559d5304a90f003576b8decc900648cb51fa7b2679522ff294043a5905b4c050683a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1499840/559d5304a90f003576b8decc900648cb51fa7b2679522ff294043a5905b4c050683a.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2Mjg5NTgwOTQiLCJvIjoiMSIsInMiOiJiZTk3NTBlODFlNzZkODk5ZjM2YzNjNGVjNTA3MWMwYjdlYmRlOWE1OWYzMjg4MmYxNTNjMzZkNTc1NDhkMGNiODk1Y2UzNTI0NGFiOWRhZTY0ZDhhMDY4Zjk5ZDI5NTlhZDUzNzBjYTQ2ZjExMjA1MGM3MDk1MzBmNjVmZDVjNSIsInQiOjE3MDgyNjMzMTYsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.HLyhV4o7B1mmL_XprWaxHv3xrP9OchipC_LDeTHjK18/color-schemes.tar.xz</payload>
+  <tags>gplv3,colorscheme,unix,theme,linux,kde,original-product,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>WhiteSur Color</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398831</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>162292</downloads>
+  <installedfile>/home/eperezme/.local/share/color-schemes/WhiteSurAlt.colors</installedfile>
+  <installedfile>/home/eperezme/.local/share/color-schemes/WhiteSur.colors</installedfile>
+  <installedfile>/home/eperezme/.local/share/color-schemes/WhiteSurDark.colors</installedfile>
+  <id>1398831</id>
+  <releasedate>2022-02-11</releasedate>
+  <summary>MacOS big sur theme for kde plasma</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398831/129887a42b22bb843754c81631903b901c02.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398831/129887a42b22bb843754c81631903b901c02.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDQ1OTA4OTEiLCJvIjoiMSIsInMiOiIwNTU3NjlkYTllOTkyNDU4ZDBjNWIxYjkxZjg0ZDA5ZmQ4MWQ2ZTQ2NWY4MzgwZmQ4YWM5OGE2ODRlZDljYmRjNzcyMzA3NzU5YTdiYWQ0YzQxNDc1NGRlMTdkMzI3YWRkZjQyNTQ4NmI3YTY5NjZjODU3NzQ5YzZmNzc3ZWI5MCIsInQiOjE3MDgwOTgyNzUsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.KJ9QNr6YQLUdgGv5DEevE3RkslZDgVAw9b_r9FXR-wE/WhiteSur.tar.gz</payload>
+  <tags>theme,unix,linux,kde,original-product,plasma,colorscheme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Scratchy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1896006</homepage>
+  <licence></licence>
+  <version>1.2</version>
+  <rating>50</rating>
+  <downloads>13053</downloads>
+  <installedfile>/home/eperezme/.local/share/color-schemes/Scratchy.colors</installedfile>
+  <id>1896006</id>
+  <releasedate>2024-02-16</releasedate>
+  <summary>Dark color-schemes, based on the catppuccin macchiato color palette.&lt;br />
+https://github.com/catppuccin/catppuccin&lt;br />
+&lt;br />
+Two color-schemes, one for Breeze style apps and one semi-transparency theme for Lightly.&lt;br />
+&lt;br />
+Scratchy plasma theme: https://www.pling.com/p/1896013/</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1896006/scratchy-color-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1896006/scratchy-color-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTQ4OTc5NTkiLCJvIjoiMSIsInMiOiJhNjlhYjYzNGVkMDZlNjliNTEyZDE4YjAzNTFiNTQzMTdlNTk2Yjg3YTlhZmY3MzA2NWYwZTZhMWEwMzkzMTEwNjNmNDZkZjZhNDUzOWZkODI1MjQzMzk5YzI1YmRhMjVjNzBmZWE4MTdhOTdhNWU2ZGNiNWYzYWViOGFjODI0MSIsInQiOjE3MDgwOTc3MzcsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.JgwtGF6fzeEq3mCj1xEKRPgFWqRn-fslejpTvNr7TR4/Scratchy.colors.tar.gz</payload>
+  <tags>gplv3,colorscheme,kde,linux,plasma,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

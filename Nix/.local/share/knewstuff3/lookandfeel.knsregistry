@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Scratchy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1898344</homepage>
+  <licence></licence>
+  <version>1.6</version>
+  <rating>63</rating>
+  <downloads>6023</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/look-and-feel/Scratchy</installedfile>
+  <id>1898344</id>
+  <releasedate>2024-02-16</releasedate>
+  <summary>Dark theme, based on the catppuccin macchiato color palette.&lt;br />
+https://github.com/catppuccin/catppuccin&lt;br />
+&lt;br />
+Plasma theme: https://store.kde.org/p/1896013/&lt;br />
+Aurorae window decoration: https://store.kde.org/p/1896009&lt;br />
+Color-schemes: https://store.kde.org/p/1896006&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1898344/scratchy-global-logo.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1898344/scratchy-global-logo.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTQ4OTc2ODEiLCJvIjoiMSIsInMiOiJhNmU4NGIzZWM1NGMyY2ViYjVlNmI0NGYwYTI5N2Q0ZmJiZjkzM2YwZWVmNjZhZWRhYzc0NzVkYWYxMzY4MzFkZDJjZjdmNmE3MGJlMjI3Nzk2YzM3MDMwZjJiZDlmNWQ4ODBkMDhkNmIxNDZlNmE3ZjcwOGU3MTU0YzlmMzQxYyIsInQiOjE3MDgwOTc3MzUsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.xl1qtGV1RRCoLPxMCZ8RXmGvYL9ASW4Xr8pI-93e2A8/Scratchy.tar.gz</payload>
+  <tags>unix,theme,plasma,mit-license,linux,look-and-feel,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>Layan look and feel theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325243</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>88</rating>
+  <downloads>10441</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/look-and-feel/com.github.vinceliuice.Layan</installedfile>
+  <id>1325243</id>
+  <releasedate>2024-02-15</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+For better experience you need this&lt;br />
+&lt;strong>kvantum theme&lt;/strong>: Layan &lt;br />
+&lt;a href="https://www.pling.com/p/1325246/" target="_blank" rel="nofollow">https://www.pling.com/p/1325246/&lt;/a>&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325243/0103cc7287e0a059282b827939062da324ea.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDQ4MTg2NjYiLCJvIjoiMSIsInMiOiIzZTAwZTJlZTg0NTU0YzliNDFlNTAyZmFhYTE5ZjYxYjVlMGE3MzMxNzRjYWYyNjFjM2IwODA2NmIyZWZkZWNmOTA5ZGMxZDBjZDg4ZTA0NTdiZjk3ZDEyYTNkNWY3MWQyNTMzOGE0YTc5N2U3MjI5OWRlODgxNTc2N2JkMjQ2MCIsInQiOjE3MDgwOTczMTAsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.N384E4JW22Nd5iVBDkEPwagidqcmBGv6en7wxOoyBHI/com.github.vinceliuice.Layan.tar.gz</payload>
+  <tags>kde,linux,look-and-feel,theme,unix,plasma,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="121">
+  <name>WhiteSur [Apple MacOS] Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1400424</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>83</rating>
+  <downloads>13355</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/look-and-feel/com.github.vinceliuice.WhiteSur-dark</installedfile>
+  <id>1400424</id>
+  <releasedate>2024-01-13</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+-----------------------&lt;br />
+&lt;strong>Kvantum theme:&lt;/strong> &lt;a href="https://www.pling.com/p/1398841/" target="_blank" rel="nofollow">https://www.pling.com/p/1398841/&lt;/a>&lt;br />
+-----------------------&lt;br />
+&lt;strong>Icon theme:&lt;/strong> &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1400424/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1400424/3e7b3166dbee0a004ed4a44a7e17218fbb19.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDI0ODg4OTgiLCJvIjoiMSIsInMiOiIwNTVmMjI5NDNiZTM3ZDYwYjA3MGFhMTMxYjU5Y2I4YWVlY2YyODA4ZmZlMDMzZTVmMDU2MzRkM2E3MzdkNGE2ZWM5YTkwODkxMTJkOGUyN2I1Yjg0YTlhMTA0ODVlNDMxNjUyNmI5MGE1MzZkNzVkNWRhNTlmMGUyMzY5ZmNhZSIsInQiOjE3MDgwOTgyNzIsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.EPLksrTe39uuwguXqLN_-DYiGZQE5hQ-xMdW9AJMpA8/com.github.vinceliuice.WhiteSur-dark.tar.xz</payload>
+  <tags>kde,linux,look-and-feel,theme,unix,original-product,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

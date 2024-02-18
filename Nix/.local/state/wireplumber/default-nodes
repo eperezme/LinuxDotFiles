@@ -1,0 +1,11 @@
+[default-nodes]
+default.configured.audio.sink=alsa_output.pci-0000_0a_00.4.iec958-stereo
+default.configured.audio.sink.0=alsa_output.pci-0000_0a_00.4.iec958-stereo
+default.configured.audio.sink.1=alsa_output.pci-0000_0a_00.4.analog-surround-21
+default.configured.audio.sink.2=alsa_output.pci-0000_0a_00.4.analog-stereo
+default.configured.audio.sink.3=alsa_output.pci-0000_08_00.1.hdmi-stereo
+default.configured.audio.sink.4=alsa_output.pci-0000_0a_00.4.analog-surround-40
+default.configured.audio.sink.5=alsa_output.pci-0000_0a_00.4.analog-surround-50
+default.configured.audio.sink.6=alsa_output.pci-0000_0a_00.4.pro-output-1
+default.configured.audio.sink.7=alsa_output.pci-0000_0a_00.4.analog-stereo.2
+default.configured.audio.sink.8=alsa_output.pci-0000_0a_00.4.analog-surround-51

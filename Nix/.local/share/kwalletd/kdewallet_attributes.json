@@ -1,0 +1,15 @@
+{
+    "$fdo_created": "1708100112",
+    "$fdo_modified": "1708266093",
+    "Secret Service/keyring-rs v2.0.3 for target 'default', service 'vscode-cli', user 'vscode-cli-0'": {
+        "$fdo_created": "1708100432",
+        "$fdo_mime_type": "text/plain",
+        "$fdo_modified": "1708266093",
+        "attributes": {
+            "application": "rust-keyring",
+            "service": "vscode-cli",
+            "target": "default",
+            "username": "vscode-cli-0"
+        }
+    }
+}

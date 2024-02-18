@@ -1,0 +1,19 @@
+{
+    "id": "8e8a7ee335e1aff805a135c1ff083c58",
+    "metadata": {
+        "fullname": "xrandr-27G2G8-PWPN8JA017430",
+        "name": "DP-3"
+    },
+    "mode": {
+        "refresh": 239.96400451660156,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 0
+}

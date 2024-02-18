@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 exec:///home/eperezme/.nix-profile/bin/whatsapp-for-linux,3 exec:///etc/profiles/per-user/eperezme/bin/firefox --name firefox,1 exec:///etc/profiles/per-user/eperezme/bin/konsole,1 exec:///etc/profiles/per-user/eperezme/bin/kate -b,2 exec:///etc/profiles/per-user/eperezme/bin/virt-manager,1 krunner_systemsettings_kcm_vulkan,1 exec:///etc/profiles/per-user/eperezme/bin/code,2 exec:///home/eperezme/.nix-profile/bin/geary,5 exec:///etc/profiles/per-user/eperezme/bin/kitty,1 exec:///run/current-system/sw/bin/xterm,1 krunner_systemsettings_kcm_colors,2 exec:///nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable
+
+[PlasmaRunnerManager][History]
+9c0a6c0e-c422-4774-9540-8158c50fa9f6=code,chrome,fir,fire,firef,wh,thun,gear,geary,sudo,v,virt,kitt,way,vul,kitty,kate,konso,term,fi

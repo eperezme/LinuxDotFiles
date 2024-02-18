@@ -1,0 +1,19 @@
+{
+    "id": "46457d2b24433c35bf3c7d24784f0357",
+    "metadata": {
+        "fullname": "xrandr-VX3276-QHD-V9W190200276",
+        "name": "DP-2"
+    },
+    "mode": {
+        "refresh": 59.95100021362305,
+        "size": {
+            "height": 1440,
+            "width": 2560
+        }
+    },
+    "overscan": 0,
+    "rgbrange": 0,
+    "rotation": 1,
+    "scale": 1,
+    "vrrpolicy": 0
+}

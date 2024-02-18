@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>Vimix cursors theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1358330</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>89</rating>
+  <downloads>418070</downloads>
+  <installedfile>/home/eperezme/.icons/Vimix-cursors/*</installedfile>
+  <id>1358330</id>
+  <releasedate>2020-02-23</releasedate>
+  <summary>Vimix cursors theme for linux desktop</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1358330/f149edb5f0995baf6998b5294bb15e4b33e0.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1358330/f149edb5f0995baf6998b5294bb15e4b33e0.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODI0NDIyNzYiLCJvIjoiMSIsInMiOiIzMzIxYWNlMGNmMzA5NTJjOTI2MzRhMDZiMmUxYWE2NmJjODViNjI4ZWM0ZDE4YzI0NjMxNmY0ZjdlYzc3ODVjNzQwYmRiY2JkZTg3YThjZTRlNjM2YWFlZGE3NjcwZTNhZjQwZDIyMDlhYWM0NjgxNjNkZDJhYjliYWM0NmVjMiIsInQiOjE3MDgwOTczNDgsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.9DM19ocNXKQ_gQh9-1PmCn-Ku42O14KwKjRZtFx6nic/01-Vimix-cursors.tar.xz</payload>
+  <tags>linux,unix,cursor,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>Layan cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1365214</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>91</rating>
+  <downloads>492199</downloads>
+  <installedfile>/home/eperezme/.icons/Layan-border-cursors/*</installedfile>
+  <id>1365214</id>
+  <releasedate>2020-03-30</releasedate>
+  <summary>Layan cursors theme for linux desktop</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1365214/bf76830de87b7aac326717685c9301cb2f89.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODUxMTQ4NDgiLCJvIjoiMSIsInMiOiJlNjUxZTVkNTE2ZGE4ZjQ0YWQ5Njg0YzUwOTExZGIyODA2Mzk3ZjliYmRjMzA4MTIyOTlkYzQ1MWQ3ZmQ2MzkyMTkwMGFlOTdkYWVjMzAyNDdhMTJmYjZiMmYwNDlkNTUwODRjYzNjODY5ZDg2OGRlNWU1NWQ4ZTZkNmViYTE1ZSIsInQiOjE3MDgwOTczMjUsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.eymVPiQvjBhLvY-JHIwULnYNt5hGIpaQyM3kGgcoz7U/01-Layan-border-cursors.tar.xz</payload>
+  <tags>linux,original-product,unix,cursor,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>WhiteSur cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1411743</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>86</rating>
+  <downloads>763319</downloads>
+  <installedfile>/home/eperezme/.icons/WhiteSur-cursors/*</installedfile>
+  <id>1411743</id>
+  <releasedate>2020-08-12</releasedate>
+  <summary>WhiteSur cursors</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1411743/f09b709b76cbcaa053dcb9a3c84d0ed845c25f24870a3af83977f89b43ca00da11b9.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcyMTk1NTAiLCJvIjoiMSIsInMiOiI2OTY3ZmUzNDZkMmMwNDNjM2UwZGQzMzQ0NzE5MGE0MjAxMTcwYmNjNzYyMjNlYjdkMWZjZmQ2Yzk4YjQ2YmMxOWE4OTExNWE0Yjg5ZmQ5ZDNlNWEyYTZkNjQyOWIwYjJiMzJjYjBhZmM4MzExYmQ2YTg2YjUzZjY0MWZmNmIwNSIsInQiOjE3MDgwOTc3NDQsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.nztght-d8KcbnRC46GdMJHSpf4bcFMedON8WssbBBn8/WhiteSur-cursors.tar.xz</payload>
+  <tags>original-product,linux,gplv3,cursor,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="107">
+  <name>McMojave cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1355701</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>87</rating>
+  <downloads>628753</downloads>
+  <installedfile>/home/eperezme/.icons/McMojave-cursors/*</installedfile>
+  <id>1355701</id>
+  <releasedate>2020-01-30</releasedate>
+  <summary>This is an x-cursor theme inspired by macOS &lt;br />
+based on capitaine-cursors &lt;a href="http:// https://github.com/keeferrourke/capitaine-cursors " target="_blank" rel="nofollow"> https://github.com/keeferrourke/capitaine-cursors &lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1355701/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1355701/70a26c84b31a9129c36a25dce18a1a2dfc0d.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODA0MDIzODkiLCJvIjoiMSIsInMiOiI3NjM2YjZjM2ViMTM0NWM4MDdjMWE2Yzc3MjJkODQ2NWExYmMyZDdiMmNlNDI1ZmIyZDI4MDg4NDEyMTJjNTY0NzFlNDkyYTk0YmRhNTAwNjcxMTBhN2IzYmFhNjU1YTBhYzAwYTMzY2M5MjMzOGJiMWFhMjQzZmE2N2IyYTZlNSIsInQiOjE3MDgwOTg2NTMsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.7jo6wrGiOIzvMkg3waeTTvpyfgJZEGg6QTHKMdUQI0I/McMojave-cursors.tar.xz</payload>
+  <tags>gplv3,cursor,unix,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

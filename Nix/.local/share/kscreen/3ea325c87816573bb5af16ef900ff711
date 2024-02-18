@@ -1,0 +1,52 @@
+[
+    {
+        "enabled": true,
+        "id": "46457d2b24433c35bf3c7d24784f0357",
+        "metadata": {
+            "fullname": "xrandr-VX3276-QHD-V9W190200276",
+            "name": "DP-2"
+        },
+        "mode": {
+            "refresh": 59.95100021362305,
+            "size": {
+                "height": 1440,
+                "width": 2560
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "priority": 2,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 0
+    },
+    {
+        "enabled": true,
+        "id": "8e8a7ee335e1aff805a135c1ff083c58",
+        "metadata": {
+            "fullname": "xrandr-27G2G8-PWPN8JA017430",
+            "name": "DP-3"
+        },
+        "mode": {
+            "refresh": 239.96400451660156,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 2560,
+            "y": 180
+        },
+        "priority": 1,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 0
+    }
+]

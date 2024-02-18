@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=sudo code --no-sandbox
+Name=sudo code --no-sandbox
+NoDisplay=true
+StartupNotify=false
+Type=Application
+X-KDE-GlobalAccel-CommandShortcut=true

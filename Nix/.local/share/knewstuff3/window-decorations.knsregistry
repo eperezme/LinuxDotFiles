@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>WhiteSur Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1398835</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>56</rating>
+  <downloads>137770</downloads>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur_x1.25/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur-dark-opaque_x1.25/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur-Sharp/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur-Sharp-dark/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur-dark-opaque/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur-dark_x1.25/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur_x1.5/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur-dark/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/WhiteSur-dark_x1.5/*</installedfile>
+  <id>1398835</id>
+  <releasedate>2022-06-25</releasedate>
+  <summary>MacOS big sur theme for kde plasma&lt;br />
+---------------------------------------&lt;br />
+&lt;strong>Fix for Aurorae theme:&lt;/strong>&lt;br />
+Go to the &lt;strong>"Application Style &amp;gt; Window Decorations"&lt;/strong> and set the boder to &lt;strong>"No Borders"&lt;/strong></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1398835/ad2aae0df61ba06b53fb73d40cccff2d1b30.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1398835/ad2aae0df61ba06b53fb73d40cccff2d1b30.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTYxMjM0NTAiLCJvIjoiMSIsInMiOiIzODk1NGUxNzJhZGNjOWQ0ZWNmZDEwNGIxNzAyNWM4YmE1YTVmYzIzZmYzZmE3ODhjODM0OGUzOWZjMWExY2I3ZWJjZWE2NjFiZjI4MTZjZjA4ZDQxNzRjNjZlY2JjZTY0Y2Q4OGUwOWIzMGNiZWQ2OTIzNDFhOWRiN2FlYmZiOSIsInQiOjE3MDgwOTc5NjIsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.sRB8gsCTM00dVBautLjEnAjnJiRE_yA1UHhbCK07bEQ/WhiteSur.tar.gz</payload>
+  <tags>plasma,original-product,kde,linux,unix,theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Layan aurorae theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1325238</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>69</rating>
+  <downloads>123738</downloads>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Layan-light/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Layan-solid/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Layan/*</installedfile>
+  <id>1325238</id>
+  <releasedate>2022-06-28</releasedate>
+  <summary>Layan modern and elegant design theme for kde desktop&lt;br />
+---------------------&lt;br />
+&lt;strong>gtk theme&lt;/strong>: Layan&lt;br />
+&lt;a href="https://www.pling.com/p/1309214/" target="_blank" rel="nofollow">https://www.pling.com/p/1309214/&lt;/a>&lt;br />
+---------------------&lt;br />
+&lt;strong>Icon...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1325238/50fba2e9d2e843b351b59c52c1c91df53a8d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1325238/50fba2e9d2e843b351b59c52c1c91df53a8d.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY0Mjc1ODkiLCJvIjoiMSIsInMiOiI3OWEyN2ViNDU3NjRmOTNjYzgwN2RmNDFkNzg4YmY0MjI4NDhmYTA2YjNhYjhhYzdmODMyMjZmM2EyNWRkZDhiZDdjMGM0YmFkYmVlYzIyZDYyN2RlNTk1MTc2Y2Y3MjhjZjZiMjMxZDgxZmEzZmNiNTc4N2RkY2VlMDhjZjIyMSIsInQiOjE3MDgwOTczMTcsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.7UIsG-NB4f6KQdexdSfAis6NYN8hKIG8KlzzBeBODl4/Layan.tar.gz</payload>
+  <tags>linux,kde,unix,theme,original-product,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Sweet Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1286856</homepage>
+  <licence></licence>
+  <version>1.1.0</version>
+  <rating>82</rating>
+  <downloads>414476</downloads>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Sweet-Dark/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Sweet-Dark-transparent/*</installedfile>
+  <id>1286856</id>
+  <releasedate>2024-02-15</releasedate>
+  <summary>Aurorae theme to fit my Sweet theme for &lt;a href="https://www.pling.com/p/1294174/" target="_blank" rel="nofollow">plasma&lt;/a> and &lt;a href="https://www.pling.com/p/1253385/" target="_blank" rel="nofollow">gnome&lt;/a>&lt;br />
+&lt;br />
+&lt;h2>&lt;strong>&lt;span style="color:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/36/61/48/1286856/cac8754ceb156dbfaafd564be3fbd2c90b9b.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/36/61/48/1286856/cac8754ceb156dbfaafd564be3fbd2c90b9b.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NjA4NTkxNzQiLCJvIjoiMSIsInMiOiIxNTQ2YWFjNWRhYjlhZGE3M2NlYWMwNDA2NjczMGM3MTk5ZDJkMThkYWYzYzJkZmE4NmJhYTAxMzA4M2RjNDJjNWU1YzA3YjMyYTYwZDQyZDg2NTAyNzU1YTA5MzFjMmJjMTliNjUwOTQ1NjQ3YjcwYWQxZGIxYzdiOWU4ZGIxOCIsInQiOjE3MDgwOTc5MzIsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.eQn7kbhxom5wU7y_-ygHbTqkIR6uiKAJPbuWaBi6reQ/Sweet.tar.xz</payload>
+  <tags>theme,unix,gplv3,plasma,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>ChromeOS Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1354048</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>56397</downloads>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/ChromeOS/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/ChromeOS-light/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/ChromeOS-dark/*</installedfile>
+  <id>1354048</id>
+  <releasedate>2022-07-01</releasedate>
+  <summary>ChromeOS kde is a materia Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+- Aurorae Themes&lt;br />
+- Kvantum Themes&lt;br />
+- Plasma Color Schemes&lt;br />
+- Plasma Desktop Themes&lt;br />
+- Plasma Look-and-Feel Themes</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1354048/98afd8b072e4a9400ca8b15e2a64d8dfdcf61.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1354048/98afd8b072e4a9400ca8b15e2a64d8dfdcf61.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTY2ODk1MzIiLCJvIjoiMSIsInMiOiIzNGRlY2FkZWY5OThiMTQ5ZDYzNzc1YmIwM2EzOTY1ZTRiZWJiNmJlZDUyNDVmMjkxM2EwMmMwMmVkMGIyZWJlNjE4ZGEyYjE5NDYwNDE5NGFlMzExNGE1NjBjODhkYTUzOWZhZjFlNWUzYWMwMjE0MTVhNWFiOWFjNjIxMDk0ZCIsInQiOjE3MDgwOTczNDMsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.pla8cZVmOi55Tre5-tPwnztHNpufopPjhRBrwe1x5e0/ChromeOS.tar.gz</payload>
+  <tags>plasma,original-product,gplv3,unix,theme,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Scratchy</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>jomada</author>
+  <homepage>https://store.kde.org/p/1896009</homepage>
+  <licence></licence>
+  <version>1.4</version>
+  <rating>55</rating>
+  <downloads>9350</downloads>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Scratchy/*</installedfile>
+  <id>1896009</id>
+  <releasedate>2024-02-16</releasedate>
+  <summary>Dark theme, based on the catppuccin macchiato color palette.&lt;br />
+https://github.com/catppuccin/catppuccin</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/43/73/13/1896009/scratchy-ventana-logo2.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/43/73/13/1896009/scratchy-ventana-logo2.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2OTQ4OTc5MTQiLCJvIjoiMSIsInMiOiIxM2RlMmNjODJkYjBmNjMwODg4ZTQ4ZTZiNTdlYzQ5Y2M2MTdlYzQ1YzE1ZTc3NzM4ZGFhNjgwNjE3Njg5ZjlhZGY3ZDEyZWQ5MWM0Yjk0ZGM1MDA5YmExNzIxYzc3MmU1NzA3NTY1ZGYwYzhlNDdhMzkwNTI5M2U2ZjFhZWZjOCIsInQiOjE3MDgwOTc3NDIsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.CG9x2fjOjeaMzo2xS9hdX0hxcb4JTGcpIuk7ZOR0E1g/Scratchy.tar.gz</payload>
+  <tags>gplv3,unix,theme,plasma,linux,kde</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Breezemite</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>andreyorst</author>
+  <homepage>https://store.kde.org/p/1169286</homepage>
+  <licence></licence>
+  <version>0.3.0</version>
+  <rating>83</rating>
+  <downloads>259149</downloads>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Breezemite_dark/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/aurorae/themes/Breezemite/*</installedfile>
+  <id>1169286</id>
+  <releasedate>2017-09-03</releasedate>
+  <summary>Aurorae theme for KDE 5.8 and higer, that mimics Yosemite window decoration, but with Breeze colors to match Breeze window theme. Based on Yosemite v0.1&lt;br />
+&lt;br />
+omg, thanks for 10k downloads everyone</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/45/89/63/1169286/ad64b5117178c30b56db09ab3ae9ea3905ee.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/45/89/63/1169286/ad64b5117178c30b56db09ab3ae9ea3905ee.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0ODk2OTYyMzMiLCJvIjoiMSIsInMiOiIzYzU1NjU5ZDZlNzAzMjRjNTA3ODVlOTQ3YjVmYWVlMmQ3ZDg2NjY0NzE3YmE3MTdkZmY4MWJjM2JjNmFkYWU4NmQ1Yjg3YWRhMWZhNmY3MzdmYjEyMjhjZTcxODBjNjE0NjA0OGY4OTZjYTA0YzZhYzYzOGM1ZWRmYzNhM2EyZCIsInQiOjE3MDgwOTc5NDcsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.cUqCckRHMpnwbIboDWAxWCAF7Uqv22wtcooE2Q30dH0/Breezemite-aurorae.tar.xz</payload>
+  <tags>unix,theme,plasma,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

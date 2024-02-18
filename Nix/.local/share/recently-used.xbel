@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
+  <bookmark href="https://store.kde.org/p/1210856" added="2024-02-16T14:52:12.271000Z" modified="2024-02-16T14:52:12.699000Z" visited="2024-02-16T14:52:12.699000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox --name firefox %U %u" modified="2024-02-16T14:52:12.699000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono.zip" added="2024-02-16T15:04:10.390000Z" modified="2024-02-16T15:04:10.390000Z" visited="2024-02-16T15:04:10.390000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-02-16T15:04:10.390000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme" added="2024-02-16T15:04:21.366000Z" modified="2024-02-18T13:12:34.379464Z" visited="2024-02-18T12:16:41.871000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-02-18T12:16:41.871000Z" count="3"/>
+          <bookmark:application name="virt-manager" exec="'virt-manager %u'" modified="2024-02-16T17:30:09.895320Z" count="2"/>
+          <bookmark:application name="code" exec="'code %u'" modified="2024-02-18T13:12:34.379462Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono.zip" added="2024-02-16T15:04:24.171000Z" modified="2024-02-16T15:04:24.171000Z" visited="2024-02-16T15:04:24.171000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-02-16T15:04:24.171000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-Bold.ttf" added="2024-02-16T15:04:48.871000Z" modified="2024-02-16T15:04:48.871000Z" visited="2024-02-16T15:04:48.871000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.871000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-BoldItalic.ttf" added="2024-02-16T15:04:48.878000Z" modified="2024-02-16T15:04:48.878000Z" visited="2024-02-16T15:04:48.878000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.878000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-Italic.ttf" added="2024-02-16T15:04:48.882000Z" modified="2024-02-16T15:04:48.882000Z" visited="2024-02-16T15:04:48.882000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.882000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-Light.ttf" added="2024-02-16T15:04:48.889000Z" modified="2024-02-16T15:04:48.889000Z" visited="2024-02-16T15:04:48.889000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.889000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-LightItalic.ttf" added="2024-02-16T15:04:48.892000Z" modified="2024-02-16T15:04:48.892000Z" visited="2024-02-16T15:04:48.892000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.892000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-Medium.ttf" added="2024-02-16T15:04:48.895000Z" modified="2024-02-16T15:04:48.895000Z" visited="2024-02-16T15:04:48.895000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.895000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-MediumItalic.ttf" added="2024-02-16T15:04:48.899000Z" modified="2024-02-16T15:04:48.899000Z" visited="2024-02-16T15:04:48.899000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.899000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFont-Regular.ttf" added="2024-02-16T15:04:48.902000Z" modified="2024-02-16T15:04:48.902000Z" visited="2024-02-16T15:04:48.902000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.902000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFontMono-Bold.ttf" added="2024-02-16T15:04:48.905000Z" modified="2024-02-16T15:04:48.905000Z" visited="2024-02-16T15:04:48.905000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.905000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/IntelOneMono/IntoneMonoNerdFontMono-BoldItalic.ttf" added="2024-02-16T15:04:48.909000Z" modified="2024-02-16T15:04:48.909000Z" visited="2024-02-16T15:04:48.909000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:04:48.909000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFont-Bold.otf" added="2024-02-16T15:05:17.507000Z" modified="2024-02-16T15:05:17.507000Z" visited="2024-02-16T15:05:17.507000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.507000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFont-Medium.otf" added="2024-02-16T15:05:17.515000Z" modified="2024-02-16T15:05:17.515000Z" visited="2024-02-16T15:05:17.515000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.515000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFont-Regular.otf" added="2024-02-16T15:05:17.519000Z" modified="2024-02-16T15:05:17.519000Z" visited="2024-02-16T15:05:17.519000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.519000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFontMono-Bold.otf" added="2024-02-16T15:05:17.522000Z" modified="2024-02-16T15:05:17.522000Z" visited="2024-02-16T15:05:17.522000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.522000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFontMono-Medium.otf" added="2024-02-16T15:05:17.526000Z" modified="2024-02-16T15:05:17.526000Z" visited="2024-02-16T15:05:17.526000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.526000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFontMono-Regular.otf" added="2024-02-16T15:05:17.530000Z" modified="2024-02-16T15:05:17.530000Z" visited="2024-02-16T15:05:17.530000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.530000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFontPropo-Bold.otf" added="2024-02-16T15:05:17.533000Z" modified="2024-02-16T15:05:17.533000Z" visited="2024-02-16T15:05:17.533000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.533000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFontPropo-Medium.otf" added="2024-02-16T15:05:17.537000Z" modified="2024-02-16T15:05:17.537000Z" visited="2024-02-16T15:05:17.537000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.537000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/FiraMono/FiraMonoNerdFontPropo-Regular.otf" added="2024-02-16T15:05:17.541000Z" modified="2024-02-16T15:05:17.541000Z" visited="2024-02-16T15:05:17.541000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/otf"/>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T15:05:17.541000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///nix/store/yswwdhc8srkclbpv6ixj70rbyiq729nw-fish-3.7.0-doc/share/doc/fish/index.html" added="2024-02-16T15:07:54.063000Z" modified="2024-02-16T15:27:27.984000Z" visited="2024-02-16T15:27:27.984000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T15:27:27.984000Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Pictures/Screenshot_20240216_170302.png" added="2024-02-16T16:03:14.238000Z" modified="2024-02-16T16:41:14.900000Z" visited="2024-02-16T16:41:14.900000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.spectacle" exec="/nix/store/9dsczji6m6nvz7q2qfikqbjw61y31ijd-spectacle-23.08.4/bin/spectacle %u" modified="2024-02-16T16:03:14.238000Z" count="1"/>
+          <bookmark:application name="" exec="dolphin %u" modified="2024-02-16T16:03:15.825000Z" count="1"/>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T16:41:14.900000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://addons.mozilla.org/en-US/firefox/addon/plasma-integration/" added="2024-02-16T16:03:30.904000Z" modified="2024-02-16T16:03:30.904000Z" visited="2024-02-16T16:03:30.904000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="firefox" exec="firefox --name firefox %U %u" modified="2024-02-16T16:03:30.904000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&amp;redirect_uri=https://vscode.dev/redirect&amp;scope=read:org+user:email&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dba10361c311e90ed%2526windowId%253D1" added="2024-02-16T16:20:25.284000Z" modified="2024-02-16T16:20:25.284000Z" visited="2024-02-16T16:20:25.284000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T16:20:25.284000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=ba10361c311e90ed&amp;windowId=1&amp;code=f4dfc31d6c979934882f&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253Dba10361c311e90ed%2526windowId%253D1" added="2024-02-16T16:20:30.904000Z" modified="2024-02-16T16:20:30.904000Z" visited="2024-02-16T16:20:30.904000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code-url-handler" exec="code --open-url %U %u" modified="2024-02-16T16:20:30.904000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://code.visualstudio.com/" added="2024-02-16T16:20:45.041000Z" modified="2024-02-16T16:20:45.041000Z" visited="2024-02-16T16:20:45.041000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T16:20:45.041000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="http://127.0.0.1:45187/signin?nonce=RxRm880RpdZtvHKo5wbPUQ==" added="2024-02-16T16:21:05.473000Z" modified="2024-02-16T16:21:05.473000Z" visited="2024-02-16T16:21:05.473000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T16:21:05.473000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&amp;redirect_uri=https://vscode.dev/redirect&amp;scope=user:email&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253De1bc37e726328841%2526windowId%253D1" added="2024-02-16T16:21:06.641000Z" modified="2024-02-16T16:21:06.641000Z" visited="2024-02-16T16:21:06.641000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T16:21:06.641000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=e1bc37e726328841&amp;windowId=1&amp;code=ade4f0417b7507e148d0&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253De1bc37e726328841%2526windowId%253D1" added="2024-02-16T16:21:09.056000Z" modified="2024-02-16T16:21:09.056000Z" visited="2024-02-16T16:21:09.056000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code-url-handler" exec="code --open-url %U %u" modified="2024-02-16T16:21:09.056000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-02-16T16:28:16.431670Z" modified="2024-02-17T14:06:48.627312Z" visited="2024-02-16T16:28:16.431671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2024-02-17T14:06:48.627310Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/nix-community/nixpkgs-fmt" added="2024-02-16T16:29:35.715000Z" modified="2024-02-16T16:29:35.715000Z" visited="2024-02-16T16:29:35.715000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T16:29:35.715000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/PXL_20240202_082113029.RAW-01.MP.COVER.jpg" added="2024-02-16T16:41:20.604000Z" modified="2024-02-16T16:41:20.604000Z" visited="2024-02-16T16:41:20.604000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="systemsettings" exec="systemsettings %u" modified="2024-02-16T16:41:20.604000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://chrome.google.com/webstore/detail/plasma-integration/cimiefiiaegbelhefglklhhakcgmhkai" added="2024-02-16T16:51:29.618000Z" modified="2024-02-16T16:51:29.618000Z" visited="2024-02-16T16:51:29.618000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T16:51:29.618000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/Win11_23H2_English_x64v2.iso" added="2024-02-16T16:52:35.317339Z" modified="2024-02-16T16:52:35.317342Z" visited="2024-02-16T16:52:35.317340Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="'virt-manager %u'" modified="2024-02-16T16:52:35.317341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/virtio-win-0.1.240-1.noarch.rpm" added="2024-02-16T17:20:03.457000Z" modified="2024-02-16T17:20:03.457000Z" visited="2024-02-16T17:20:03.457000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-02-16T17:20:03.457000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="https://github.com/login/oauth/authorize?client_id=01ab8ac9400c4e429b23&amp;redirect_uri=https://vscode.dev/redirect&amp;scope=read:user+repo+user:email+workflow&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253D92dda0e3c7cb4102%2526windowId%253D2" added="2024-02-16T17:27:53.546000Z" modified="2024-02-16T17:27:53.546000Z" visited="2024-02-16T17:27:53.546000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="/nix/store/8q2dvw8p1a3vng5gj2l40fsrd08b3227-google-chrome-121.0.6167.160/bin/google-chrome-stable %U %u" modified="2024-02-16T17:27:53.546000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="vscode://vscode.github-authentication/did-authenticate?nonce=92dda0e3c7cb4102&amp;windowId=2&amp;code=d2a377e7530f16576bd9&amp;state=vscode%253A%252F%252Fvscode.github-authentication%252Fdid-authenticate%253Fnonce%253D92dda0e3c7cb4102%2526windowId%253D2" added="2024-02-16T17:27:54.519000Z" modified="2024-02-16T17:27:54.519000Z" visited="2024-02-16T17:27:54.519000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code-url-handler" exec="code --open-url %U %u" modified="2024-02-16T17:27:54.519000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/nixos/bluetooth.nix" added="2024-02-17T14:08:03.653857Z" modified="2024-02-17T14:08:03.653861Z" visited="2024-02-17T14:08:03.653858Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2024-02-17T14:08:03.653860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/nixos/bt.nix" added="2024-02-17T14:08:41.934983Z" modified="2024-02-17T14:08:41.934986Z" visited="2024-02-17T14:08:41.934984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="'code %u'" modified="2024-02-17T14:08:41.934985Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Downloads/Utterly-Nord-kvantum.zip" added="2024-02-18T12:16:19.210000Z" modified="2024-02-18T12:16:19.619000Z" visited="2024-02-18T12:16:19.619000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.ark" exec="ark %U %u" modified="2024-02-18T12:16:19.619000Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/eperezme/Desktop/Nix" added="2024-02-18T13:52:31.843000Z" modified="2024-02-18T13:52:31.843000Z" visited="2024-02-18T13:52:31.843000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.kde.dolphin" exec="dolphin %u %u" modified="2024-02-18T13:52:31.843000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

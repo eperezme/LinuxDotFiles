@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>McOS-themes</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>paulxfce</author>
+  <homepage>https://store.kde.org/p/1241688</homepage>
+  <licence></licence>
+  <version>3.0 /1.3.2</version>
+  <rating>91</rating>
+  <downloads>774376</downloads>
+  <installedfile>/home/eperezme/.themes/McOS-MJV-1.1/*</installedfile>
+  <id>1241688</id>
+  <releasedate>2020-04-12</releasedate>
+  <summary>&lt;strong>OPEN THE LARGER SCREENSHOTS IN A NEW TAB AN ENLARGE TO SEE FULL VIEW&lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>McOS-themes&lt;/strong>&lt;br />
+&lt;br />
+&lt;br />
+This is a repository that contains Mac OS-themes for the Linux-Gnome desktop made by PaulXFCE (myself)&lt;br />
+&lt;br />
+These are high end and...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/45/57/18/1241688/27ebf4166aa29292890f32358994c3005199.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/45/57/18/1241688/27ebf4166aa29292890f32358994c3005199.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Mzc5MTExMDAiLCJvIjoiMSIsInMiOiIwNGFmZmI1NTUxMDNlMjE1ZGVhODMwNjAyY2YzOTk4ZmNkODM3OGJiODdjYzE2MGVmMjYwZThjY2JhOTVlYmM5ODQxNzVmM2NjOWYyYWQ2NjM2YTNmZjIxMWU2YWM5YWIxOTdhOGI1NGQyMTc2YzQ1MDdkNmI4OGRlZGMxNzI4ZSIsInQiOjE3MDgwOTg1ODgsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.ljZT_MGpCedgM_bIbTRZXDmrbheuc7btdO2HzWqLawM/McOS-MJV-1.1.tar.xz</payload>
+  <tags>unix,theme,mojave,linux,mac,source-package,gtk2,gtk3,cinnamon,xfce-414,gnome-36,gnome-38,gplv2-later,gnome,original-product,osx</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>McHigh Sierra</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1013714</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>87</rating>
+  <downloads>151680</downloads>
+  <installedfile>/home/eperezme/.themes/Sierra-dark-solid/*</installedfile>
+  <id>1013714</id>
+  <releasedate>2020-01-24</releasedate>
+  <summary>macOS High Sierra like theme for GTK 3, GTK 2 and Gnome-Shell etc.&lt;br />
+---------------------------------&lt;br />
+&lt;strong>Included themes&lt;/strong>&lt;br />
+---------------------------------&lt;br />
+&lt;strong>1&lt;/strong>: Gtk2 theme&lt;br />
+&lt;strong>2&lt;/strong>: Gtk3 theme&lt;br />
+&lt;strong>3&lt;/strong>:...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1013714/8bcd81cadfd39413bf49c034c59787a96ab9.jpg</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1013714/8bcd81cadfd39413bf49c034c59787a96ab9.jpg</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzk4ODYzNDQiLCJvIjoiMSIsInMiOiIxMzlkMWM3M2FhYjA5Yjc0ZWQ4MWUxYTQwNTU2OWJlZTAzNmYyNGQyZTRmYzVmYjBmMDNmNDlhOGI0NTNiOWRmMGNmNWJjZjQyNzlmZmQzMmIzMjg3NTNjZjc0N2NlZTYyZTlkNDcyY2I4ZTAzMWNmNDUwYzljZTg1ZWIyMDUwNiIsInQiOjE3MDgyNjI4MjEsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.9YR9CVhCEUR1JyErwMlhkXRxau52uAvQU60pegZTeY8/Sierra-dark-solid.tar.xz</payload>
+  <tags>gplv3,gnome,theme,unix,linux,macosx,highsierra,original-product,sierra</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

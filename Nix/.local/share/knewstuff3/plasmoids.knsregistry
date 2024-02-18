@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="105">
+  <name>Window Title Applet</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1274218</homepage>
+  <licence></licence>
+  <version>0.7.1</version>
+  <rating>88</rating>
+  <downloads>277009</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/plasmoids/org.kde.windowtitle</installedfile>
+  <id>1274218</id>
+  <releasedate>2022-09-24</releasedate>
+  <summary>This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;br />
+You can install this applet directly from Plasma 5 Widgets Explorer</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/02/97/22/1274218/df37cd6683d84974770df2c1641a819bd5c5.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Nzk3OTc0NTgiLCJvIjoiMSIsInMiOiJkYTMwMzc3NjgyOWM1YjczZjk0NmE5N2NkYWQxNTI1YTY0ZGM4NzU4ZGIyNDI2ODBjOTk0MGVlYzIwODJlMDk5ODJiYTE5OGNiMWJiMGNiMDJiYjBmOTYxMzA2MmUwOGU0NmRjNGU3OTFlOTA5NjMwMmVmM2IxY2RmOTE3YzFjMiIsInQiOjE3MDgwOTc3NTMsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.pT3vCirYoh7rara1CtUxE2ziuKYcT_DCqWLpfeDmVkU/applet-window-title-0.6.0.plasmoid</payload>
+  <tags>original-product,plasma##majorversion=5,plasma,panel,widget,window,gplv2,extension,title,unix,kde,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="399">
+  <name>Better inline clock</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>marianarlt</author>
+  <homepage>https://store.kde.org/p/1245902</homepage>
+  <licence></licence>
+  <version>3.1</version>
+  <rating>79</rating>
+  <downloads>367510</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/plasmoids/org.kde.plasma.betterinlineclock</installedfile>
+  <id>1245902</id>
+  <releasedate>2020-06-23</releasedate>
+  <summary>The hottest clock around!&lt;br />
+· Formats not found in any other clock, including custom!&lt;br />
+· Disable the separator with a simple check box!&lt;br />
+· Option for manual font size!&lt;br />
+· Correctly calculated width at any time and date!&lt;br />
+· Manual spacing and offsetting!&lt;br />
+· Everything on one single line, no more two-liners where you can't read anything!&lt;br />
+&lt;br />
+This clock started when the KDE digital clock would need spacer trickery and set off things badly. It now has become a highly customizable plasmoid that will fit great with any desktop.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/96/51/1245902/2e3d478b3cdfe43f6c902d3c667f6e43060d.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTI5NjY2NTUiLCJvIjoiMSIsInMiOiI3YjNjNzg2MDk1YzM3ZjU5YWUwMjZkYmIxOGExOTBkMTgxNTRlZjZlMTZmNGI4MjYyZTNlYjExZmQwNzk4NTMzMWI3OTJlOTUwYzk2Y2ZmODQxZDUwMGY1N2RjYWNhMDg0MzQ2MzI5ZTlmODNmMWU2MGVmMTkxOGFhODNkY2Y1YyIsInQiOjE3MDgwOTc3NTEsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.hy2P4J3fDLuCwH82r9C-_Ax6UYPKnNHfqHUsm7WLUow/betterinlineclock.tar.gz</payload>
+  <tags>extension,gplv3,clock,widget,plasma,plasma##majorversion=5,plasmoid,linux,kde,modification-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

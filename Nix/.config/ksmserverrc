@@ -1,0 +1,30 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[General]
+loginMode=emptySession
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=firefox
+count=1
+
+[Session: saved at previous logout]
+clientId1=10e169786f000170809195100000015470005
+clientId2=10e169786f000170809204400000015470006
+clientId3=10e169786f000170809205500000015470007
+count=3
+discardCommand1[$e]=rm,$HOME/.config/session/systemsettings_10e169786f000170809195100000015470005_1708092576_454297
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10e169786f000170809204400000015470006_1708092576_454293
+program1=/run/current-system/sw/bin/systemsettings5
+program2=/run/current-system/sw/bin/dolphin
+program3=/run/current-system/sw/bin/xterm
+restartCommand1=/run/current-system/sw/bin/systemsettings5,-session,10e169786f000170809195100000015470005_1708092576_454297,-name,systemsettings5
+restartCommand2=/run/current-system/sw/bin/dolphin,-session,10e169786f000170809204400000015470006_1708092576_454293,-name,dolphin
+restartCommand3=/run/current-system/sw/bin/xterm,-xtsessionID,10e169786f000170809205500000015470007,-xrm,xterm*initialFont:0,-xrm,xterm*allowBoldFonts:true,-xrm,xterm*forceBoxChars:false,-xrm,xterm*forcePackedFont:true,-xrm,xterm*fontDoublesize:true,-xrm,xterm*utf8Fonts:true,-xrm,xterm*faceSize:8\\,0,-xrm,xterm*faceName:mono,-xrm,xterm*renderFont:DefaultOff
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=eperezme
+userId2=eperezme
+userId3=eperezme

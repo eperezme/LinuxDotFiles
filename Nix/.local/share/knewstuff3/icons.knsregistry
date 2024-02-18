@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>La Capitaine</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>krourke</author>
+  <homepage>https://store.kde.org/p/1148695</homepage>
+  <licence></licence>
+  <version>v0.6.2</version>
+  <rating>83</rating>
+  <downloads>375549</downloads>
+  <installedfile>/home/eperezme/.local/share/icons/la-capitaine-icon-theme-0.3.2/*</installedfile>
+  <id>1148695</id>
+  <releasedate>2021-05-02</releasedate>
+  <summary>Announcements&lt;br />
+==========&lt;br />
+v0.6.2 is released with lots of new icons! We're back to a more active maintenance schedule, so look forward for more releases more often :)&lt;br />
+&lt;br />
+What is this?&lt;br />
+==========&lt;br />
+La Capitaine is an icon pack, designed to integrate with most...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/44/01/19/1148695/82682596e6c89475b2f21221d5dc61927887.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/44/01/19/1148695/82682596e6c89475b2f21221d5dc61927887.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0Nzk5MTMzNDQiLCJvIjoiMSIsInMiOiI0ZGE0MTY2ZDhkYjkxYzE0MWJmOGZkN2FiOTk0YTYwOTRlMjg4MTA3MTk5NGIxNzk3MGZhYmYyZjQxYWU5OGUwZTliNGQ3NGY3NWIxZjAwOGU3NTg4NjBiMWUzYmViNTg1NGQ1MjllNTU2YTMzYTBlODQ2OWEyNGIyZTIzYjM2NyIsInQiOjE3MDgwOTg3ODksInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.I7rlz1Bv7BZo-srX9S4PugqGGIqOXPk-5Rw84qbQrOE/la-capitaine-icon-theme-0.3.2.tar.gz</payload>
+  <tags>original-product,budgie,cinnamon,deepin,elementary,gnome,kde,lxde,lxqt,mate,xfce,gplv3,unix,icon-theme,linux</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>WhiteSur icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1405756</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>92</rating>
+  <downloads>23139</downloads>
+  <installedfile>/home/eperezme/.local/share/icons/WhiteSur/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/icons/WhiteSur-dark/*</installedfile>
+  <id>1405756</id>
+  <releasedate>2024-01-22</releasedate>
+  <summary>WhiteSur icon theme for linux desktops&lt;br />
+----------------------------&lt;br />
+You can use this icon theme with:&lt;br />
+----------------------------&lt;br />
+&lt;br />
+&lt;strong> Gtk theme &lt;/strong>&lt;br />
+&lt;br />
+WhiteSur-gtk-theme: &lt;br />
+&lt;a href="https://www.pling.com/p/1403328/" target="_blank" rel="nofollow">https://www.pling.com/p/1403328/&lt;/a>&lt;br />
+---------------------------&lt;br />
+&lt;br />
+&lt;strong> Kde theme &lt;/strong>&lt;br />
+&lt;br />
+WhiteSur-kde-theme: &lt;br />
+Dark version: &lt;a href="https://www.pling.com/p/1400409/" target="_blank" rel="nofollow">https://www.pling.com/p/1400409/&lt;/a>&lt;br />
+Light version: &lt;a href="https://www.pling.com/p/1398840/" target="_blank" rel="nofollow">https://www.pling.com/p/1398840/&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1405756/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1405756/db663c850dae98f46b3b7588ae264f28b8298a3c9d9ab63cf867a2cf936f786a3475.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDU5MzkyNzIiLCJvIjoiMSIsInMiOiI5ZTM3ZmIzZGIwOGJlMWM5ODJmYTljMGZiYTJjZTZmNmE5MWU4ODM4NzJkMTU4NTYzZjVkZTFlNTNmMzQ0NWY3Mjg3N2EzODkyNjQwN2M5YTgzZGNhODkwYzE0MGJjNjU2NTc3ODM2MDIzM2EzYjBmZTYwNzcxMmM4MzI1YzE4MyIsInQiOjE3MDgwOTgyODIsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.QsW8sTpmOcFVRzsWd5lbbkZi4X5zS9iuWLl-ibE7T2Y/01-WhiteSur.tar.xz</payload>
+  <tags>unix,original-product,icon-theme,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>PlasmaX icon theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>adhe</author>
+  <homepage>https://store.kde.org/p/1367155</homepage>
+  <licence></licence>
+  <version>0.2</version>
+  <rating>74</rating>
+  <downloads>141753</downloads>
+  <installedfile>/home/eperezme/.local/share/icons/PlasmaXDark/*</installedfile>
+  <id>1367155</id>
+  <releasedate>2020-04-17</releasedate>
+  <summary>&lt;span style="color: #1E92F7;">&lt;span style="text-decoration: underline;">&lt;strong>PlasmaX icons&lt;/strong>&lt;/span>&lt;/span>&lt;br />
+&lt;br />
+Based on the Aether and Breeze  icons for a Windows10X style &lt;br />
+&lt;br />
+&lt;span style="text-decoration: underline;">&lt;strong>&lt;span style="color: #0074D9;">Details for...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/53/17/49/1367155/f3c72501ed67fd5ee1f47fd2d2fe5964f88f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/53/17/49/1367155/f3c72501ed67fd5ee1f47fd2d2fe5964f88f.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODcxODA0ODUiLCJvIjoiMSIsInMiOiI3Yzc0OWYwMzAzNTVhNWIzZGRmODU3MWI1NTFkNjU1NTVkMDQyY2NhNjdhNGY5NjIyNWIxYjYxNzM4YzdiYjgxODE2NWRiZDU4NmJiNGUwZjIzNDkyMzkzNjcyMTE1ZDRkNzBkMzI2YjA5ZWVhYWZkNDA1YmE0OTIxOGRhM2YyNSIsInQiOjE3MDgwOTg3NTcsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.hqG_9BjEcYVy3QHEXIyP2hLuYQ8qvCddo5o-1HLhgDo/PlasmaXDark.tar.gz</payload>
+  <tags>unix,linux,modification-product,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="132">
+  <name>Tela-icon-theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1279924</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>93</rating>
+  <downloads>20320</downloads>
+  <installedfile>/home/eperezme/.local/share/icons/Tela-light/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/icons/Tela-dark/*</installedfile>
+  <installedfile>/home/eperezme/.local/share/icons/Tela/*</installedfile>
+  <id>1279924</id>
+  <releasedate>2024-01-17</releasedate>
+  <summary>&lt;strong> Tela Icon Theme &lt;/strong>&lt;br />
+A flat colorful Design icon theme&lt;br />
+You can use this theme on all popular desktops&lt;br />
+------------------------------&lt;br />
+&lt;strong> Full circular version &lt;/strong>&lt;br />
+Tela-circle: &lt;br />
+&lt;a href="https://www.gnome-look.org/p/1359276/" target="_blank" rel="nofollow">https://www.gnome-look.org/p/1359276/&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;strong> Based on &lt;/strong>&lt;br />
+1. numix-icon-theme-circle: &lt;br />
+&lt;a href="https://github.com/numixproject/numix-icon-theme-circle" target="_blank" rel="nofollow">https://github.com/numixproject/numix-icon-theme-circle&lt;/a>&lt;br />
+2. papirus-icon-theme: &lt;br />
+&lt;a href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" target="_blank" rel="nofollow">https://github.com/PapirusDevelopmentTeam/papirus-icon-theme&lt;/a>&lt;br />
+3. paper-icon-theme: &lt;br />
+&lt;a href="https://github.com/snwh/paper-icon-theme" target="_blank" rel="nofollow">https://github.com/snwh/paper-icon-theme&lt;/a>&lt;br />
+------------------------------&lt;br />
+&lt;br />
+&lt;strong> Supported desktops &lt;/strong>&lt;br />
+&lt;br />
+&lt;strong>1.&lt;/strong> Gnome&lt;br />
+&lt;strong>2.&lt;/strong> Kde Plasma&lt;br />
+&lt;strong>3.&lt;/strong> Budgie&lt;br />
+&lt;strong>4.&lt;/strong> Cinnamon&lt;br />
+&lt;strong>5.&lt;/strong> Elementary Pantheon&lt;br />
+&lt;strong>6.&lt;/strong> Xfce4&lt;br />
+&lt;strong>7.&lt;/strong> Mate&lt;br />
+&lt;strong>...&lt;/strong>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Github&lt;/strong>: &lt;a href="https://github.com/vinceliuice/Tela-icon-theme" target="_blank" rel="nofollow">https://github.com/vinceliuice/Tela-icon-theme&lt;/a>&lt;br />
+&lt;br />
+------------------------------&lt;br />
+&lt;strong>Donation&lt;/strong>: &lt;a href="https://www.paypal.me/vinceliuice" target="_blank" rel="nofollow">https://www.paypal.me/vinceliuice&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/32/24/44/1279924/84511eab3c160a3a10e87db30ee4ae8a70c1.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE3MDU1MTA1ODgiLCJvIjoiMSIsInMiOiI1Y2IwODUyOTExNTc3NDNhNTllOGNlODk3YTg1MmI0OTJiYTM2YTYwNzFjZjkyOWI2MDVjNDAyNGU2ZjcwYmIyNmZiYWJhNzcwYjM2YjE4OTM3MDliZDY4M2I5MzU0MTNjMDNkMjQ5NDc3NzVmZWI4ODA3NDgxNmVkZTc1ZTIxNiIsInQiOjE3MDgwOTczMTksInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.0QLtRg_s45kfUnbG0jvXE2X41hgTMzcJ-l_u515w-p4/01-Tela.tar.xz</payload>
+  <tags>linux,icon-theme,gplv3,original-product,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-html
+Name=nixpkgs-fmt
+Type=Link
+URL[$e]=https://github.com/nix-community/nixpkgs-fmt
+X-KDE-LastOpenedWith=google-chrome

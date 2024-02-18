@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>Kuro</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>kartiksindura</author>
+  <homepage>https://store.kde.org/p/1871277</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>73</rating>
+  <downloads>26149</downloads>
+  <installedfile>/home/eperezme/.local/share/plasma/look-and-feel/Cat</installedfile>
+  <id>1871277</id>
+  <releasedate>2022-08-01</releasedate>
+  <summary>Splash screen for arch users.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/67/22/86/1871277/screenshot-20220802-021603.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/67/22/86/1871277/screenshot-20220802-021603.png</previewBig>
+  <payload>https://files04.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NTkzODgwMDciLCJvIjoiMSIsInMiOiJkNzEyNTRkNTViODE3ZDI3OGUxOTkyNWYyZWQ5OWQyZTgzNDFkZDQyNzU2ODM0ODc0ZmRmMDk0YjhmMDRiYjVlY2M1N2RjOTdmY2Y5ZGIzZmFkNDU0ZjBjOTViOGE1MDFlYzJhMDkzMzE5OGZmMDExOWZkZGJlOGMwZTFlNmRlOCIsInQiOjE3MDgwOTg4ODUsInN0ZnAiOm51bGwsInN0aXAiOiI5Mi41OS4xMjcuOTEifQ.QD2IWr_m_r1cyDmVeQ8UyP0Eb7TDpSui7Y0-gEm2VtQ/Cat.tar.gz</payload>
+  <tags>linux,kde,splashscreen,theme,unix,cat,black,plasma,plasma##majorversion=5,original-product,sleeping,arch</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
